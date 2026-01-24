@@ -1,27 +1,434 @@
 folder,release_id,artist,title,year,country,label,catno,genre,style,img
+Personal,7972850,10cc,How Dare You!,1976,US,Mercury,SRM-1-1061,Rock,Art Rock,images/580d6db6b265309d.jpeg
+Personal,3723094,Adolph von Henselt,Henselt,1969,US,Candide,CE 31011,Classical,Romantic,images/b252981c1aad9c4a.jpeg
+Personal,19248259,Al Stewart,Time Passages,1978,US,Arista,AB-4190,Rock,Folk Rock,images/b5a83f2298a8d417.jpeg
+Personal,4911086,Al Stewart,Year Of The Cat,1976,US,Janus Records,JXS-7022,Rock,Pop Rock,images/3bbd35256d025344.jpeg
+Personal,209358,The Alan Parsons Project,I Robot,1977,US,Arista,AL 7002,Rock,Prog Rock,images/9b6780dd8527fd42.jpeg
+Personal,1709167,The Allman Brothers Band,"Wipe The Windows, Check The Oil, Dollar Gas",1976,US,Capricorn Records,2CX0177,Rock,Southern Rock,images/49ef6db19dddb438.jpeg
+Personal,2030679,Ambrosia (2),Ambrosia,1975,US,20th Century Records,T-434,Rock,Art Rock,images/61198bb508cec3f3.jpeg
+Personal,15111951,America (2),America,1971,US,Warner Bros. Records,BS 2576,Rock,Soft Rock,images/30ec0dbc4915ad87.jpeg
+Personal,13981135,America (2),Hearts,1975,US,Warner Bros. Records,BS2852,Rock,Rock & Roll,images/ff19376016d9b9a6.jpeg
+Personal,15977772,America (2),Holiday,1974,US,Warner Bros. Records,W 2808,Rock,Soft Rock,images/0dab13a13c2fb50b.jpeg
+Personal,5084047,America (2),Homecoming,1972,US,Warner Bros. Records,BS 2655,Rock,Folk Rock,images/6351962957d1b17b.jpeg
+Personal,23518835,Andrew Lloyd Webber,Cats: Selections From The Original Broadway Cast Recording,1983,US,Geffen Records,GHS 2026,Stage & Screen,Musical,images/0e6efbcd62bf62cf.jpeg
+Personal,14853735,The Animals,The Animals,1964,US,MGM Records,SE 4264,Rock,Classic Rock,images/2be57a963b6b5db6.jpeg
+Personal,2928836,Aretha Franklin,Aretha's Gold,1969,US,Atlantic,SD 8227,Funk / Soul,Soul,images/8d9953459e7469b1.jpeg
+Personal,14726707,Arlo Guthrie,Alice's Restaurant,1976,US,Reprise Records,6267,Rock,Folk Rock,images/0cc1dbf6dbcefee3.jpeg
+Personal,3089945,Arlo Guthrie,Power Of Love,1981,US,Warner Bros. Records,BSK 3558,Blues,Country,images/b2f6e30d025af43e.jpeg
+Personal,1623917,Arlo Guthrie,Running Down The Road,1969,US,Reprise Records,RS 6346,Rock,Folk Rock,images/daf8cde0203b809b.jpeg
+Personal,14572110,Arlo Guthrie,One Night,1978,US,Warner Bros. Records,BSK 3232,"Folk, World, & Country",Folk,images/75e79a66de7da874.jpeg
+Personal,5881690,Asia (2),Asia,1982,US,Geffen Records,GHS 2008,Rock,Pop Rock,images/2aab541f7ce67b88.jpeg
+Personal,8001899,Atlanta Rhythm Section,A Rock And Roll Alternative,1976,US,Polydor,PD-1-6080,Rock,Southern Rock,images/c14f31ebfce6cf06.jpeg
+Personal,2319933,Average White Band,AWB,1974,US,Atlantic,SD 7308,Funk / Soul,Funk,images/026ad351b2fa3aab.jpeg
+Personal,2584460,Average White Band,Soul Searching,1976,US,Atlantic,SD 18179,Jazz,Smooth Jazz,images/3dfd4c2711edf3c1.jpeg
+Personal,1444223,Bachman-Turner Overdrive,Best Of B.T.O. (So Far),1976,US,Mercury,SRM-1-1101,Rock,Classic Rock,images/de11ed87fa13edaf.jpeg
+Personal,1458503,Bachman-Turner Overdrive,Four Wheel Drive,1975,US,Mercury,SRM-1-1027,Rock,Hard Rock,images/05904f97121a852a.jpeg
+Personal,1626427,Bachman-Turner Overdrive,Not Fragile,1974,US,Mercury,SRM-1-1004,Rock,Classic Rock,images/cc5359e74f536fb1.jpeg
+Personal,4683521,The Band,Rock Of Ages (The Band In Concert),1975,US,Capitol Records,SABB-11045,Rock,Folk Rock,images/a13af7d4168fa884.jpeg
+Personal,611439,The Beatles,Beatles '65,1964,US,Capitol Records,T 2228,Rock,Beat,images/3a82ec959e02df8e.jpeg
+Personal,12613640,The Beatles,Magical Mystery Tour,1976,US,Capitol Records,SMAL-2835,Rock,Psychedelic Rock,images/c955543f734300d1.jpeg
+Personal,5945176,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,1967,US,Capitol Records,SMAS 2653,Rock,Rock & Roll,images/2f69dd6450f354f9.jpeg
+Personal,2609020,The Beatles,The Beatles' Second Album,1964,US,Capitol Records,T 2080,Rock,Beat,images/08e167aaebad39b8.jpeg
+Personal,14230496,Berlin,Love Life,1984,US,Geffen Records,GHS 4025,Electronic,New Wave,images/783f6edae8351d40.jpeg
+Personal,13608826,Bill Withers,Just As I Am,1971,US,Sussex,SXBS 7006,Funk / Soul,Soul,images/47b5c18e2c8a2d9e.jpeg
+Personal,3203906,Bill Withers,Still Bill,1972,US,Sussex,SXBS 7014,Funk / Soul,Soul,images/028b5334c3e02e66.jpeg
+Personal,5920983,Black Oak Arkansas,High On The Hog,1974,Germany,Atlantic,ATL 40 538,Rock,Rock & Roll,images/33e04a1ce68ba670.jpeg
+Personal,29450287,Black Oak Arkansas,Raunch 'N' Roll Live,1973,US,ATCO Records,SD 7019,Rock,Rock & Roll,images/ecaae331782f4f28.jpeg
+Personal,6732637,Black Sabbath,Black Sabbath,1970,US,Warner Bros. Records,WS 1871,Rock,Hard Rock,images/57da110c3eee6c08.jpeg
+Personal,380907,Black Sabbath,Sabotage,1975,US,Warner Bros. Records,BS 2822,Rock,Hard Rock,images/865523ca7f71f843.jpeg
+Personal,707939,"Blood, Sweat And Tears","B, S & T 4",1971,US,Columbia,KC 30590,Rock,Blues Rock,images/32dc0ab87406aa06.jpeg
+Personal,15221571,"Blood, Sweat And Tears","Blood, Sweat & Tears",1969,US,Columbia,CS 9720,Rock,Blues Rock,images/7645040cb525beed.jpeg
+Personal,707932,"Blood, Sweat And Tears","Blood, Sweat & Tears Greatest Hits",1972,US,Columbia,KC 31170,Jazz,Blues Rock,images/e4377eae634b8757.jpeg
+Personal,11657141,"Blood, Sweat And Tears","Blood, Sweat And Tears 3",1970,US,Columbia,KC 30090,Rock,Jazz-Rock,images/46b61ee7c0c59787.jpeg
+Personal,15213353,"Blood, Sweat And Tears",Brand New Day,1977,US,ABC Records,AB-1015,Rock,Soft Rock,images/e58d10aceb897f5f.jpeg
+Personal,708657,"Blood, Sweat And Tears",New Blood,1972,US,Columbia,KC 31780,Jazz,Blues Rock,images/aec0f90da35a9f56.jpeg
+Personal,11105483,The Blues Brothers,Briefcase Full Of Blues,1978,US,Atlantic,SD 19217,Blues,Chicago Blues,images/9f347ee617e251f0.jpeg
+Personal,2584801,Blues Magoos,Electric Comic Book,1967,US,Mercury,SR 61104,Rock,Psychedelic Rock,images/102a81f11dc17498.jpeg
+Personal,12316185,Bob Seger And The Silver Bullet Band,Against The Wind,1980,US,Capitol Records,SOO-12041,Rock,Blues Rock,images/d1b04ed5766c2cdf.jpeg
+Personal,574663,Bob Seger And The Silver Bullet Band,Against The Wind,1980,US,Capitol Records,SOO-12041,Rock,Blues Rock,images/252731e5334264de.jpeg
+Personal,19189204,Bob Seger And The Silver Bullet Band,Live Bullet,1976,US,Capitol Records,SKBB-11523,Rock,Rock & Roll,images/235feafd34dce364.jpeg
+Personal,13925161,Bob Seger And The Silver Bullet Band,Night Moves,1986,US,Capitol Records,ST-11557,Rock,Pop Rock,images/c06613502ccc3063.jpeg
+Personal,10244818,Bob Seger And The Silver Bullet Band,Stranger In Town,1978,US,Capitol Records,SW-11698,Rock,Rock & Roll,images/b137747f32afa079.jpeg
+Personal,25896247,Bob Seger And The Silver Bullet Band,Stranger In Town,1978,US,Capitol Records,SW-11698,Rock,Rock & Roll,images/94fbb4d6728f7119.jpeg
+Personal,1846088,Bob Seger And The Silver Bullet Band,The Distance,1982,US,Capitol Records,ST-12254,Rock,Classic Rock,images/d993f768281457d7.jpeg
+Personal,713519,Boz Scaggs,Silk Degrees,1976,US,Columbia,PC 33920,Rock,Pop Rock,images/67c80956255c1470.jpeg
+Personal,1318761,Brand X (3),Moroccan Roll,1977,US,Passport Records,PP 98022,Jazz,Fusion,images/754e602148fa9d4e.jpeg
+Personal,8712484,Brothers Johnson,Right On Time,1977,US,A&M Records,SP-4644,Funk / Soul,Soul,images/73e6e2406b617f98.jpeg
+Personal,2914833,Buddy Rich,Buddy Rich Plays And Plays And Plays,1977,US,RCA,CPL1-2273,Jazz,Big Band,images/f401cfd340c7a737.jpeg
+Personal,15833740,Buffalo Springfield,Last Time Around,1968,US,ATCO Records,SD33-256,Rock,Folk Rock,images/fc8aaf3dcb707dd6.jpeg
+Personal,1306381,Buffalo Springfield,Retrospective The Best Of Buffalo Springfield,1969,US,ATCO Records,SD 33-283,Rock,Folk Rock,images/350ce67e36fe5982.jpeg
+Personal,2754865,The Byrds,"The Best Of The Byrds   Greatest Hits, Volume II",1972,US,Columbia,KC 31795,Rock,Folk Rock,images/6084a9a707c08b54.jpeg
+Personal,10200833,The Byrds,Younger Than Yesterday,1967,US,Columbia,CS 9442,Rock,Folk Rock,images/6f6340d8e65ce76d.jpeg
+Personal,1871139,Carole King,Really Rosie,1975,US,Ode Records (2),SP 77027,Rock,Soundtrack,images/6c7c150572cf28d2.jpeg
+Personal,19543894,The Cars,The Cars,1978,US,Elektra,6E-135,Rock,New Wave,images/dd2ace5a2eba07f2.jpeg
+Personal,8809716,Cat Stevens,Catch Bull At Four,1972,US,A&M Records,SP 4365,Rock,Acoustic,images/7fcaa52b57046db5.jpeg
+Personal,19865356,Cat Stevens,Tea For The Tillerman,1970,US,A&M Records,SP 4280,Rock,Folk Rock,images/ae3bd0193ddac54e.jpeg
+Personal,22042291,Charley Pride,Country Feelin',1974,US,RCA Victor,APL1-0534,"Folk, World, & Country",Country,images/2781f9f985e65f45.jpeg
+Personal,10154266,Charlie Byrd,Bossa Nova Pelos Passaros,1966,US,Riverside Records,RM 436,Jazz,Bossa Nova,images/7b1a1ca1faf06b34.jpeg
+Personal,3416962,Charlie Byrd,For All We Know,1971,US,Columbia,G 30622,Jazz,Cool Jazz,images/adbf94861103c391.jpeg
+Personal,1811618,Charlie Rich,Behind Closed Doors,1973,US,Epic,PE 32247,"Folk, World, & Country",Country,images/01f071e7d17e1a38.jpeg
+Personal,14030160,Cher,Chér,1971,US,Kapp Records,KS 3649,Pop,Pop Rock,images/466b5cae42f3272b.jpeg
+Personal,9083953,Chicago (2),Chicago,1970,US,Columbia,KGP 24,Jazz,Jazz-Rock,images/8c6d2b8dc62cdfc8.jpeg
+Personal,2172078,Chicago (2),Chicago Transit Authority,1969,US,Columbia,GP 8,Jazz,Blues Rock,images/f499796c418a1998.jpeg
+Personal,604619,Christopher Cross,Christopher Cross,1979,US,Warner Bros. Records,BSK 3383,Rock,Soft Rock,images/73106fd8777d563d.jpeg
+Personal,29346046,Climax Blues Band,Gold Plated,1976,US,Sire,SASD-7523,Rock,Blues Rock,images/c778f9fd0d8d2ae2.jpeg
+Personal,3182696,Count Basie Orchestra,The Best Of Count Basie,1963,US,Decca,DXSB-7170,Jazz,Big Band,images/6fd3dfbf959ed152.jpeg
+Personal,7221437,Creedence Clearwater Revival,Bayou Country,1969,US,Fantasy,8387,Rock,Folk Rock,images/aef335bb870ca505.jpeg
+Personal,2754978,Creedence Clearwater Revival,Creedence Clearwater Revival,1968,US,Fantasy,8382,Rock,Rock & Roll,images/a735258136388bd6.jpeg
+Personal,1064514,"Crosby, Stills & Nash","Crosby, Stills & Nash",1969,US,Atlantic,SD-8229,Rock,Folk Rock,images/8d23c56e8386697a.jpeg
+Personal,8581359,"Crosby, Stills, Nash & Young",4 Way Street,1971,US,Atlantic,SD 2-902,Rock,Folk Rock,images/81dc8d5e2357a388.jpeg
+Personal,1132195,"Crosby, Stills, Nash & Young",Déjà Vu,1970,US,Atlantic,SD 7200,Rock,Folk Rock,images/90f06a0a2bd7a502.jpeg
+Personal,14580604,The Crusaders,Those Southern Knights,1976,US,ABC Blue Thumb,BTSD-6024,Jazz,Jazz-Funk,images/79819b2e1e12b7ff.jpeg
+Personal,16297143,The Crusaders,Unsung Heroes,1973,US,Blue Thumb Records,BTS 6007,Jazz,Jazz-Funk,images/e562e50afa570e3d.jpeg
+Personal,2922219,Culture Club,Colour By Numbers,1983,US,Epic,QE 39107,Electronic,Pop Rock,images/b4a30efd60a957fb.jpeg
+Personal,10655391,Dan Fogelberg,Home Free,1972,US,Columbia,KC 31751,Rock,Soft Rock,images/0c4510b1bf5410e8.jpeg
+Personal,1342893,Dan Fogelberg,The Innocent Age,1981,US,Full Moon,KE2 37393,Rock,Folk Rock,images/021bc34f2739c19b.jpeg
+Personal,5455378,Deep Purple,24 Carat Purple,1975,UK,Purple Records,TPSM 2002,Rock,Hard Rock,images/fefd46b05451fff3.jpeg
+Personal,8816949,Deep Purple,Made In Japan,1973,US,Warner Bros. Records,2WS 2701,Rock,Hard Rock,images/129b49a93a56ab01.jpeg
+Personal,15436497,Derek & The Dominos,Layla And Other Assorted Love Songs,1973,US,ATCO Records,SD 2-704,Rock,Blues Rock,images/0843d482bd721a68.jpeg
+Personal,6283914,Dionne Warwick,Golden Hits - Part One,1967,US,Scepter Records,SPS 565,Funk / Soul,Soul,images/533b4e10b248fafb.jpeg
+Personal,11527917,Don McLean,American Pie,1971,US,United Artists Records,UAS-5535,Rock,Folk Rock,images/93caa7dbdf8e5131.jpeg
+Personal,26974199,The Doobie Brothers,Best Of The Doobies,1976,US,Warner Bros. Records,BS 2978,Rock,Southern Rock,images/d403cea0138ce266.jpeg
+Personal,2072210,The Doobie Brothers,Best Of The Doobies,1976,US,Warner Bros. Records,BS 2978,Rock,Southern Rock,images/4adb309c327b8083.jpeg
+Personal,32331060,The Doobie Brothers,Minute By Minute,1978,US,Warner Bros. Records,BSK 3193,Rock,Pop Rock,images/a5f431be83e10626.jpeg
+Personal,4886227,The Doobie Brothers,One Step Closer,1980,US,Warner Bros. Records,HS 3452,Rock,Pop Rock,images/f0e9e62478489c80.jpeg
+Personal,1328141,The Doobie Brothers,Takin' It To The Streets,1976,US,Warner Bros. Records,BS 2899,Rock,Pop Rock,images/f1c9d7b92590928c.jpeg
+Personal,26291786,The Doobie Brothers,The Captain And Me,1973,US,Warner Bros. Records,BS 2694,Rock,Classic Rock,images/33abcf74152831f7.jpeg
+Personal,9751811,The Doobie Brothers,The Captain And Me,1974,US,Warner Bros. Records,BS 2694,Rock,Classic Rock,images/f1f417db610e2c12.jpeg
+Personal,17512366,The Doobie Brothers,Toulouse Street,1972,US,Warner Bros. Records,BS 2634,Rock,,images/27bd447e9ed8be72.jpeg
+Personal,1591740,The Doobie Brothers,What Were Once Vices Are Now Habits,1974,US,Warner Bros. Records,W 2750,Rock,Soft Rock,images/096a60937369b693.jpeg
+Personal,4477424,Dottie West,Wild West,1981,US,Liberty,LT-1062,"Folk, World, & Country",Country,images/af877d4148dd8ac9.jpeg
+Personal,4066954,Dr. West's Medicine Show And Junk Band,The Eggplant That Ate Chicago,1967,US,A Go Go Record,22 17 001,Rock,Psychedelic Rock,images/7e71e158199a0851.jpeg
+Personal,1340170,Dreamgirls Original Broadway Cast,Dreamgirls Original Broadway Cast Album,1982,US,Geffen Records,GHSP 2007,Electronic,Rhythm & Blues,images/a41e5cc0f2e4f710.jpeg
+Personal,1934367,Eagles,Hotel California,1976,US,Asylum Records,7E-1084,Rock,Classic Rock,images/d8beb3c1ff0705b0.jpeg
+Personal,3062611,Earl Bostic,The Earl Of Bostic,1966,US,Design Records (2),SDLP-232,Jazz,Easy Listening,images/646cb661b830ae41.jpeg
+Personal,9377143,"Earth, Wind & Fire",Gratitude,1975,US,Columbia,PG 33694,Funk / Soul,Soul,images/46f5bd3ae2c30ec3.jpeg
+Personal,546672,"Earth, Wind & Fire",Head To The Sky,1973,US,Columbia,KC 32194,Jazz,Soul-Jazz,images/c9176c2390fb2135.jpeg
+Personal,1441727,"Earth, Wind & Fire",Touch The World,1987,US,Columbia,FC 40596,Electronic,Smooth Jazz,images/ba1359c551898783.jpeg
+Personal,4722722,The Edgar Winter Group,They Only Come Out At Night,1972,US,Epic,KE 31584,Rock,Classic Rock,images/91920874adc23130.jpeg
+Personal,548079,Electric Light Orchestra,Olé ELO,1976,US,United Artists Records,UA-LA630-G,Rock,Pop Rock,images/335f681a0a30d22c.jpeg
+Personal,1145673,Electric Light Orchestra,Xanadu (From The Original Motion Picture Soundtrack),1980,US,MCA Records,MCA-6100,Electronic,Disco,images/f047aa6a4779933f.jpeg
+Personal,6107908,Elton John,Goodbye Yellow Brick Road,1973,US,MCA Records,MCA2-10003,Rock,Pop Rock,images/944be13a48ad9ebd.jpeg
+Personal,9236051,Elton John,Madman Across The Water,1971,US,UNI Records,93120,Rock,Pop Rock,images/70d587ec99d9a198.jpeg
+Personal,1022862,Elton John,Rock Of The Westies,1975,US,MCA Records,MCA-2163,Rock,Rock & Roll,images/7dd2a3a2e997d165.jpeg
+Personal,6775880,"Emerson, Lake & Palmer",Brain Salad Surgery,1973,US,Manticore,MC 66669,Rock,Psychedelic Rock,images/d2a7634a871c90bd.jpeg
+Personal,1276799,"Emerson, Lake & Palmer",Brain Salad Surgery,1977,US,Atlantic,SD 19124,Rock,Prog Rock,images/aa48387bfead955c.jpeg
+Personal,9481199,"Emerson, Lake & Palmer","Emerson, Lake & Palmer",1970,Canada,Cotillion,SD 9040,Rock,Prog Rock,images/98fa9096f21ab17b.jpeg
+Personal,30839370,"Emerson, Lake & Palmer",Love Beach,1978,US,Atlantic,SD 19211,Rock,Soft Rock,images/0d2a88f7e161af13.jpeg
+Personal,606407,"Emerson, Lake & Palmer",Tarkus,1971,US,Cotillion,SD 9900,Rock,Prog Rock,images/25d5262d852897be.jpeg
+Personal,1343578,"Emerson, Lake & Palmer",Trilogy,1972,US,Cotillion,SD 9903,Rock,Prog Rock,images/e96d9263798b5d5c.jpeg
+Personal,4339157,"Emerson, Lake & Palmer",Trilogy,1972,US,Cotillion,SD 9903,Rock,Prog Rock,images/7a432171fa070585.jpeg
+Personal,15492513,"Emerson, Lake & Palmer",Welcome Back My Friends To The Show That Never Ends - Ladies And Gentlemen,1974,US,Manticore,MC 3-200,Rock,Prog Rock,images/b7ecea1a7563b217.jpeg
+Personal,6296670,"Emerson, Lake & Palmer",Welcome Back My Friends To The Show That Never Ends - Ladies And Gentlemen,1974,US,Manticore,MC 3-200,Rock,Prog Rock,images/5b0a02ddae473c40.jpeg
+Personal,18476254,"Emerson, Lake & Palmer",Welcome Back My Friends To The Show That Never Ends ~ Ladies And Gentlemen,1974,US,Manticore,MC 3-200,Rock,Prog Rock,images/afe6e3dfa7509e71.jpeg
+Personal,7734772,"Emerson, Lake & Palmer",Works (Volume 1),1977,US,Atlantic,SD 2-7000,Rock,Prog Rock,images/227e7b5151404c0c.jpeg
+Personal,33672273,Everly Brothers,Stories We Could Tell,1972,US,RCA Victor,LSP-4620,Rock,Country Rock,images/c66c007ac534d1d4.jpeg
+Personal,9290923,The Family Of Mann,First Light,1974,US,Atlantic,SD 1658,Jazz,Fusion,images/8a4e13b4a6135fae.jpeg
+Personal,2875657,The Fifth Dimension,Greatest Hits On Earth,1972,US,Bell Records,BELL 1106,Funk / Soul,Soul,images/1f2aa9fd216817a1.jpeg
+Personal,723601,Fleetwood Mac,Future Games,1972,US,Reprise Records,RS 6465,Rock,Classic Rock,images/e143ddaf4271b23f.jpeg
+Personal,1150314,Focus (2),Moving Waves,1971,US,Sire,SAS 7401,Rock,Prog Rock,images/b02b58354d28316c.jpeg
+Personal,401505,Foghat,Energized,1974,US,Bearsville,BR 6950,Rock,Rock & Roll,images/bcdda5632acee2bf.jpeg
+Personal,6033901,Foghat,Foghat,1973,US,Bearsville,BR 2136,Rock,Blues Rock,images/9096a13ab34607fb.jpeg
+Personal,5807292,Foghat,Foghat,1973,US,Bearsville,BR 2136,Rock,Blues Rock,images/2252f64576fd30b0.jpeg
+Personal,8437956,Foghat,Fool For The City,1975,US,Bearsville,BR 6959,Rock,Rock & Roll,
+Personal,6359578,Foghat,Stone Blue,1978,US,Bearsville,BRK 6977,Rock,Blues Rock,images/66b5bf62d5f927f5.jpeg
+Personal,18400936,Foreigner,Foreigner,1977,US,Atlantic,SD 19109,Rock,Hard Rock,images/c4d165fa5c86a545.jpeg
+Personal,1325889,Foreigner,Head Games,1979,US,Atlantic,SD 29999,Rock,Pop Rock,images/c764b357383cafca.jpeg
+Personal,7156066,Frankie Goes To Hollywood,Welcome To The Pleasuredome,1984,US,Island Records,7 90232-1-H,Rock,New Wave,images/4900c2053608f14a.jpeg
+Personal,1889173,Gabriel Bondage,Another Trip To Earth,1977,US,Dharma Records (4),D-808,Rock,Symphonic Rock,images/51a0da0f61c0e6d0.jpeg
+Personal,6509777,Genesis,Invisible Touch,1986,US,Atlantic,81641-1-E,Rock,Soft Rock,images/d800ec7ed3472571.jpeg
+Personal,736216,Genesis,Three Sides Live,1982,US,Atlantic,SD 2-2000,Rock,Prog Rock,images/a26e0a9e700109a0.jpeg
+Personal,9188476,George Carlin,A Place For My Stuff,1981,US,Atlantic,SD 19326,Non-Music,Comedy,images/adc19b5a47fe627b.jpeg
+Personal,11139967,George Hurst,Great Moments In Wagner,1970,US,London Records,SPC 21040,Classical,Contemporary,images/6410c00a5278d99c.jpeg
+Personal,6413214,Gerry Rafferty,City To City,1978,US,United Artists Records,UA-LA840-G,Rock,Pop Rock,images/b92673cce2bfa62a.jpeg
+Personal,2539516,Good Rats,Tasty,1978,US,Ratcity Records,RCR 8002,Rock,Hard Rock,images/3e0372a875d2c338.jpeg
+Personal,10755324,Gorillaz,Plastic Beach,2010,Europe,Parlophone,5099962616614,Electronic,Leftfield,images/28c1c319f1f9f7be.jpeg
+Personal,2440818,Gorillaz,Plastic Beach,2010,UK,Parlophone,5099962616614,Electronic,Leftfield,images/9c23c6e02b3ec0f2.jpeg
+Personal,10268592,Grand Funk Railroad,Closer To Home,1972,US,Capitol Records,SKAO-471,Rock,Hard Rock,images/f4154dd35056f4af.jpeg
+Personal,3782941,Grand Funk Railroad,Survival,1971,US,Capitol Records,SW-764,Rock,Hard Rock,images/a47a5f7273a0aa94.jpeg
+Personal,7345073,The Guess Who,The Best Of The Guess Who,1973,US,Scepter Records,CTN 18021,Rock,Garage Rock,images/87c785872a2fd71a.jpeg
+Personal,2909858,The Guess Who,The Greatest Of The Guess Who,1977,US,RCA Victor,APL1-2253,Rock,Classic Rock,images/79bd4a9a2de4b98f.jpeg
+Personal,3984379,Gustav Holst,The Planets,1979,US,London Records,CS7110,Classical,Modern,images/8a6f5977d322aafe.jpeg
+Personal,26892098,Harry Belafonte,Belafonte At Carnegie Hall,1959,USA & Canada,RCA Victor,LSO-6006 (2),Latin,,images/a4d03790f61dccc1.jpeg
+Personal,7655447,Harry Chapin,Short Stories,1973,US,Elektra,EKS-75065,Rock,Folk Rock,images/fed7f4b9b599c8f9.jpeg
+Personal,33511241,Harry Nilsson,Nilsson Schmilsson,1971,US,RCA Victor,LSP-4515,Rock,Pop Rock,images/bdbed57016323500.jpeg
+Personal,1058086,Herbie Mann,Bird In A Silver Cage,1976,US,Atlantic,SD 18209,Jazz,Jazz-Funk,images/21cd75bfd5268ad8.jpeg
+Personal,3438890,Herbie Mann,Bird In A Silver Cage,1976,US,Atlantic,SD 18209,Jazz,Jazz-Funk,images/ebf6fd985be625be.jpeg
+Personal,11553941,Herbie Mann,London Underground,1974,US,Atlantic,SD 1648,Jazz,Bop,images/8785b3e3f717409b.jpeg
+Personal,1663013,Herbie Mann,Mississippi Gambler,1972,US,Atlantic,SD 1610,Jazz,,images/3d263975173c980c.jpeg
+Personal,2187332,Herbie Mann,Our Mann Flute,1966,US,Atlantic,SD 1464,Jazz,,images/a11bb2decdf751f2.jpeg
+Personal,8044616,Herbie Mann,Right Now,1962,US,Atlantic,SD 1384,Jazz,Latin Jazz,images/797c38ce3268cfe4.jpeg
+Personal,1678997,Herbie Mann,The Inspiration I Feel,1968,US,Atlantic,SD 1513,Jazz,Soul-Jazz,images/d37d77ca68198dc5.jpeg
+Personal,1625899,Herbie Mann,Turtle Bay,1973,US,Atlantic,SD 1642,Jazz,Jazz-Rock,images/09d011ca64901794.jpeg
+Personal,681035,Herbie Mann,Herbie Mann & Fire Island,1977,US,Atlantic,SD 19112,Jazz,Jazz-Funk,images/adadb4d7ece200b0.jpeg
+Personal,7771663,The Herbie Mann Afro-Jazz Sextet + Four Trumpets,The Common Ground,1960,US,Atlantic,SD 1343,Jazz,Afro-Cuban Jazz,images/0c769ea5e34485ad.jpeg
+Personal,7858791,Hot Tuna,"First Pull Up, Then Pull Down",1971,US,RCA Victor,LSP-4550,Rock,Blues Rock,images/d13925887fd37d6f.jpeg
+Personal,7263495,Humble Pie,Smokin',1972,US,A&M Records,SP 4342,Rock,Blues Rock,images/0e11832d99b4e423.jpeg
+Personal,8110264,Igor Stravinsky,Le Sacre Du Printemps (The Rite Of Spring),1982,US,Musical Heritage Society,MHS 4650,Classical,Modern,images/ddc62018a895109b.jpeg
+Personal,8723084,Igor Stravinsky,The Rite Of Spring,1979,US,Angel Records,SZ-37646,Classical,Modern,images/16fa422223bb7e2e.jpeg
+Personal,12987518,Igor Stravinsky,The Rite Of Spring (Le Sacre du Printemps),1970,US,Nonesuch,H-71093,Classical,Modern,images/4ae8aa2f0e78e430.jpeg
+Personal,12970328,Igor Stravinsky,Firebird Suite / Marche Slave / Night On Bald Mountain,1967,US,London Records,SPC 21026,Classical,Orchestra,images/3d5ba5bb6c6ad714.jpeg
+Personal,25031059,Igor Stravinsky,Firebird Suite:  Marche Slave / Night On Bald Mountain,1967,US,London Records,SPC 21026,Classical,Modern,images/e4d53846b60653e5.jpeg
+Personal,6370512,Iron Butterfly,Ball,1969,US,ATCO Records,SD 33-280,Rock,Psychedelic Rock,images/16e8234fbf4f248c.jpeg
+Personal,2930276,Iron Butterfly,Heavy,1968,US,ATCO Records,SD 33-227,Rock,Psychedelic Rock,images/fb78aa57f9777f20.jpeg
+Personal,18836125,Iron Butterfly,In-A-Gadda-Da-Vida,1968,US,ATCO Records,SD 33-250,Rock,Psychedelic Rock,images/5299ea458d8924f2.jpeg
+Personal,2438726,Iron Butterfly,In-A-Gadda-Da-Vida,1968,US,ATCO Records,SD 33-250,Rock,Psychedelic Rock,images/9e2303adcf4ace46.jpeg
+Personal,563594,It's A Beautiful Day,It's A Beautiful Day,1969,US,Columbia,CS 9768,Rock,Psychedelic Rock,images/5ebc331ba5adb4c0.jpeg
+Personal,3573053,It's A Beautiful Day,Marrying Maiden,1970,US,Columbia,CS 1058,Rock,Folk Rock,images/d1af596cb8e8ac01.jpeg
+Personal,25253107,Jackson Browne,For Everyman,1973,US,Asylum Records,SD 5067-2,Rock,Classic Rock,images/b868fa49915ede94.jpeg
+Personal,1542309,Jackson Browne,Running On Empty,1977,US,Asylum Records,6E-113,Rock,Pop Rock,images/60ace9817b84f3f4.jpeg
+Personal,5865161,Jackson Browne,The Pretender,1976,US,Asylum Records,7E-1079,Rock,Soft Rock,images/816454b58ad207b4.jpeg
+Personal,9381003,James Gang,The Best Of The James Gang,1973,US,ABC Records,ABCX-774,Rock,Classic Rock,images/37017eb6fe61b478.jpeg
+Personal,63544,James White & The Blacks,Off White,1979,US,ZE Records,ZEA33-003,Electronic,New Wave,images/595d6eb2e36e4068.jpeg
+Personal,31633867,Jean-Luc Ponty,A Taste For Passion,1979,US,Atlantic,SD 19253,Jazz,Jazz-Rock,images/77755ebd643db707.jpeg
+Personal,5156304,Jean-Luc Ponty,Aurora,1976,US,Atlantic,SD 18163,Jazz,Fusion,images/b18e649fa7bfa5ea.jpeg
+Personal,4201258,Jean-Luc Ponty,Aurora,1976,US,Atlantic,SD 18163,Jazz,Fusion,images/2e2784b924e89cd2.jpeg
+Personal,696823,Jean-Luc Ponty,Individual Choice,1983,US,Atlantic,80098-1,Electronic,Fusion,images/8a3859aadc7f888a.jpeg
+Personal,21843142,Jean-Michel Jarre,Equinoxe,1978,US,Polydor,PD-1-6175,Electronic,Synth-pop,images/2e711c380dc56437.jpeg
+Personal,9259067,Jeff Beck,Wired,1976,UK,Epic,PE 33849,Jazz,Jazz-Rock,images/5ef544d38c69cc14.jpeg
+Personal,8754041,Jefferson Airplane,Surrealistic Pillow,1967,US,RCA Victor,LSP-3766,Rock,Folk Rock,images/b89bff80055446b6.jpeg
+Personal,4193214,Jefferson Starship,Red Octopus,1981,US,Grunt (3),AYL1-3660,Rock,,images/92fb999d2243fd43.jpeg
+Personal,700507,Jefferson Starship,Red Octopus,1975,US,Grunt (3),BFL1-0999,Rock,Arena Rock,images/945c0cf007c55419.jpeg
+Personal,1581622,Jethro Tull,Aqualung,1973,US,Chrysalis,CHR 1044,Rock,Art Rock,images/10ad5bbb4379756e.jpeg
+Personal,7392398,Jethro Tull,Benefit,1973,US,Chrysalis,CHR 1043,Rock,Folk Rock,images/a557bf781cafe4ef.jpeg
+Personal,7202835,Jethro Tull,Crest Of A Knave,1987,US,Chrysalis,OV 41590,Electronic,Prog Rock,images/0b60528b47cd9f12.jpeg
+Personal,652122,Jethro Tull,Heavy Horses,1978,US,Chrysalis,CHR-1175,Rock,Folk Rock,images/cc4a15068d268d29.jpeg
+Personal,10254561,Jethro Tull,Live - Bursting Out,1978,US,Chrysalis,CH2 1201,Rock,Prog Rock,images/90dd8d824382f604.jpeg
+Personal,638209,Jethro Tull,Living In The Past,1972,US,Chrysalis,2CH 1035,Rock,Classic Rock,images/bbd6ca52f17c1cb3.jpeg
+Personal,1583609,Jethro Tull,Minstrel In The Gallery,1975,US,Chrysalis,CHR 1082,Rock,Folk Rock,images/c13149a2bfe95066.jpeg
+Personal,23740058,Jethro Tull,Songs From The Wood,1977,US,Chrysalis,CHR 1132,Rock,Folk Rock,images/748b9276a16269ef.jpeg
+Personal,908955,Jethro Tull,Songs From The Wood,1977,US,Chrysalis,CHR 1132,Rock,Folk Rock,images/9f1c7587e044a0ca.jpeg
+Personal,476177,Jethro Tull,Thick As A Brick,1972,US,Reprise Records,MS 2072,Rock,Classic Rock,images/5262d7d848fa56ab.jpeg
+Personal,1477748,Jethro Tull,This Was,1968,US,Reprise Records,RS 6336,Rock,Blues Rock,images/80410124ce40e9aa.jpeg
+Personal,1901115,Jethro Tull,War Child,1974,US,Chrysalis,CH4 1067,Rock,Prog Rock,images/6f69abc341e25732.jpeg
+Personal,3336393,Jim & Ingrid Croce,"Another Day, Another Town",1974,US,Pickwick,SPC-3332,Pop,Vocal,images/aa701fb5d5ff8476.jpeg
+Personal,7023475,Jim Croce,I Got A Name,1973,US,ABC Records,ABCX 797,Rock,Soft Rock,images/45f9be55ea8a5f5f.jpeg
+Personal,709501,Jim Croce,Life And Times,1973,US,ABC Records,ABCX-769,Rock,Folk Rock,images/7ef4d75dfcd77eb0.jpeg
+Personal,11143430,Jim Croce,Photographs And Memories His Greatest Hits,1974,US,Lifesong,LS 8000,Rock,Country Rock,images/60c3ee31eaa70a03.jpeg
+Personal,6253271,Jim Croce,You Don't Mess Around With Jim,1972,US,ABC Records,ABCX-756,Rock,Pop Rock,images/770d1c1b30554a45.jpeg
+Personal,11114263,The Jimi Hendrix Experience,Are You Experienced?,1967,US,Reprise Records,6261,Rock,Blues Rock,images/4b475c542235f43f.jpeg
+Personal,399579,The Jimi Hendrix Experience,Electric Ladyland,1968,US,Reprise Records,2RS 6307,Rock,Psychedelic Rock,images/c0d81c1ac096c060.jpeg
+Personal,390441,Jimmy Smith,Bashin',1962,US,Verve Records,V-8474,Jazz,Bop,images/8d658660047ea285.jpeg
+Personal,34713411,Joe Cocker,With A Little Help From My Friends,1969,US,A&M Records,SP-4182,Rock,Blues Rock,images/aa43f85d88bfff46.jpeg
+Personal,7835213,John Barry,Somewhere In Time (Original Motion Picture Soundtrack),1980,US,MCA Records,MCA-5154,Stage & Screen,Score,images/7ecd3d8740470ad8.jpeg
+Personal,559555,John Denver,John Denver's Greatest Hits,1973,US,RCA,CPL1-0374,Rock,Country Rock,images/cfb7ce0c1f22f786.jpeg
+Personal,12255566,John Denver,Rocky Mountain High,1972,US,RCA Victor,LSP-4731,Rock,Country,images/99b284b99fcd0d9e.jpeg
+Personal,12255167,John Denver,Rocky Mountain High,1972,US,RCA Victor,LSP-4731,Rock,Country,images/a0c02b51f9d30696.jpeg
+Personal,7965540,John Mayall,Back To The Roots,1971,US,Polydor,25-3002,Rock,Blues Rock,images/15242b0ec622203e.jpeg
+Personal,29791246,John Mayall,Blues From Laurel Canyon,1968,US,London Records,PS 545,Blues,Rhythm & Blues,images/b4fde8bc9ab4195c.jpeg
+Personal,14899498,John Mayall,Looking Back,1969,US,London Records,PS 562,Rock,Blues Rock,images/653c543e50d86a9a.jpeg
+Personal,2199615,John Mayall,USA Union,1970,US,Polydor,24-4022,Rock,Blues Rock,images/39092fcaa8a5c905.jpeg
+Personal,5240295,Johnny Cash,Born To Sing,1970,US,Longines Symphonette Society,LS 205A,"Folk, World, & Country",Country,images/0460dfab16fb587a.jpeg
+Personal,1317681,Joni Mitchell,Ladies Of The Canyon,1970,US,Reprise Records,RS 6376,Jazz,Folk Rock,images/0f1beea88f493df0.jpeg
+Personal,12259707,Kansas (2),Audio-Visions,1980,US,Kirshner,FZ 36588,Rock,Prog Rock,images/e80e47d0c2661893.jpeg
+Personal,15053528,Kansas (2),Leftoverture,1976,US,Kirshner,PZ 34224,Rock,Prog Rock,images/b07de1c7b2f1473f.jpeg
+Personal,1476710,Kansas (2),Leftoverture,1976,US,Kirshner,34224,Rock,Classic Rock,images/89dc3a2c30d05fc9.jpeg
+Personal,15164009,Kansas (2),Masque,1975,US,Kirshner,PZ 33806,Rock,Prog Rock,images/bacaeb131bee95d3.jpeg
+Personal,4324798,Kansas (2),Song For America,1986,US,Kirshner,PZ 33385,Rock,Prog Rock,images/74ea65b7e0a1ffe8.jpeg
+Personal,3753339,The Laurindo Almeida Trio,Artistry In Rhythm,1984,US,Concord Jazz,CJ-238,Jazz,Latin Jazz,images/1172d3c5135ae03a.jpeg
+Personal,1125921,Led Zeppelin,Led Zeppelin,2003,US,Classic Records,SD 8216,Rock,Blues Rock,images/9a32ee92d8b21e60.jpeg
+Personal,1601816,Lee Michaels,5th,1971,US,A&M Records,SP-4302,Rock,Classic Rock,images/e01b28e598b310a1.jpeg
+Personal,768247,Lee Ritenour,Captain Fingers,1977,US,Epic,PE 34426,Jazz,Fusion,images/d76d79d9383e0a84.jpeg
+Personal,35648059,Leopold Stokowski,Walt Disney's Fantasia,1957,US,Buena Vista Records,101,Classical,Soundtrack,
+Personal,1568667,Leopold Stokowski,Walt Disney's Fantasia,1976,US,Buena Vista Records,STER 101,Classical,Baroque,images/643f4a5e41211757.jpeg
+Personal,27368130,Linda Ronstadt,Heart Like A Wheel,1974,US,Capitol Records,ST-11358,Rock,Country Rock,images/2d2991245d23df9a.jpeg
+Personal,926898,Lionel Richie,Lionel Richie,1982,US,Motown,6007ML,Funk / Soul,Soul,images/b45e3ada9a928c45.jpeg
+Personal,10511404,Little River Band,First Under The Wire,1979,US,Capitol Records,SOO-11954,Rock,AOR,images/afc91c3f858b46bf.jpeg
+Personal,1507420,Little River Band,Greatest Hits,1982,US,Capitol Records,ST 512247,Rock,Pop Rock,images/ae5793eb4bc78bfc.jpeg
+Personal,4443924,Little River Band,Little River Band,1976,US,Harvest,ST-11512,Rock,Folk Rock,images/a5bac6235d4ffbf0.jpeg
+Personal,4388847,Ludwig van Beethoven,The Nine Symphonies,1970,US,Columbia Masterworks,D8S 815,Classical,Classical,images/2e6dc81566e8b263.jpeg
+Personal,15026734,Lyle Murphy,The Ultimate Odyssey,1981,US,Inner City Records,IC 1133,Jazz,,images/3452a4e192b86380.jpeg
+Personal,15261934,Lynyrd Skynyrd,(Pronounced 'Lĕh-'nérd 'Skin-'nérd),1980,US,MCA Records,MCA-1685,Rock,Blues Rock,images/b85fd0c6cceafeb0.jpeg
+Personal,802862,Lynyrd Skynyrd,Gold & Platinum,1979,US,MCA Records,MCA2-11008,Rock,Southern Rock,images/870f2d4dcd03f26d.jpeg
+Personal,22984259,Malcolm Arnold,The Bridge On The River Kwai,1967,US,Columbia,CS 9426,Jazz,Score,images/2e430d9aba9bde37.jpeg
+Personal,10812973,The Mamas & The Papas,The Papas & The Mamas,1968,US,Dunhill,LP-DS-50031,Rock,Folk Rock,images/f105ca5ee724b256.jpeg
+Personal,13381254,Manfred Mann's Earth Band,The Roaring Silence,1976,US,Warner Bros. Records,BS 2965,Rock,Prog Rock,images/fee6db92cab0e9d5.jpeg
+Personal,9506879,Manfred Mann's Earth Band,The Roaring Silence,1976,US,Warner Bros. Records,BS 2965,Rock,Prog Rock,images/04a0d6e0850f00f7.jpeg
+Personal,12061316,Mannheim Steamroller,Fresh Aire,1975,US,American Gramaphone Records,AG-355,Electronic,Modern Classical,images/296a6fc9e20d7332.jpeg
+Personal,9116932,The Marshall Tucker Band,Carolina Dreams,1977,US,Capricorn Records,CPK 0180,Rock,Southern Rock,images/c3b011080621e298.jpeg
+Personal,18215191,The Marshall Tucker Band,Long Hard Ride,1976,US,Capricorn Records,CP 0170,Rock,Country Rock,images/7b5f687c707b3f08.jpeg
+Personal,12363939,The Marshall Tucker Band,Searchin' For A Rainbow,1975,US,Capricorn Records,CP 0161,Rock,Southern Rock,images/8abdf2c8894f20ac.jpeg
+Personal,12542125,The Marshall Tucker Band,The Marshall Tucker Band,1974,US,Capricorn Records,CP 0112,Rock,Southern Rock,images/d40be33219d03016.jpeg
+Personal,1949437,The Marshall Tucker Band,Together Forever,1978,US,Capricorn Records,CPN 0205,Rock,Country Rock,images/e3947ad34edb9216.jpeg
+Personal,2784059,Mason Proffit,Come & Gone,1974,US,Warner Bros. Records,2LS 2746,Rock,Folk Rock,images/cd479ac4320f1d62.jpeg
+Personal,2827156,Mason Proffit,Wanted,1970,US,Happy Tiger Records,HT-1009,Rock,Folk Rock,images/0736a39d4865f880.jpeg
+Personal,22058398,Men At Work,Business As Usual,1982,US,Columbia,FC 37978,Rock,Pop Rock,images/eb708a17b8727b56.jpeg
+Personal,15230491,Mike Oldfield,Tubular Bells,1973,US,Virgin,VR 13-105,Electronic,Prog Rock,images/c9a9de5d8bbddfeb.jpeg
+Personal,1165568,Moby Grape,Grape Jam,1968,US,Columbia,MGS 1,Rock,Electric Blues,images/d75af521b99b6c2b.jpeg
+Personal,28008150,Moby Grape,Wow,1968,US,Columbia,CS 9613,Rock,Psychedelic Rock,images/ae7e950cd5c7d365.jpeg
+Personal,1765371,Molly Hatchet,Molly Hatchet,1978,US,Epic,JE 35347,Rock,Southern Rock,images/24ae9a8b19824b18.jpeg
+Personal,1583698,The Moody Blues,A Question Of Balance,1970,US,Threshold (5),THS 3,Rock,Psychedelic Rock,images/08c2a93bb0568db3.jpeg
+Personal,4335405,The Moody Blues,Every Good Boy Deserves Favour,1971,US,Threshold (5),THS 5,Rock,Psychedelic Rock,images/311554fa5f8d0edc.jpeg
+Personal,12720216,The Moody Blues,In Search Of The Lost Chord,1968,US,Deram,DES 18017,Rock,Psychedelic Rock,images/1e9c852810facea6.jpeg
+Personal,4449285,The Moody Blues,Long Distance Voyager,1981,UK,Threshold (5),TXS 139,Rock,Art Rock,images/9d108d559952546c.jpeg
+Personal,4780509,The Moody Blues,Long Distance Voyager,1981,US,Threshold (5),TRL-1-2901,Rock,Art Rock,images/83cf7a14dd0419cb.jpeg
+Personal,595698,The Moody Blues,Octave,1978,US,London Records,PS 708,Rock,Classic Rock,images/379ed49907764ae7.jpeg
+Personal,1875478,The Moody Blues,Seventh Sojourn,1972,US,Threshold (5),THS 7,Rock,Psychedelic Rock,images/ded89b300a98a88b.jpeg
+Personal,6808979,The Moody Blues,This Is The Moody Blues,1974,US,Threshold (5),2 THS 12/13,Rock,Folk Rock,images/9f40074a071c9cf5.jpeg
+Personal,7720401,The Moody Blues,Days Of Future Passed,1968,US,Deram,DES 18012,Rock,Psychedelic Rock,images/171a3edde66be9ff.jpeg
+Personal,1176672,Munich Machine,A Whiter Shade Of Pale,1978,US,Casablanca,NBLP 7090,Electronic,Disco,images/d20733af1cd37779.jpeg
+Personal,26374112,Nazareth (2),Hair Of The Dog,1975,US,A&M Records,SP-4511,Rock,Blues Rock,images/2745bc18263c60e4.jpeg
+Personal,1044287,Neil Young,Harvest,1972,US,Reprise Records,MS 2032,Rock,Folk Rock,images/cf540ff0f2e0a81c.jpeg
+Personal,944143,Neil Young,Rust Never Sleeps,1979,US,Reprise Records,HS 2295,Rock,Acoustic,images/65d65fd1ff6154da.jpeg
+Personal,1336190,Neil Young,Everybody Knows This Is Nowhere,1969,US,Reprise Records,RS 6349,Rock,Folk Rock,images/ff243e9a6eeb6e71.jpeg
+Personal,3547997,Nikolai Rimsky-Korsakov,The Exotic Rimsky-Korsakov,1969,US,London Records,SPC 21033,Classical,Romantic,images/0f83e30ca0f00aba.jpeg
+Personal,13009678,Nikolai Rimsky-Korsakov,Scheherazade,1977,US,Summit (5),SUM 1022,Classical,,images/3efaa52647122169.jpeg
+Personal,4359728,Olomana,And So We Are,1977,US,Seabird Sound,SS1002,"Folk, World, & Country",Pacific,images/2d3625eda872fb67.jpeg
+Personal,717031,The Original Star Wars Cast,The Story Of Star Wars,1977,US,20th Century Fox Records,T-550,Non-Music,Dialogue,images/9a5d87a9cbe70333.jpeg
+Personal,6334079,Outlaws,Bring It Back Alive,1978,US,Arista,AL 8300,Rock,Country Rock,images/37c3e6fd05f77e19.jpeg
+Personal,1426418,Outlaws,Lady In Waiting,1976,US,Arista,AL 4070,Rock,Country Rock,images/f3c9a00ce5d42cea.jpeg
+Personal,7220460,Papa John Creach,Filthy!,1972,US,Grunt (3),FTR-1009,Jazz,Jazz-Rock,images/c0e632c0bd35d017.jpeg
+Personal,15282034,Paul & Linda McCartney,Ram,1971,US,Apple Records,SMAS-3375,Rock,Pop Rock,images/494c0383e9f81b21.jpeg
+Personal,6761787,Paul Simon,One-Trick Pony,1980,US,Warner Bros. Records,HS 3472,Pop,Folk Rock,images/6491aad2d17e2168.jpeg
+Personal,10618169,Paul Simon,Still Crazy After All These Years,1975,US,Columbia,PC 33540,Rock,Folk Rock,images/ac100dae54008c2e.jpeg
+Personal,27694614,Paul Simon,There Goes Rhymin' Simon,1973,US,Columbia,KC 32280,Rock,Folk Rock,images/949c85b339265dbc.jpeg
+Personal,1104302,Pete Townshend,Empty Glass,1980,US,ATCO Records,SD 32-100,Rock,Rock & Roll,images/cd9894562188007c.jpeg
+Personal,3252887,Pete Townshend,White City: A Novel,1985,US,ATCO Records,A1 90473,Electronic,Soundtrack,images/d41ad7200dc02f5d.jpeg
+Personal,390345,Pete Townshend,Rough Mix,1977,US,MCA Records,MCA-2295,Rock,Folk Rock,images/296b13ffae0f89c9.jpeg
+Personal,5475706,Peter Frampton,Frampton Comes Alive,1976,US,A&M Records,SP-6505-DBX,Rock,Rock & Roll,images/b9f7f91ca1a52640.jpeg
+Personal,1227278,Peter Wolf,Lights Out,1984,US,EMI America,SJ-17121,Rock,Pop Rock,images/7fe28500c3a17c4c.jpeg
+Personal,3167735,Phil Collins,Face Value,1981,US,Atlantic,SD-16029,Electronic,Pop Rock,images/2249af2e7d37b8b3.jpeg
+Personal,676772,Phil Collins,No Jacket Required,1985,US,Atlantic,81240-1,Electronic,Synth-pop,images/453ff584a16839c6.jpeg
+Personal,8461830,Poco (3),Legend,1978,US,ABC Records,AA-1099,Rock,Country Rock,images/4a2052f724d6085b.jpeg
+Personal,676581,The Police,Ghost In The Machine,1981,US,A&M Records,SP-3730,Rock,Pop Rock,images/32027d73e0144c58.jpeg
+Personal,14616535,Procol Harum,A Salty Dog,1969,US,A&M Records,SP 4179,Rock,Psychedelic Rock,images/99a00ec257e82f46.jpeg
+Personal,1512369,Procol Harum,Exotic Birds And Fruit,1974,US,Chrysalis,CHT 1058,Rock,Symphonic Rock,images/41180e1ffc10d7f0.jpeg
+Personal,19704997,Procol Harum,The Best Of Procol Harum,1972,US,A&M Records,SP-4401,Rock,Art Rock,images/461bac2d862a7b87.jpeg
+Personal,4497438,Procol Harum,Live,1972,US,A&M Records,SP 4335,Rock,Symphonic Rock,images/c01e127d9f9eee1e.jpeg
+Personal,3043498,Quicksilver Messenger Service,Happy Trails,1969,US,Capitol Records,ST-120,Rock,Acid Rock,images/c3ae35c4ac75b287.jpeg
+Personal,3008372,Raiders (2),Indian Reservation,1971,US,Columbia,C 30768,Rock,Classic Rock,images/958b9fd8fe23d79f.jpeg
+Personal,1880698,Rainbow,Down To Earth,1979,US,Polydor,PD-1-6221,Rock,Hard Rock,images/e403f5ad1dd0dda6.jpeg
+Personal,208821,Rare Earth,Back To Earth,1975,US,Rare Earth,R6-548S1,Funk / Soul,Rhythm & Blues,images/04c6f25c30854b2f.jpeg
+Personal,1937707,Rare Earth,Ma,1973,US,Rare Earth,R 546L-DJ,Rock,Rhythm & Blues,images/f4ba8697f6f1a43b.jpeg
+Personal,5442212,Rare Earth,One World,1971,US,Rare Earth,RS-520 DJ,Rock,Psychedelic Rock,images/bce03ef1bbbdaa0c.jpeg
+Personal,2264669,Ray Charles,Greatest Hits,1962,US,ABC-Paramount,ABCS-415,Funk / Soul,Rhythm & Blues,images/7f740d8592ebe1a1.jpeg
+Personal,1421134,Renaissance (4),Live At Carnegie Hall,1977,US,Sire,2XS 6029,Rock,Art Rock,images/0904e5227d0bd385.jpeg
+Personal,1975650,Rick Springfield,Working Class Dog,1981,US,RCA Victor,AFL1-3697,Rock,Pop Rock,images/5cd8f0299ccc14cf.jpeg
+Personal,1327321,Rick Wakeman,Journey To The Centre Of The Earth,1974,US,A&M Records,SP-3621,Rock,Prog Rock,images/91c7bf51d66b14f9.jpeg
+Personal,13585870,Rick Wakeman,Rick Wakeman's Criminal Record,1977,US,A&M Records,SP-4660,Rock,Symphonic Rock,images/700c2b42bf619cb9.jpeg
+Personal,7480180,Rick Wakeman,The Myths And Legends Of King Arthur And The Knights Of The Round Table,1975,US,A&M Records,SP-4515,Rock,Prog Rock,images/8550e56cd78df12e.jpeg
+Personal,461547,Rick Wakeman,The Six Wives Of Henry VIII,1973,US,A&M Records,SP-4361,Electronic,Modern Classical,images/ae0d8d86ac94846a.jpeg
+Personal,2459359,Rick Wakeman,White Rock,1977,US,A&M Records,SP-4614,Electronic,Modern Classical,images/a81b7d183bdba8ed.jpeg
+Personal,13777142,Rick Wakeman,No Earthly Connection,1976,US,A&M Records,SP-4583,Rock,Modern Classical,images/52ff31fbc0d8e303.jpeg
+Personal,1426287,Rickie Lee Jones,The Magazine,1984,US,Warner Bros. Records,9 25117-1,Rock,Pop Rock,images/951f9bb16c7535cc.jpeg
+Personal,14581336,Robin Trower,For Earth Below,1975,US,Chrysalis,CHR 1073,Rock,Blues Rock,images/83e6e0c53912263b.jpeg
+Personal,8866295,Robin Trower,Victims Of The Fury,1980,US,Chrysalis,CHR 1215,Rock,Blues Rock,images/1b08058ac1583137.jpeg
+Personal,9058547,Rod Stewart,Greatest Hits,1979,US,Warner Bros. Records,HS 3373,Rock,Soft Rock,images/2ad803cf6a679b04.jpeg
+Personal,16526271,Rod Stewart,Never A Dull Moment,1981,US,Mercury,SRM-1-646,Rock,Beat,images/9b9fc327300e7802.jpeg
+Personal,3813883,The Rolling Stones,Get Yer Ya-Ya's Out! - The Rolling Stones In Concert,1970,US,London Records,NPS-5,Rock,Blues Rock,images/795c24c23361ec64.jpeg
+Personal,16272700,The Rolling Stones,Got Live If You Want It!,1966,US,London Records,LL 3493,Rock,,images/c7ec5c45487bf25f.jpeg
+Personal,2001741,Rootboy Slim And The Sex Change Band With The Rootettes,Zoom,1979,US,Illegal Records (2),SP 006,Rock,Alternative Rock,images/b0f28441beb7dd37.jpeg
+Personal,9560555,Roy Orbison,More Of Roy Orbison's Greatest Hits,1964,US,Monument,SLP-18024,Rock,Pop Rock,images/5e05faae9b6c7749.jpeg
+Personal,7046607,Rush,2112,1976,US,Mercury,SRM-1-1079,Rock,Hard Rock,images/0907c665be08f9c8.jpeg
+Personal,22914206,Santana,Abraxas,1970,US,Columbia,KC 30130,Rock,Fusion,images/a88ce1cfc59e2f5e.jpeg
+Personal,6149275,Santana,Caravanserai,1972,Taiwan,Liming Record,LM-2516,Jazz,Psychedelic Rock,images/b296d5c72fd4ae11.jpeg
+Personal,737224,Santana,Santana,1969,US,Columbia,CS 9781,Rock,Afro-Cuban,images/ca1295e4bc38faff.jpeg
+Personal,431426,Santana,Santana's Greatest Hits,1974,US,Columbia,PC 33050,Rock,Blues Rock,images/697936dc49cc7005.jpeg
+Personal,10671998,Savoy Brown,Lion's Share,1972,US,Parrot,XPAS 71057,Rock,Blues Rock,images/4de50cc876f4a4c0.jpeg
+Personal,16541184,Sea Level,Sea Level,1977,US,Capricorn Records,CP 0178,Jazz,Southern Rock,images/0875624ca315c2e7.jpeg
+Personal,7483731,Seals & Crofts,Diamond Girl,1973,US,Warner Bros. Records,BS 2699,Rock,Folk Rock,images/ce2b6a8ed5b238c6.jpeg
+Personal,5950292,Seals & Crofts,Greatest Hits,1975,US,Warner Bros. Records,BS 2886,Rock,Folk Rock,images/b2e25df047163cfb.jpeg
+Personal,4443555,Sergei Prokofiev,Alexander Nevsky,1962,US,Columbia Masterworks,MS 6306,Classical,Modern,images/8a2d387da7297c2c.jpeg
+Personal,10537498,Simon & Garfunkel,Bridge Over Troubled Water,1970,US,Columbia,KCS 9914,Rock,Folk Rock,images/3458accd4bad430a.jpeg
+Personal,1462113,Spike Jones,The Best Of Spike Jones,1960,US,RCA,ANL1-1035(e),Non-Music,Comedy,images/c35e247c7f249109.jpeg
+Personal,1271736,Spirit (8),The Family That Plays Together,1968,US,Ode Records (2),Z12 44014,Rock,Psychedelic Rock,images/f6bfd4494db3a497.jpeg
+Personal,1015930,Spirit (8),Twelve Dreams Of Dr. Sardonicus,1970,US,Epic,E 30267,Rock,Psychedelic Rock,images/a6b20c2d91b317ce.jpeg
+Personal,1823786,Steely Dan,Greatest Hits,1978,US,ABC Records,AK-1107/2,Jazz,Pop Rock,images/afaac0e2e0b15064.jpeg
+Personal,4644799,Steely Dan,Katy Lied,1975,US,ABC Records,ABCD 846,Rock,Pop Rock,images/51c8ce6ef69c51dc.jpeg
+Personal,20766496,Steely Dan,Pretzel Logic,1974,US,ABC Records,ABCD-808,Rock,Soft Rock,images/6d1af65bf6076db3.jpeg
+Personal,5936734,Stephen Stills,Stephen Stills,1970,US,Atlantic,SD 7202,Rock,Blues Rock,images/477e567a19f40bf5.jpeg
+Personal,4517615,Stephen Stills,Stephen Stills 2,1971,US,Atlantic,SMAS 93854,Rock,Folk Rock,images/e61bfcde546892c6.jpeg
+Personal,16644195,Stephen Stills,Stephen Stills Live,1975,US,Atlantic,SD 18156,Rock,Folk Rock,images/d07dbaa45f9b5a07.jpeg
+Personal,22518512,Stephen Stills,Down The Road,1973,US,Atlantic,SD 7250,Rock,Folk Rock,images/af7cf8fe7559ca3a.jpeg
+Personal,12557007,Steppenwolf,At Your Birthday Party,1969,US,Dunhill,DSX-50053,Rock,Hard Rock,images/8ea5a7644aafdc77.jpeg
+Personal,2032967,Steve Howe,Beginnings,1975,US,Atlantic,SD 18154,Rock,Prog Rock,images/cd59d3b61d95c7d0.jpeg
+Personal,223419,Stevie Wonder,Innervisions,1973,US,Tamla,T 326L,Funk / Soul,Soul,images/9c7aa21c64b2c0ad.jpeg
+Personal,266650,Stevie Wonder,Songs In The Key Of Life,1976,US,Tamla,T13-340C2,Jazz,Soul,images/912f8a17d2ad3270.jpeg
+Personal,9060893,The Stills-Young Band,Long May You Run,1976,US,Reprise Records,MS 2253,Rock,Acoustic,images/403cb1adfb796a2a.jpeg
+Personal,1510713,The Stranglers,IV Rattus Norvegicus,1977,US,A&M Records,SP-4648,Rock,New Wave,images/3b7ada6803621367.jpeg
+Personal,4724163,Styx,Cornerstone,1979,US,A&M Records,SP-3711,Rock,Prog Rock,images/9f412660eb2e7d31.jpeg
+Personal,6922507,Styx,Paradise Theatre,1981,US,A&M Records,SP-3719,Rock,Prog Rock,images/6300a9b721a3ad18.jpeg
+Personal,22317859,Styx,The Grand Illusion,1977,US,A&M Records,SP-4637,Rock,Classic Rock,images/d78146ca0d541268.jpeg
+Personal,4093727,Sugarhill Gang,Sugarhill Gang,1980,US,Sugar Hill Records,SH245,Hip Hop,Funk,images/1801e7835ee1eeaf.jpeg
+Personal,2431546,Supertramp,Crime Of The Century,1974,US,A&M Records,SP-3647,Rock,Pop Rock,images/427afb7e0a24bafb.jpeg
+Personal,8160783,Supertramp,Even In The Quietest Moments...,1977,US,A&M Records,SP-4634,Rock,Art Rock,images/b6ac7ca197fd0d20.jpeg
+Personal,2898659,The Supremes,Cream Of The Crop,1969,US,Motown,MS 694,Funk / Soul,Rhythm & Blues,images/31b0c08ce255b6aa.jpeg
+Personal,391739,The Supremes,Greatest Hits,1967,US,Motown,2-663,Funk / Soul,Rhythm & Blues,images/6c6bcf7e6f9207f5.jpeg
+Personal,8060660,The Supremes,Diana Ross & The Supremes Join The Temptations,1968,US,Motown,MS-679,Funk / Soul,Soul,images/1922c39ea0979801.jpeg
+Personal,3625839,Taj Mahal,The Natch'l Blues,1968,US,Columbia,CS 9698,Blues,Country Blues,images/b7ffe1a845fee7e0.jpeg
+Personal,26664254,Ted Nugent,Cat Scratch Fever,1977,US,Epic,JE 34700,Rock,Hard Rock,images/af3248ae089620f8.jpeg
+Personal,33030435,Ted Nugent,Free-For-All,1976,US,Epic,PE 34121,Rock,Hard Rock,images/14d4141b90b74f47.jpeg
+Personal,21256897,Ted Nugent,Ted Nugent,1975,US,Epic,PE 33692,Rock,Hard Rock,images/bbc26bdbfb32d2a9.jpeg
+Personal,2515799,Ten Wheel Drive,Peculiar Friends,1971,US,Polydor,24-4062,Jazz,,images/f31b7f67e3e8d228.jpeg
+Personal,1814467,Ten Years After,Cricklewood Green,1970,US,Deram,DES 18038,Rock,Blues Rock,images/1a9062eaf1da8fa2.jpeg
+Personal,1762013,Ten Years After,Recorded Live,1973,US,Columbia,C2X 32288,Rock,Blues Rock,images/989787b5bdf6bcca.jpeg
+Personal,1051841,Ten Years After,Rock & Roll Music To The World,1972,US,Columbia,KC 31779,Rock,Blues Rock,images/4a56d6f6e8a1bbfb.jpeg
+Personal,31373557,Ten Years After,Ssssh.,1969,US,Deram,DES 18029,Rock,Blues Rock,images/2c019f8ef3438dab.jpeg
+Personal,2860386,Three Dog Night,Golden Bisquits,1972,US,Dunhill,DSX 50098,Rock,Soft Rock,images/90443a38d2236afa.jpeg
+Personal,28159867,Three Dog Night,Harmony,1971,US,Dunhill,DSX 50108,Rock,Soft Rock,images/1bbbbb98f4c1ab0a.jpeg
+Personal,23484281,Three Dog Night,Harmony,1971,US,Dunhill,DSX 50108,Rock,Soft Rock,images/8dddd4a7b9b7f8fb.jpeg
+Personal,31838228,Three Dog Night,Naturally,1970,US,ABC/Dunhill Records,DSX 50088,Rock,Psychedelic Rock,images/2c44c5ee4011a3b1.jpeg
+Personal,6351404,Three Dog Night,Naturally,1970,US,Dunhill,DSX 50088,Rock,Pop Rock,images/112c1fb16b66748c.jpeg
+Personal,2677836,Three Dog Night,Suitable For Framing,1969,US,ABC Records,DS-50058,Rock,Soft Rock,images/5029480f654dfc3a.jpeg
+Personal,3768194,Three Dog Night,Three Dog Night,1969,US,Dunhill,ST-91718,Rock,,images/3b584ea18cebc536.jpeg
+Personal,3163618,Timbuk 3,Rev Jack & His Roamin' Cadillac Church,1988,US,I.R.S. Records,L33-17540,Rock,Classic Rock,images/d30a12e26de2f036.jpeg
+Personal,1089327,Tina Turner,Private Dancer,1984,US,Capitol Records,ST-12330,Rock,Pop Rock,images/5b67bf6f1ef7a2c1.jpeg
+Personal,6839185,Todd Rundgren,Initiation,1975,US,Bearsville,BR 6957,Rock,Experimental,images/e71d651860d5cf48.jpeg
+Personal,13948479,Tommy Bolin,Private Eyes,1976,US,Columbia,C 34329,Rock,Soft Rock,images/9298e320ac6a055f.jpeg
+Personal,4852834,Traffic,John Barleycorn Must Die,1979,US,United Artists Records,UAS 5504,Rock,Folk Rock,images/f0ad0721dd6a594e.jpeg
+Personal,20152924,Traffic,Shoot Out At The Fantasy Factory,1973,US,Island Records,SW-9323,Rock,Prog Rock,images/848c1eba5f79f86c.jpeg
+Personal,25644646,Traffic,The Low Spark Of High Heeled Boys,1971,US,Island Records,SW-9306,Rock,Prog Rock,images/966ad03d82723e28.jpeg
+Personal,1087876,Traffic,When The Eagle Flies,1974,US,Asylum Records,7E-1020,Rock,Jazz-Rock,images/44740f9eceb00d04.jpeg
+Personal,5222246,Uriah Heep,The Best Of Uriah Heep,1976,US,Mercury,SRM-1-1070,Rock,Psychedelic Rock,images/9da1084bb01819e3.jpeg
+Personal,5208326,Uriah Heep,The Magician's Birthday,1972,US,Mercury,SRM-1-652,Rock,Hard Rock,images/d36b40ef7daf83e6.jpeg
+Personal,2281878,Vanilla Fudge,The Beat Goes On,1968,US,ATCO Records,SD 33-237,Rock,Psychedelic Rock,images/b290b2ae4da91ad5.jpeg
+Personal,8174556,Vanilla Fudge,The Beat Goes On,1968,US,ATCO Records,SD 33-237,Rock,Psychedelic Rock,images/b2f03ba490db07b7.jpeg
+Personal,10931257,Vanilla Fudge,Vanilla Fudge,1967,US,ATCO Records,SD 33-224,Rock,Psychedelic Rock,images/715288a7e6e620e8.jpeg
+Personal,9202704,Various,Certified Gold,1981,US,K-Tel,TU 2830,Rock,Pop Rock,images/4053b7f266289ce9.jpeg
+Personal,1844560,Various,Collectus Interruptus,1978,US,Warner Bros. Records,PRO-A-726,Jazz,Country Rock,images/5aaed2946df15563.jpeg
+Personal,14952481,Various,Dirty Dancing (Original Soundtrack From The Vestron Motion Picture),1987,US,RCA Victor,6408-1-R,Electronic,Rock & Roll,images/e30670c8ea4347a2.jpeg
+Personal,35932333,Various,Dreamgirls Original Broadway Cast Album,1982,US,Geffen Records,GHSP 2007,Electronic,Rhythm & Blues,images/ac9236d0f6ac82ce.jpeg
+Personal,20319172,Various,Grease (The Original Soundtrack From The Motion Picture),1978,US,RSO,RS-2-4002,Rock,Soundtrack,images/7aabe9ae5aca4e26.jpeg
+Personal,3158961,Various,Home Grown IV,1976,US,KGB Records,none,Rock,Classic Rock,images/0e785bc4ec812265.jpeg
+Personal,1638453,Various,Home Grown VI,1978,US,KGB Records,none,Jazz,,images/ad4c9e6417354ea7.jpeg
+Personal,5382560,Various,Homegrown Brand Greatest Hits,1978,US,kgb records,none,Rock,Folk,images/9a67eb16023ad42c.jpeg
+Personal,2550320,Various,More Dirty Dancing,1988,US,RCA Victor,6965-1-R,Electronic,Soundtrack,images/c11b1eac111699d5.jpeg
+Personal,3580627,Various,Pretty Baby (Music From The Soundtrack Of The Paramount Motion Picture),1978,US,ABC Records,AA 1076,Jazz,Soundtrack,images/a7906e9169b23a4f.jpeg
+Personal,762024,Various,Sgt. Pepper's Lonely Hearts Club Band,1978,US,RSO,RS-2-4100,Rock,Pop Rock,images/97307b6bc754557f.jpeg
+Personal,1986236,Various,Southern Fried Rock,1980,US,K-Tel,NU 9520,Rock,Country Rock,images/ae7a8a245a4598d7.jpeg
+Personal,338679,Various,Super Bad,1973,US,K-Tel International,NU 427,Funk / Soul,Soul,images/2d9cdcda5877499a.jpeg
+Personal,3764729,Various,The Motown Story / Volume 5,1971,US,Motown,MS-731,Funk / Soul,Soul,images/9e9150d4eb8325d9.jpeg
+Personal,6663261,Various,The Rock Story,1977,,Schirmer Records,P 12488,Rock,,images/6f7782e2c913c77c.jpeg
+Personal,34251985,Waylon Jennings & Willie Nelson,Waylon & Willie,1978,US,RCA Victor,AFL1-2686,"Folk, World, & Country",Country,images/02f5bded5155fc2f.jpeg
+Personal,12297337,Waylon Jennings,Wanted! The Outlaws,1977,US,RCA Victor,AFL1-1321,"Folk, World, & Country",Country,images/39e76caf9d1d8df6.jpeg
+Personal,15195912,The Who,Face Dances,1981,US,Warner Bros. Records,HS 3516,Rock,,images/1a8e3e18b5b7c929.jpeg
+Personal,3675449,The Who,Who's Next,1971,US,Decca,DL 79182,Rock,Classic Rock,images/b4ae87f675e2af32.jpeg
+Personal,8040667,Willie Nelson,Always On My Mind,1982,US,Columbia,FC 37951,Rock,Country,images/cdd82708e779794b.jpeg
+Personal,16065552,Willie Nelson,Red Headed Stranger,1975,US,Columbia,KC 33482,"Folk, World, & Country",Country,images/5273940a673bbd64.jpeg
+Personal,11404204,Willie Nelson,Stardust,1978,US,Columbia,JC 35305,Pop,Vocal,images/8db9a07e392fdb84.jpeg
+Personal,25576042,Willie Nelson,The Troublemaker,1976,US,Columbia,KC 34112,"Folk, World, & Country",Country,images/a970bacd7693692b.jpeg
+Personal,2235799,Wishbone Ash,Argus,1972,US,Decca,DL 7-5347,Rock,Hard Rock,images/71cd7228f27f42cc.jpeg
+Personal,618971,Wishbone Ash,Live Dates,1973,US,MCA Records,MCA2-8006,Rock,Pop Rock,images/fcc8784a7ff8aa94.jpeg
+Personal,2548412,Wishbone Ash,Pilgrimage,1977,US,MCA Records,MCA-36,Rock,Prog Rock,images/b840a766da5dc6c0.jpeg
+Personal,1009488,Yes,Classic Yes,1981,US,Atlantic,SD 19320,Rock,Prog Rock,images/b269c2894455dcb7.jpeg
+Personal,13896120,Yes,Fragile,1971,US,Atlantic,SD 19132,Rock,Prog Rock,images/d70e276cb93b740a.jpeg
+Personal,10055099,Yes,Fragile,1972,US,Atlantic,SD 7211,Rock,Prog Rock,images/ddb2a8b512c5ca98.jpeg
+Personal,476248,Yes,Tales From Topographic Oceans,1974,US,Atlantic,SD 2-908,Rock,Prog Rock,images/ceb61bbea06feecb.jpeg
+Personal,28586398,Yes,The Yes Album,1971,US,Atlantic,SD 8283,Rock,Prog Rock,images/0b420985d0eb2fe2.jpeg
+Personal,785287,Yes,Yessongs,1973,US,Atlantic,SD 3-100,Rock,Prog Rock,images/f750fab3fd7d5e7c.jpeg
 For Sale,8321428,"""Fáklya"" Központi Népi Táncegyüttes Budapest",Hungary,1971,US,Request Records (2),SRLP 8143,"Folk, World, & Country",Folk,images/342c8d3f56ed42e1.jpeg
 For Sale,4729114,101 Strings,Soul Of The Gypsies,1958,US,Alshire,S-5024,"Folk, World, & Country",,images/55a82c53e8909f2c.jpeg
 For Sale,5567326,Al Conte Quartet,Happy Time! The Scintillating Piano-Banjo Rhythms Of The Al Conte Quartet,1962,US,Columbia,CL 1404,Jazz,,images/e3db30fdab2cd86f.jpeg
 For Sale,1528310,Al Hirt,Our Man In New Orleans,1963,US,RCA Victor,LSP-2607,Jazz,Dixieland,images/2b3b98463920607b.jpeg
-For Sale,2111047,Al Jolson,The Best Of Al Jolson,1962,US,Decca,DXA 169,Jazz,Vocal,images/8c01467ddb373082.jpeg
-For Sale,29174857,Al Jolson,"The Jolson Story ""Rock-A-Bye Your Baby...""",1980,US,MCA Records,MCA-27052,Jazz,Vocal,images/a02fe9c14a9a1dd2.jpeg
-Personal,4911086,Al Stewart,Year Of The Cat,1976,US,Janus Records,JXS-7022,Rock,Pop Rock,images/3bbd35256d025344.jpeg
-Personal,209358,The Alan Parsons Project,I Robot,1977,US,Arista,AL 7002,Rock,Prog Rock,images/9b6780dd8527fd42.jpeg
-Personal,209358,The Alan Parsons Project,I Robot,1977,US,Arista,AL 7002,Rock,Prog Rock,images/9b6780dd8527fd42.jpeg
 For Sale,2072153,Alexander Brailowsky,The 24 Preludes,1960,Canada,Columbia Masterworks,ML 5444,Classical,Romantic,images/825f4b4f1ae58221.jpeg
 For Sale,9097646,The Alexandrov Red Army Ensemble,Soviet Army Chorus & Band,1960,US,Parliament,PLP (S)-128,Brass & Military,Military,images/22365b931006c5b9.jpeg
 For Sale,3028959,Alexis Weissenberg,Sonatas No. 62 In E-flat / No. 50 In D / No. 33 In C Minor,1969,US,RCA Red Seal,LSC-3111,Classical,Classical,images/d33a8eff7b5b5559.jpeg
-For Sale,8256713,Alfons Bauer,Music Of The German Alps,1959,US,Capitol Records,ST 10211,"Folk, World, & Country",,images/c2f6882dbc671173.jpeg
-For Sale,6507892,Alfons Bauer And His Hofbrau Entertainers,More German Beer-Drinking Music,1961.0,US,Capitol Records,T 10297,"Folk, World, & Country",,images/8f303f4834e19c99.jpeg
 For Sale,20509414,Alfred Drake,The Rubáiyát Of Omar Khayyam & Sohrab And Rustum,1976,US,Caedmon Records,TC-1023,Non-Music,Poetry,images/95c37904fe4567b4.jpeg
-Personal,15111951,America (2),America,1971,US,Warner Bros. Records,BS 2576,Rock,Soft Rock,images/30ec0dbc4915ad87.jpeg
-Personal,15977772,America (2),Holiday,1974,US,Warner Bros. Records,W 2808,Rock,Soft Rock,images/0dab13a13c2fb50b.jpeg
 For Sale,3109497,André Kostelanetz And His Orchestra,Kostelanetz Conducts Broadway And Movie Favorites,1972,US,Columbia,CB-11,Pop,Musical,images/8aecdad3e2d5cfef.jpeg
 For Sale,7374964,Andrés Segovia,Music For The Guitar,1962,US,Decca,DL 10046,Classical,,images/f05fe5e235c778d1.jpeg
 For Sale,1728183,Andrés Segovia,My Favorite Spanish Encores,1976,US,RCA Red Seal,ARL1-0485,Classical,,images/54ab7671f623fb79.jpeg
 For Sale,1056046,Andrés Segovia,The Genius Of Andrés Segovia - A Bach Recital,1969,US,Everest,3261,Classical,Baroque,images/8047eb492b3cec69.jpeg
 For Sale,22466197,Andrew Lloyd Webber,Cats (Complete Original Broadway Cast Recording),1983,US,Geffen Records,2GHS 2031,Stage & Screen,Musical,images/15783410dd04dd53.jpeg
-Personal,14853735,The Animals,The Animals,1964,US,MGM Records,SE 4264,Rock,Classic Rock,images/2be57a963b6b5db6.jpeg
 For Sale,4597554,The Anita Kerr Singers,The Anita Kerr Singers Reflect On The Hits Of Burt Bacharach & Hal David,1969,US,Dot Records,DLP 25906,Jazz,Vocal,images/00ea6e7dab698339.jpeg
 For Sale,1602156,Anne Murray,A Country Collection,1980,US,Capitol Records,ST-12039,"Folk, World, & Country",,images/493c6b16663a8c64.jpeg
 For Sale,8091759,Anne Murray,A Little Good News,1983,Australia,Capitol Records,ST-12301,Pop,,images/57ade58439057374.jpeg
@@ -41,7 +448,6 @@ For Sale,2573234,Anne Murray,Highly Prized Possession,1974,US,Capitol Records,ST
 For Sale,20170636,Anne Murray,I'll Always Love You,1979,US,Capitol Records,SOO-12012,Pop,Folk Rock,images/009eeb5b0cd190ee.jpeg
 For Sale,2043796,Anne Murray,I'll Always Love You,1979,US,Capitol Records,SOO-12012,Rock,Folk Rock,images/8e8b7181b671aaa2.jpeg
 For Sale,2789942,Anne Murray,Keeping In Touch,1976,US,Capitol Records,ST-11559,Pop,,images/d49471e3512f666d.jpeg
-For Sale,2789942,Anne Murray,Keeping In Touch,1976,US,Capitol Records,ST-11559,Pop,,images/d49471e3512f666d.jpeg
 For Sale,10977800,Anne Murray,Let's Keep It That Way,1978,US,Capitol Records,ST-11743,"Folk, World, & Country",Country Rock,images/649dd743a4a6fb0c.jpeg
 For Sale,1561070,Anne Murray,Let's Keep It That Way,1978,US,Capitol Records,ST-11743,Rock,Country Rock,images/e8b56127ab6d76da.jpeg
 For Sale,2663322,Anne Murray,Love Song,1974,US,Capitol Records,ST-11266,Rock,Soft Rock,images/e4ff79b875c54183.jpeg
@@ -50,7 +456,6 @@ For Sale,1594738,Anne Murray,New Kind Of Feeling,1979,US,Capitol Records,SW-1184
 For Sale,5079196,Anne Murray,New Kind Of Feeling,1979,US,Capitol Records,SW-511849,Pop,Country,images/82cda7a82afcf895.jpeg
 For Sale,29449660,Anne Murray,Snowbird,1970,US,Capitol Records,ST-579,Rock,Country Rock,images/8a5567cdb02586c3.jpeg
 For Sale,3087835,Anne Murray,Snowbird,1970,US,Capitol Records,ST-579,Rock,Country Rock,images/cae55cb0554094c2.jpeg
-For Sale,15086486,Anne Murray,Somebody's Waiting,1980,Barbados,Capitol Records,SOO-12064,Pop,Vocal,images/9b0fce120d6fc397.jpeg
 For Sale,15086486,Anne Murray,Somebody's Waiting,1980,Barbados,Capitol Records,SOO-12064,Pop,Vocal,images/9b0fce120d6fc397.jpeg
 For Sale,2838373,Anne Murray,Somebody's Waiting,1980,US,Capitol Records,SOO-12064,Pop,Vocal,images/acaacd252622798a.jpeg
 For Sale,2435448,Anne Murray,Something To Talk About,1986,US,Capitol Records,SJ-12466,Pop,Vocal,images/e79ad6aab7e09649.jpeg
@@ -62,15 +467,9 @@ For Sale,2088829,Anne Murray,Together,1975,US,Capitol Records,ST-11433,"Folk, Wo
 For Sale,11137129,Anne Murray,What About Me,1968,US,Pickwick/33 Records,SPC 3350,Pop,Ballad,images/8a99e294b06f5e22.jpeg
 For Sale,1602114,Anne Murray,Where Do You Go When You Dream,1981,US,Capitol Records,SOO-12144,"Folk, World, & Country",,images/9e9cc3e56fa3735d.jpeg
 For Sale,16432287,Anne Murray,Anne Murray / Glen Campbell,1971,US,Capitol Records,SN-11992,Pop,Country,images/d980027214919463.jpeg
-For Sale,16432287,Anne Murray,Anne Murray / Glen Campbell,1971,US,Capitol Records,SN-11992,Pop,Country,images/d980027214919463.jpeg
 For Sale,10132139,Anton Karas,Viennese Bonbons Volume II,1957,US,Period Records,RL 1918,Classical,Volksmusik,images/fb015ae93f45b4b6.jpeg
 For Sale,5322865,Antonín Dvořák,The New World - Ninth Symphony,1977,Canada,Funk & Wagnalls,FW-315,Classical,Romantic,images/b8a31ffeaad2cca4.jpeg
 For Sale,2402355,Antonio Vivaldi,The Mandolin Concerti And Concerto For Violino Discordato,1980,US,Musical Heritage Society,MHS 1100,Classical,Baroque,images/a8f270b4509a50df.jpeg
-Personal,2928836,Aretha Franklin,Aretha's Gold,1969,US,Atlantic,SD 8227,Funk / Soul,Soul,images/8d9953459e7469b1.jpeg
-Personal,14726707,Arlo Guthrie,Alice's Restaurant,1976,US,Reprise Records,6267,Rock,Folk Rock,images/0cc1dbf6dbcefee3.jpeg
-Personal,3089945,Arlo Guthrie,Power Of Love,1981,US,Warner Bros. Records,BSK 3558,Blues,Country,images/b2f6e30d025af43e.jpeg
-Personal,1623917,Arlo Guthrie,Running Down The Road,1969,US,Reprise Records,RS 6346,Rock,Folk Rock,images/daf8cde0203b809b.jpeg
-Personal,14572110,Arlo Guthrie,One Night,1978,US,Warner Bros. Records,BSK 3232,"Folk, World, & Country",Folk,images/75e79a66de7da874.jpeg
 For Sale,3422730,Arthur Smith (2),Battling Banjos,1973,US,Monument,Z 32259,"Folk, World, & Country",Bluegrass,images/ae6ba9100fd55765.jpeg
 For Sale,3168586,Artie Matthews,Pastimes & Piano Rags,1974,UK,Nonesuch,H-71299,Jazz,Ragtime,images/63fcd84bec43b5e9.jpeg
 For Sale,5992606,Artie Shaw,A Legacy,1984,US,Book-Of-The-Month Records,71-7715,Jazz,,images/e14a2ac6675ea2a2.jpeg
@@ -78,23 +477,14 @@ For Sale,5168323,Artie Shaw,Big Bands: Artie Shaw,1983,US,Time Life Music,STBB-0
 For Sale,2976157,Artie Shaw,"The Complete Artie Shaw, Vol. I 1938-1939",1976,US,Bluebird (3),AXM2-5517,Jazz,Swing,
 For Sale,1178232,Artie Shaw And His Orchestra,Moonglow,1956,US,RCA Victor,LPM-1244,Jazz,Big Band,images/216739b1214c658b.jpeg
 For Sale,4413305,Artie Shaw And His Orchestra,Reissued By Request,1958,US,RCA Victor,LPM-1648,Jazz,Swing,images/b7be3c74bcd222b1.jpeg
-Personal,5881690,Asia (2),Asia,1982,US,Geffen Records,GHS 2008,Rock,Pop Rock,images/2aab541f7ce67b88.jpeg
-Personal,8001899,Atlanta Rhythm Section,A Rock And Roll Alternative,1976,US,Polydor,PD-1-6080,Rock,Southern Rock,images/c14f31ebfce6cf06.jpeg
-Personal,1626427,Bachman-Turner Overdrive,Not Fragile,1974,US,Mercury,SRM-1-1004,Rock,Classic Rock,images/cc5359e74f536fb1.jpeg
 For Sale,1104472,Baja Marimba Band,Heads Up!,1967,US,A&M Records,SP-4123,Jazz,Latin Jazz,images/c2277a6f6f92cd68.jpeg
 For Sale,1104491,Baja Marimba Band,Watch Out!,1966,US,A&M Records,SP-4118,Jazz,Latin Jazz,images/6fbe553245d001a3.jpeg
 For Sale,8252398,The Band Of Her Majesty's Royal Marines Commando Forces,The Best Of The Royal Marines,1975,US,London Records,SW 99622,Classical,,images/f150cba1385767ea.jpeg
-Personal,4683521,The Band,Rock Of Ages (The Band In Concert),1975,US,Capitol Records,SABB-11045,Rock,Folk Rock,images/a13af7d4168fa884.jpeg
-For Sale,8537197,Banda De Aviación De Madrid,Spanish Marches,1978,US,Olympic Records (4),OL-6146,Brass & Military,Marches,images/4b728fadbd2f667e.jpeg
 For Sale,3770438,The Banjo Barons,Banjo Party With The Banjo Barons,1961,US,Columbia,CL 1689,"Folk, World, & Country",,images/f6a689a724cad84e.jpeg
 For Sale,4324769,Barbara Dane,On My Way,1962,US,Capitol Records,T 1758,Jazz,Soul-Jazz,images/f568302b725daabb.jpeg
 For Sale,2032518,Barbra Streisand,Barbra Joan Streisand,1971,US,Columbia,KC 30792,Pop,Vocal,images/afb51c755595f6e8.jpeg
 For Sale,4536016,Barbra Streisand,Barbra Streisand's Greatest Hits - Volume 2,1978,US,Columbia,FC 35679,Jazz,Pop Rock,images/979d8fc979d014ff.jpeg
-For Sale,4536016,Barbra Streisand,Barbra Streisand's Greatest Hits - Volume 2,1978,US,Columbia,FC 35679,Jazz,Pop Rock,images/979d8fc979d014ff.jpeg
-For Sale,27879489,Barry Goldwater,Acceptance Speech Republican National Convention 1964,1964,US,Greenleaf Records,M102-64-A,Non-Music,Political,
 For Sale,1787729,Barry Manilow,Greatest Hits,1978,US,Arista,A2L 8601,Rock,Pop Rock,images/e939e922416fdc7c.jpeg
-Personal,12613640,The Beatles,Magical Mystery Tour,1976,US,Capitol Records,SMAL-2835,Rock,Psychedelic Rock,images/c955543f734300d1.jpeg
-Personal,464292,The Beatles,Magical Mystery Tour,1967,US,Capitol Records,SMAL-2835,Rock,Psychedelic Rock,images/7a2d9306e882d980.jpeg
 For Sale,2536779,Bedřich Smetana,"Overture To The Bartered Bride / Symphony No. 5 In E Minor ""From The New World"" / Slavonic Dances Nos. 1 And 2",1955,US,Music Treasures Of The World,MT 22,Classical,,images/9d38a95f865b1749.jpeg
 For Sale,1741088,Bellamy Brothers,"Featuring ""Let Your Love Flow"" (And Others)",1976,US,Warner Bros. Records,BS 2941,Rock,Country Rock,images/b75ff0ea46a9a80d.jpeg
 For Sale,1540009,Bellamy Brothers,Howard & David,1985,US,Curb Records,MCA-5586,"Folk, World, & Country",Country,images/58eeb34122c73976.jpeg
@@ -117,17 +507,9 @@ For Sale,1351709,Bing Crosby,Merry Christmas,1955,US,Decca,DL 8128,Pop,Vocal,ima
 For Sale,4788385,Bing Crosby,Rare Early Recordings 1929-1933,1973,US,Biograph,BLP-C-13,Jazz,,images/38585ce9e27ccdc8.jpeg
 For Sale,6006574,Bix Beiderbecke,Bix Beiderbecke,1979,US,Time Life Records,STL-J04,Jazz,,images/c10df18b8d5e4e2c.jpeg
 For Sale,3919421,Bix Beiderbecke,The Bix Beiderbecke Story / Volume 1 - Bix And His Gang,1952,US,Columbia,GL 507,Jazz,,images/1d54239c6746cc5b.jpeg
-For Sale,3919421,Bix Beiderbecke,The Bix Beiderbecke Story / Volume 1 - Bix And His Gang,1952,US,Columbia,GL 507,Jazz,,images/1d54239c6746cc5b.jpeg
 For Sale,2918451,Bix Beiderbecke,The Bix Beiderbecke Story / Volume 2 - Bix And Tram,1952,US,Columbia,GL 508,Jazz,,images/f25158ea10c10f13.jpeg
 For Sale,2930993,Bix Beiderbecke,The Bix Beiderbecke Story / Volume 3 - Whiteman Days,1952,US,Columbia,GL 509,Jazz,Dixieland,images/d639f58ce48feb0c.jpeg
-For Sale,2930993,Bix Beiderbecke,The Bix Beiderbecke Story / Volume 3 - Whiteman Days,1952,US,Columbia,GL 509,Jazz,Dixieland,images/d639f58ce48feb0c.jpeg
-Personal,15221571,"Blood, Sweat And Tears","Blood, Sweat & Tears",1969,US,Columbia,CS 9720,Rock,Blues Rock,images/7645040cb525beed.jpeg
-Personal,707932,"Blood, Sweat And Tears","Blood, Sweat & Tears Greatest Hits",1972,US,Columbia,KC 31170,Jazz,Blues Rock,images/e4377eae634b8757.jpeg
-Personal,11105483,The Blues Brothers,Briefcase Full Of Blues,1978,US,Atlantic,SD 19217,Blues,Chicago Blues,images/9f347ee617e251f0.jpeg
 For Sale,5168753,Bob Crosby,Big Bands: Bob Crosby,1984,US,Time Life Music,STBB-14,Jazz,Big Band,images/808a739abb2eb949.jpeg
-Personal,12316185,Bob Seger And The Silver Bullet Band,Against The Wind,1980,US,Capitol Records,SOO-12041,Rock,Blues Rock,images/d1b04ed5766c2cdf.jpeg
-Personal,13925161,Bob Seger And The Silver Bullet Band,Night Moves,1986,US,Capitol Records,ST-11557,Rock,Pop Rock,images/c06613502ccc3063.jpeg
-Personal,10244818,Bob Seger And The Silver Bullet Band,Stranger In Town,1978,US,Capitol Records,SW-11698,Rock,Rock & Roll,images/b137747f32afa079.jpeg
 For Sale,1532125,Bobby Goldsboro,Honey,1968,US,United Artists Records,UAS 6642,Pop,Vocal,images/4d1f32f16c245230.jpeg
 For Sale,6535141,Bonnie Owens,Mother's Favorite Hymns,1970,US,Capitol Records,ST-557,"Folk, World, & Country",Gospel,images/694048b230fbdf03.jpeg
 For Sale,2352116,Bonnie Tyler,It's A Heartache,1978,US,RCA Victor,AFL1-2821,Rock,Pop Rock,images/b2d2056466b5ca1c.jpeg
@@ -142,7 +524,6 @@ For Sale,5628520,Brad Swanson,22 Great Ragtime Hits,1974,US,Thunderbird Records,
 For Sale,4348727,Brenda Lee,"""Let Me Sing""",1964,US,Decca,DL 74439,Rock,Rock & Roll,images/d5830595f4bac370.jpeg
 For Sale,2055698,Brenda Lee,10 Golden Years,1966,US,Decca,DL 74757,"Folk, World, & Country",Country,images/5890b30e2b3b4753.jpeg
 For Sale,19121449,Brenda Lee,10 Golden Years,1966,US,MCA Records,MCA-107,Rock,Rock & Roll,images/bdfae0c5d69f48fb.jpeg
-For Sale,3036469,Brenda Lee,All Alone Am I,1963,US,Decca,DL 74370,Pop,Vocal,images/6fbcb7d05acc0e39.jpeg
 For Sale,3036469,Brenda Lee,All Alone Am I,1963,US,Decca,DL 74370,Pop,Vocal,images/6fbcb7d05acc0e39.jpeg
 For Sale,2289746,Brenda Lee,All Alone Am I,1963,US,Decca,DL 4370,Pop,Ballad,images/3e5448c29885427d.jpeg
 For Sale,3534616,Brenda Lee,By Request,1964,US,Decca,DL 74509,Pop,,images/a71bf37815ce8083.jpeg
@@ -160,7 +541,6 @@ For Sale,2267458,Brenda Lee,This Is Brenda,1960,US,Decca,DL 4082,Rock,Rockabilly
 For Sale,6721816,British Regimental Bands,Pass In Review,1962,US,Somerset,SF-16300,Brass & Military,Marches,images/919c9cd54babb81d.jpeg
 For Sale,3483274,Brooke Pemberton,The Ragtime Kid,1958,US,Warner Bros. Records,WS 1235,Jazz,Ragtime,images/9ccb96d8189827d2.jpeg
 For Sale,1510160,Brother International Corporation,Hear How To Touch Type - For Beginners Or Refresher Course,1960,US,Brother International Corporation,none,Non-Music,Education,images/299a952e2e08866d.jpeg
-Personal,8712484,Brothers Johnson,Right On Time,1977,US,A&M Records,SP-4644,Funk / Soul,Soul,images/73e6e2406b617f98.jpeg
 For Sale,3901673,The Browns (3),The Best Of The Browns,1966,US,RCA Victor,LSP-3561,Pop,,images/3b0a967434d1d306.jpeg
 For Sale,32585334,The Browns (3),Town &  Country,1960,US,RCA Victor,LSP-2174,"Folk, World, & Country",,images/a215d9428728a421.jpeg
 For Sale,4400915,The Browns (3),Sing Their Hits,1960,US,RCA Victor,LPM-2260,"Folk, World, & Country",Country,images/98491c0a019c863f.jpeg
@@ -199,7 +579,6 @@ For Sale,3447369,The Buckaroos,The Buck Owens Song Book,1966,US,Capitol Records,
 For Sale,3711661,Buddy Cole,Powerhouse!,1959,US,Warner Bros. Records,WS 1310,Jazz,,images/48f60f8e43f396aa.jpeg
 For Sale,2814376,Buddy Greco,Greatest Hits,1963,US,Epic,LN 24043,Pop,,images/2acd8030bec421d9.jpeg
 For Sale,4878160,Buddy Greco,On Stage,1964,US,Epic,BN 26116,Jazz,Ballad,images/e4e7cbd33c764d26.jpeg
-Personal,1306381,Buffalo Springfield,Retrospective The Best Of Buffalo Springfield,1969,US,ATCO Records,SD 33-283,Rock,Folk Rock,images/350ce67e36fe5982.jpeg
 For Sale,4610554,Burl Ives,Coronation Concert,1954,US,Decca,DL 8080,"Folk, World, & Country",Folk,images/02e0c88c30a5622a.jpeg
 For Sale,4106057,Burl Ives,Have A Holly Jolly Christmas,1965,US,Decca,DL 74689,"Folk, World, & Country",Country,images/3daa3dede71ff387.jpeg
 For Sale,3758685,Burl Ives,How Great Thou Art,1971,US,Word,WST-8537-LP,"Folk, World, & Country",Gospel,images/0f978168201eb64c.jpeg
@@ -226,7 +605,7 @@ For Sale,7428656,Carl Smith (3),Love While You Can,1967,US,Columbia Record Club,
 For Sale,5567068,Carl Smith (3),The Carl Smith Touch,1960,US,Columbia Special Products,CSRP 8332,"Folk, World, & Country",Country,images/367dd053243c3075.jpeg
 For Sale,5913839,Carl Smith (3),The Country Gentleman,1967,US,Columbia,CS-9410,"Folk, World, & Country",Country,images/e9e494b28e4af964.jpeg
 For Sale,2872250,Carla Alberghetti,My Cousin Josefa (An Original Recording),1969,US,Harlequin Records (2),H-3270,Stage & Screen,Musical,images/22f2f830d0fbbc7c.jpeg
-For Sale,8327991,Carlos Gardel,Lo Mejor De,1977,Mexico,RCA Victor,MKLA-34,Latin,Tango,images/89605c40179cddda.jpeg
+For Sale,8327991,Carlos Gardel,Lo Mejor De,1977,Mexico,RCA Victor,MKLA-34,Latin,Tango,images/9930dd19538b21b8.jpeg
 For Sale,3101278,Carlos Montoya,A Spanish Fiesta / Spanish Gypsy Airs,1975,US,VOX (6),STPL 513.430,Latin,Flamenco,images/9fc6cd15cfdad5bf.jpeg
 For Sale,8715703,Carlos Montoya,Adventures In Flamenco,,US,ABC-Paramount,ABCS-508,Latin,Flamenco,images/6950c3e31749cd04.jpeg
 For Sale,6062754,Carlos Montoya,Carlos Montoya,1960,US,RCA Victor,LPM-2251,Latin,Flamenco,images/eb18dffcf595d087.jpeg
@@ -245,7 +624,6 @@ For Sale,7541733,Carlos Montoya,Spontaneous Flamenco,1966,US,ABC-Paramount,ABCS-
 For Sale,3751863,Carmel Quinn,Arthur Godfrey Presents Carmel Quinn,1955,US,Columbia,CL 629,Pop,Vocal,images/9d73ce36813b29bb.jpeg
 For Sale,6983097,Carmel Quinn,Carmel Quinn's TV Party,1956,US,Columbia,CL 807,"Folk, World, & Country",Vocal,images/9eb7c1b729b731db.jpeg
 For Sale,13034022,Carmen D'Oro,I Aim To Please (Deseo Complacer),,,Qui Records,Q1800,Latin,Cha-Cha,images/4499bcd9958af9af.jpeg
-Personal,19543894,The Cars,The Cars,1978,US,Elektra,6E-135,Rock,New Wave,images/dd2ace5a2eba07f2.jpeg
 For Sale,13449694,Cecil Brower And His Square Dance Fiddlers,America's Favorite Square Dances (With Calls),1953,US,Cumberland Records,MGC-29508,"Folk, World, & Country",Country,images/46eb970b4fe6115c.jpeg
 For Sale,7729567,Charles Aznavour,The Aznavour Story,1965,US,Reprise Records,R-6172,Pop,Chanson,images/3bb321cc940bf3da.jpeg
 For Sale,2500791,Charley Pride,A Sunshiny Day With Charley Pride,1972,US,RCA Victor,LSP-4742,"Folk, World, & Country",Country,images/a01724a26c5906ee.jpeg
@@ -254,16 +632,11 @@ For Sale,1734963,Charley Pride,In Person,1969,US,RCA Victor,LSP-4094,"Folk, Worl
 For Sale,3276436,Charley Pride,Songs Of Pride...Charley That Is,1968,US,RCA Victor,LSP-4041,"Folk, World, & Country",Country,images/6621775f74c37697.jpeg
 For Sale,3780211,Charlie Barnet,Big Bands: Charlie Barnet,1983,US,Time Life Music,STBB07,Jazz,Big Band,images/9beb9ed276b0be04.jpeg
 For Sale,3671099,Charlie Barnet,The Complete Charlie Barnet Vol. 1/1935-1937,1977,US,Bluebird (3),AXM2-5526,Jazz,,images/14ae370e3d7aa12d.jpeg
-Personal,10154266,Charlie Byrd,Bossa Nova Pelos Passaros,1966,US,Riverside Records,RM 436,Jazz,Bossa Nova,images/7b1a1ca1faf06b34.jpeg
-Personal,3416962,Charlie Byrd,For All We Know,1971,US,Columbia,G 30622,Jazz,Cool Jazz,images/adbf94861103c391.jpeg
 For Sale,28107301,Charlie Rich,A Time For Tears,1970,US,Sun (9),SUN 123,"Folk, World, & Country",Country,images/923ca78972b2f4be.jpeg
 For Sale,1595123,Charlie Rich,Behind Closed Doors,1973,US,Epic,KE 32247,Pop,Country,images/153369273e7118c7.jpeg
 For Sale,25896859,Charlie Rich,Sun's Best Of Charlie Rich,1974,US,Sun (9),SUN 135,Rock,Country,images/8914125399119fc8.jpeg
-For Sale,25896859,Charlie Rich,Sun's Best Of Charlie Rich,1974,US,Sun (9),SUN 135,Rock,Country,images/8914125399119fc8.jpeg
 For Sale,2304226,Charlie Rich,The Silver Fox,1974,US,Epic,PE 33250,"Folk, World, & Country",Country,images/db5d7fa887da27a5.jpeg
 For Sale,3759129,Charlie Rich,The Silver Fox,1974,US,Power Pak,PO-252,"Folk, World, & Country",Country,images/f350a7b0d951fea3.jpeg
-For Sale,790743,Cher,Half-Breed,1973,US,MCA Records,MCA 2104,Rock,Pop Rock,images/f2ccabd31228ce89.jpeg
-For Sale,790743,Cher,Half-Breed,1973,US,MCA Records,MCA 2104,Rock,Pop Rock,images/f2ccabd31228ce89.jpeg
 For Sale,790743,Cher,Half-Breed,1973,US,MCA Records,MCA 2104,Rock,Pop Rock,images/f2ccabd31228ce89.jpeg
 For Sale,7152546,Cher,Half-Breed,1973,US,MCA Records,MCA-2104,Rock,Pop Rock,images/0e84567df976dd2b.jpeg
 For Sale,19201792,Chet Atkins,A Session With Chet Atkins,1955,US,RCA Victor,LSP-1090(e),Blues,Country Blues,images/626970a8a363cd99.jpeg
@@ -271,8 +644,6 @@ For Sale,3076280,Chet Atkins,Country Pickin',1971,US,RCA Camden,CXS-9006,"Folk, 
 For Sale,1954750,Chet Atkins,The Most Popular Guitar,1961,US,RCA Victor,LPM-2346,Jazz,Country,images/8fd412c8524e0325.jpeg
 For Sale,2802362,Chet Atkins,The Other Chet Atkins,1960,US,RCA Victor,LPM-2175,Latin,Flamenco,images/ab470c340c382be9.jpeg
 For Sale,19182997,Chet Atkins,Reminiscing,1964,US,RCA Victor,LSP-2952,"Folk, World, & Country",Country,images/28ef214ffc9afc6e.jpeg
-Personal,9083953,Chicago (2),Chicago,1970,US,Columbia,KGP 24,Jazz,Jazz-Rock,images/8c6d2b8dc62cdfc8.jpeg
-Personal,2172078,Chicago (2),Chicago Transit Authority,1969,US,Columbia,GP 8,Jazz,Blues Rock,images/f499796c418a1998.jpeg
 For Sale,5138332,The Chipmunks,Christmas With The Chipmunks Vol. 2,1963,US,Liberty,LRP-3334,Children's,Holiday,images/3fde5c55fa31a915.jpeg
 For Sale,9693256,Chubby Checker,For 'Teen Twisters Only,1961,US,Parkway,SP 7009,Rock,Rock & Roll,images/a1a96ba7adfc8624.jpeg
 For Sale,969015,Chubby Checker,Twistin' Round The World,1962,US,Parkway,P-7008,Rock,Rock & Roll,images/4c6922c37cddecca.jpeg
@@ -289,9 +660,6 @@ For Sale,6839228,Connie Smith,I Never Knew (What That Song Meant Before),1974,US
 For Sale,6056443,Connie Smith,The Best Of Connie Smith,1972,US,RCA Victor,LSP 3848,"Folk, World, & Country",Country,images/3af7196b354fee33.jpeg
 For Sale,10134144,Conway Twitty,I Can't Stop Loving You / (Lost Her Love) On Our Last Date,1972,US,Decca,DL 7-5361,"Folk, World, & Country",Country,images/86ce04efedfd1154.jpeg
 For Sale,7867001,The Coon-Sanders Nighthawks,Radio's Aces,1965,US,RCA Victor,LPV-511,Jazz,,images/04086e33c1c00cb7.jpeg
-Personal,7221437,Creedence Clearwater Revival,Bayou Country,1969,US,Fantasy,8387,Rock,Folk Rock,images/aef335bb870ca505.jpeg
-Personal,2754978,Creedence Clearwater Revival,Creedence Clearwater Revival,1968,US,Fantasy,8382,Rock,Rock & Roll,images/a735258136388bd6.jpeg
-Personal,1132195,"Crosby, Stills, Nash & Young",Déjà Vu,1970,US,Atlantic,SD 7200,Rock,Folk Rock,images/90f06a0a2bd7a502.jpeg
 For Sale,5166579,Cy Coleman,The Ages Of Rock Plays The Classic Beat,1968,US,MGM Records,E/SE-4502,Jazz,Easy Listening,images/d5f6e9f1e8ff993e.jpeg
 For Sale,3341506,Cy Payne & His Orchestra,Songs That Won The War,1973,UK,CBS,S 30026,Jazz,Theme,images/7461d68cf1312bc2.jpeg
 For Sale,13202499,The Darol Rice Silver Saxophones,Play The Golden Hymns,1964,US,RCA Victor,LSP-2929,"Folk, World, & Country",Gospel,images/65f7134e71024338.jpeg
@@ -318,12 +686,10 @@ For Sale,1838906,David Rose & His Orchestra,A Merry Christmas To You,1956,US,MGM
 For Sale,11954012,David Yantis,Unconditional Love,1971,US,David Yantis Publications,DY-101,Rock,Folk,images/108587eee5f48940.jpeg
 For Sale,804766,Dean Martin,Everybody Loves Somebody,1964,US,Reprise Records,RS-6130,Jazz,Easy Listening,images/b93a1b697078cf74.jpeg
 For Sale,23697290,Der Flotte Franz Und Seine Bierbrummer,"Ja, Das Haben Die Mädchen So Gerne (Schwoof Anno Dazumal)",1970,Germany,Baccarola,S 71 753 IU,"Folk, World, & Country",Folk,images/2d048f5eae096049.jpeg
-Personal,15436497,Derek & The Dominos,Layla And Other Assorted Love Songs,1973,US,ATCO Records,SD 2-704,Rock,Blues Rock,images/0843d482bd721a68.jpeg
 For Sale,3402192,Diana Trask,The Mood I'm In,1975,US,ABC Dot,DOSD-2024,"Folk, World, & Country",Country,images/1cd28a46e27b2fab.jpeg
 For Sale,12951365,Dick Kesner,Intermezzo,1959.0,US,Brunswick,BL 754054,Jazz,Light Music,images/6d4d191d0a36239a.jpeg
 For Sale,3054482,"Dick Kesner, His Magic Stradivarius And Orchestra",Dick Kesner And His Magic Stradivarius,1960,US,Brunswick,BL 754051,Pop,Light Music,images/0923a3038cb373e2.jpeg
 For Sale,3519759,Dick Schory's Percussion And Brass Ensemble,Stereo Action Goes Broadway,1961,US,RCA Victor,LSA-2382,Jazz,Space-Age,images/33f4042b1ab6720e.jpeg
-For Sale,3334941,Dick Schory's Percussion Pops Orchestra,Holiday For Percussion,1962,US,RCA Victor,LSA-2485,Jazz,Space-Age,images/f1ff33b4903007a7.jpeg
 For Sale,3334941,Dick Schory's Percussion Pops Orchestra,Holiday For Percussion,1962,US,RCA Victor,LSA-2485,Jazz,Space-Age,images/f1ff33b4903007a7.jpeg
 For Sale,1907409,Die Oberkrainer Musikanten,Die Oberkrainer Musikanten,1967,Germany,Fass,1477 WY,"Folk, World, & Country",Volksmusik,images/f8db402b4e07f91d.jpeg
 For Sale,9406376,"Dixieland ""All Stars""",The Golden Era Of Dixieland Jazz: 1887-1937 Vol.II,1957,US,Design Records (2),DLP-91,Jazz,Dixieland,images/32d5115f2f223014.jpeg
@@ -334,11 +700,9 @@ For Sale,5289936,Don Gibson,Don Gibson With Spanish Guitars,,US,RCA Victor,LSP-3
 For Sale,3887098,Don Gibson,I Wrote A Song,1963,US,RCA Victor,LSP-2702,"Folk, World, & Country",Country,images/ecd32f068c0690f6.jpeg
 For Sale,4252036,Don Gibson,Look Who's Blue,1960,US,RCA Victor,LPM-2184,"Folk, World, & Country",Country,images/ba4e5a51ab9f4c92.jpeg
 For Sale,4875524,Don Gibson,Too Much Hurt,1965,US,RCA Victor,LSP 3470,"Folk, World, & Country",Country,images/6e1d8b625b4bc726.jpeg
-Personal,11527917,Don McLean,American Pie,1971,US,United Artists Records,UAS-5535,Rock,Folk Rock,images/93caa7dbdf8e5131.jpeg
 For Sale,4928726,Don Williams (2),Cafe Carolina,1984,US,MCA Records,MCA-5493,"Folk, World, & Country",Country,images/215a72cdd5ff66df.jpeg
 For Sale,2395536,Don Williams (2),Country Boy,1977,US,ABC Dot,DO-2088,"Folk, World, & Country",Country,images/be1bc3a33640968c.jpeg
 For Sale,1898724,Don Williams (2),Especially For You,1981,US,MCA Records,MCA-5210,"Folk, World, & Country",Country,images/3d5fcc1c92bbbb85.jpeg
-For Sale,11655928,Don Williams (2),Expressions,1978,US,ABC Records,AY 1069,"Folk, World, & Country",Country,images/92ec93cbbcb0da96.jpeg
 For Sale,11655928,Don Williams (2),Expressions,1978,US,ABC Records,AY 1069,"Folk, World, & Country",Country,images/92ec93cbbcb0da96.jpeg
 For Sale,3056200,Don Williams (2),Expressions,1978,US,ABC Records,AY 1069,"Folk, World, & Country",Country,images/72d6bcfa94342e2c.jpeg
 For Sale,3757982,Don Williams (2),Harmony,1976,US,ABC Dot,DOSD-2049,"Folk, World, & Country",Country,images/a8028fdf9bfb8bf9.jpeg
@@ -347,13 +711,9 @@ For Sale,2306469,Don Williams (2),Visions,1977,US,ABC Dot,DO-2064,"Folk, World, 
 For Sale,8016357,Don Williams (2),Vol. III,1974,US,MCA Records,MCA-37155,"Folk, World, & Country",Country,images/986843ba5731bbde.jpeg
 For Sale,2487455,Don Williams (2),Yellow Moon,1983,US,MCA Records,MCA-5407,"Folk, World, & Country",Country,images/b5dfff64cb65feaa.jpeg
 For Sale,1898553,Don Williams (2),You're My Best Friend,1975,US,ABC Dot,DOSD-2021,"Folk, World, & Country",Country,images/cb0f178a8ad6c483.jpeg
-Personal,32331060,The Doobie Brothers,Minute By Minute,1978,US,Warner Bros. Records,BSK 3193,Rock,Pop Rock,images/a5f431be83e10626.jpeg
-Personal,1328141,The Doobie Brothers,Takin' It To The Streets,1976,US,Warner Bros. Records,BS 2899,Rock,Pop Rock,images/f1c9d7b92590928c.jpeg
-Personal,26291786,The Doobie Brothers,The Captain And Me,1973,US,Warner Bros. Records,BS 2694,Rock,Classic Rock,images/33abcf74152831f7.jpeg
 For Sale,2551511,Doris Day,Day Dreams,1955,US,Columbia,CL 624,Pop,Vocal,images/be05338b6f0deb3a.jpeg
 For Sale,9919415,Dorothy Kirsten,The Student Prince,1953,Canada,Columbia Masterworks,ML 4592,Classical,Musical,images/111a1e4ed52e1961.jpeg
 For Sale,3021891,Dorothy Moore,Misty Blue,1976,US,Malaco Records,MAL 6351,Funk / Soul,Soul,images/f64bb4d2371b785b.jpeg
-For Sale,1147295,Doug Kershaw,Alive & Pickin',1975,US,Warner Bros. Records,BS 2851,Rock,Folk Rock,images/c199e47d0595e78f.jpeg
 For Sale,1147295,Doug Kershaw,Alive & Pickin',1975,US,Warner Bros. Records,BS 2851,Rock,Folk Rock,images/c199e47d0595e78f.jpeg
 For Sale,1652454,Doug Kershaw,Doug Kershaw,1971,US,Warner Bros. Records,WS 1906,"Folk, World, & Country",Cajun,images/27f64b788df9da4a.jpeg
 For Sale,2685090,Doug Kershaw,Spanish Moss,1970,US,Warner Bros. Records,WS 1861,"Folk, World, & Country",Cajun,images/76b06c64f51cdce6.jpeg
@@ -362,13 +722,11 @@ For Sale,1165564,Duke Ellington,Big Bands: Duke Ellington,1983,US,Time Life Musi
 For Sale,3402499,Duke Ellington,Flaming Youth,1969,US,RCA Victor,LPV-568,Jazz,,images/d1fd51a31dab7575.jpeg
 For Sale,8638526,Duke Ellington,Giants Of Jazz - Duke Ellington,1980,US,Time Life Records,STL-J02,Jazz,Big Band,images/72cdf10d7e07698c.jpeg
 For Sale,3232093,Duke Ellington,The Early Duke Ellington,1968,US,Everest Records Archive Of Folk & Jazz Music,FS221,Jazz,Swing,images/40af0e12449c7d24.jpeg
-For Sale,3232093,Duke Ellington,The Early Duke Ellington,1968,US,Everest Records Archive Of Folk & Jazz Music,FS221,Jazz,Swing,images/40af0e12449c7d24.jpeg
 For Sale,2226368,Duke Ellington,This Is Duke Ellington,1971,US,RCA Victor,VPM-6042,Jazz,Big Band,images/9d86bafa3d6fc20b.jpeg
 For Sale,5168804,Duke Ellington And His Cotton Club Orchestra,Big Bands: Cotton Club Nights,1985,US,Time Life Music,STBB-16,Jazz,Big Band,images/cca71ba547611433.jpeg
 For Sale,2925179,The Dukes Of Dixieland,"More Best Of The Dukes Of Dixieland, Vol. 2",1962,US,Audio Fidelity,AFSD 5964,Jazz,Dixieland,images/f43f9ee66e73401b.jpeg
 For Sale,1899729,The Dukes Of Dixieland,"Piano Ragtime With The Dukes Of Dixieland, Volume 11",1960,US,Audio Fidelity,AFSD-5928,Jazz,Dixieland,images/9dec26b63d329e8c.jpeg
 For Sale,6844308,Duo Pomponio-Zarate,Masters Of The Guitar Volume 2,1964,US,RCA Victor Red Seal,LSC-2717,Classical,,images/d633ffb39afaebab.jpeg
-Personal,1934367,Eagles,Hotel California,1976,US,Asylum Records,7E-1084,Rock,Classic Rock,images/d8beb3c1ff0705b0.jpeg
 For Sale,5152978,Earl Thomas Conley,Somewhere Between Right And Wrong,1982,US,RCA,AHL1-4348,"Folk, World, & Country",Country,images/ea10112565cdb413.jpeg
 For Sale,13787646,Earl Wild,The Romantic Rachmaninoff: The Complete Piano Concertos,1966,Canada,Reader's Digest,RDA 29-A,Classical,Romantic,images/474394db58b1bb56.jpeg
 For Sale,4246390,Earl Wrightson,A Night With Rudolf Friml,1961,US,Columbia,CL 1630,Classical,,images/8094496f81332208.jpeg
@@ -386,21 +744,13 @@ For Sale,3143551,Ed Bruce,One To One,1981,US,MCA Records,MCA-5188,"Folk, World, 
 For Sale,6226203,Ed Bruce,You're Not Leavin' Here Tonight,1983,US,MCA Records,MCA-5416,"Folk, World, & Country",Country,images/43b15b137cb76b83.jpeg
 For Sale,7676449,Eddie Condon,Dixieland Dance Party,1958,US,Dot Records,DLP 25141,Jazz,Dixieland,images/c713364c6f153b49.jpeg
 For Sale,4413327,Eddie Rabbitt,Horizon,1980,Canada,Elektra,6E-276,"Folk, World, & Country",Country,images/da5af843a586a83d.jpeg
-For Sale,4413327,Eddie Rabbitt,Horizon,1980,Canada,Elektra,6E-276,"Folk, World, & Country",Country,images/da5af843a586a83d.jpeg
 For Sale,1277331,Eddie Rabbitt,Horizon,1980,US,Elektra,6E-276,Rock,Country,images/09e851d77214b4dd.jpeg
 For Sale,2505774,Eddie Rabbitt,Variations,1978,US,Elektra,6E-127,"Folk, World, & Country",Country,images/9b04e48d4b0dad64.jpeg
 For Sale,8871571,Eddy Duchin And His Orchestra,The Fabulous Eddy Duchin,1995.0,US,Vik,LX-1043,Jazz,Easy Listening,images/f09ad4cab36ecde9.jpeg
-Personal,4722722,The Edgar Winter Group,They Only Come Out At Night,1972,US,Epic,KE 31584,Rock,Classic Rock,images/91920874adc23130.jpeg
 For Sale,12719785,Edvard Grieg,Grieg's Greatest Hits Made Popular in Songs of Norway,1971,Canada,RCA,LSC-3198,Classical,Romantic,images/4f1ac4ea75f97e93.jpeg
 For Sale,4099267,Eileen Rodgers,Blue Swing,1958,US,Columbia,CS 8029,Funk / Soul,Soul,images/9ba39517949ba2f8.jpeg
 For Sale,16267305,Eine Große Deutsche Militär-Kapelle,Berühmte Marschmusik,,US,Fiesta,FLPS 1838,Brass & Military,Marches,images/0a44317b98a85a94.jpeg
-Personal,548079,Electric Light Orchestra,Olé ELO,1976,US,United Artists Records,UA-LA630-G,Rock,Pop Rock,images/335f681a0a30d22c.jpeg
 For Sale,8307058,Elena Paz,"Sing, Say And Speak Spanish",,US,Peter Pan Records,8014,Children's,,images/a23432f4f98c11f5.jpeg
-Personal,9236051,Elton John,Madman Across The Water,1971,US,UNI Records,93120,Rock,Pop Rock,images/70d587ec99d9a198.jpeg
-Personal,6775880,"Emerson, Lake & Palmer",Brain Salad Surgery,1973,US,Manticore,MC 66669,Rock,Psychedelic Rock,images/d2a7634a871c90bd.jpeg
-Personal,9481199,"Emerson, Lake & Palmer","Emerson, Lake & Palmer",1970,Canada,Cotillion,SD 9040,Rock,Prog Rock,images/98fa9096f21ab17b.jpeg
-Personal,1343578,"Emerson, Lake & Palmer",Trilogy,1972,US,Cotillion,SD 9903,Rock,Prog Rock,images/e96d9263798b5d5c.jpeg
-Personal,15492513,"Emerson, Lake & Palmer",Welcome Back My Friends To The Show That Never Ends - Ladies And Gentlemen,1974,US,Manticore,MC 3-200,Rock,Prog Rock,images/b7ecea1a7563b217.jpeg
 For Sale,3610138,Emma Barrett,Sweet Emma Barrett And Her New Orleans Music,1963,US,Southland Records,Southland LP 241,Jazz,Ragtime,images/dff05b17c0a5bbf7.jpeg
 For Sale,1730451,Emmylou Harris,Elite Hotel,1975,US,Reprise Records,MS 2236,Rock,Country Rock,images/7ebeca0ecd46ab51.jpeg
 For Sale,7191122,Enoch Light,The Roaring 20's 16 Greatest Hits,1971,US,ABC Records,ABCS-746,Jazz,Swing,images/2388a6c644216f72.jpeg
@@ -413,7 +763,6 @@ For Sale,9451667,Enrico Caruso,Caruso In Song,1965,US,RCA Victor Red Seal,LM-277
 For Sale,5702881,Enrico Caruso,From The Best Of Caruso,1960,US,RCA Victor Red Seal,SP-33-75,Classical,Opera,images/17043371a6299c22.jpeg
 For Sale,34804883,Erich Kunz,"Erich Kunz Sings German University Songs Of Wenching, Wining And Other Irreverent Pastimes",1956,Australia,Vanguard,VRS-477,Classical,Choral,images/1aa436bbc67d3dbe.jpeg
 For Sale,5764829,Erich Kunz,Erich Kunz Sings German University Songs (Volume 4),1959,US,Vanguard,VSD-2040,"Folk, World, & Country",Folk,images/56ba0f5cff8f5910.jpeg
-For Sale,9095801,Erich Kunz,"Erich Kunz Sings German University Songs Of Wooing, Wit And Wanderlust",1958,US,Vanguard,SRV-278 SD,"Folk, World, & Country",,images/d3382735764d4066.jpeg
 For Sale,9095801,Erich Kunz,"Erich Kunz Sings German University Songs Of Wooing, Wit And Wanderlust",1958,US,Vanguard,SRV-278 SD,"Folk, World, & Country",,images/d3382735764d4066.jpeg
 For Sale,15559325,Erich Leinsdorf,The World's Greatest Marches,1964,US,RCA Victor Red Seal,LSC-2757,Classical,Marches,images/d7bbb6c1f42b1dc4.jpeg
 For Sale,7332780,Ernest Tubb,Ernest Tubb,1975,US,MCA Records,MCA-496,"Folk, World, & Country",,images/2cba6237b5d8635a.jpeg
@@ -442,7 +791,6 @@ For Sale,7333962,Faron Young,The Object Of My Affection,1958,US,Capitol Records,
 For Sale,5090300,Faron Young,This Is Faron Young!,1961,US,Capitol Records,T1096,"Folk, World, & Country",Country,images/b19923478a99637d.jpeg
 For Sale,4598025,Faye Tucker,Blues From A Broken Hearted Country Gal,1968,US,Somerset,SF-28700,"Folk, World, & Country",Country,images/cd61d36995072b45.jpeg
 For Sale,1022657,Felix Mendelssohn-Bartholdy,Concerto In E Minor For Violin And Orchestra / Concerto In D Major For Violin And Orchestra,1960,US,Columbia Masterworks,ML 4965,Classical,Romantic,images/3cc8c517a6f08e2a.jpeg
-For Sale,1022657,Felix Mendelssohn-Bartholdy,Concerto In E Minor For Violin And Orchestra / Concerto In D Major For Violin And Orchestra,1960,US,Columbia Masterworks,ML 4965,Classical,Romantic,images/3cc8c517a6f08e2a.jpeg
 For Sale,10323702,Felix Mendelssohn-Bartholdy,"Symphony No. 4 In A Major, Op. 90 (Italian) / Symphony No. 5 In D Major, Op. 107 (Reformation)",1975,Italy,Deutsche Grammophon,138 684 SLPM,Classical,Romantic,images/555f54dd52f0e1af.jpeg
 For Sale,5050747,Felix Mendelssohn-Bartholdy,"Symphony No. 4, ""Italian"" / Symphony No. 5, ""Reformation""",1961,Canada,Deutsche Grammophon,2535 171,Classical,Romantic,images/6776051bd4ba697a.jpeg
 For Sale,5843708,Ferde Grofé,Grofé ― Grand Canyon Suite • Beethoven ― Wellington's Victory,1960,US,RCA Victor Red Seal,LM-2433,Classical,,images/527623b226d26c2e.jpeg
@@ -462,11 +810,6 @@ For Sale,23556284,Floyd Cramer,More Country Classics,1969,US,RCA Victor,LSP-4220
 For Sale,2572465,Floyd Cramer,Plays Country Classics,1968,US,RCA Victor,LSP-3935,"Folk, World, & Country",Country,images/bd1b0c187d896c4d.jpeg
 For Sale,2125658,Floyd Tillman,Floyd Tillman,1985,US,Columbia,FC 39996,"Folk, World, & Country",Country,images/249271f6de1ae804.jpeg
 For Sale,8229934,Floyd Tillman,Floyd Tillman's Country,1967,US,Musicor Records,MM 2136,"Folk, World, & Country",Country,images/392e6d29743133bc.jpeg
-Personal,1150314,Focus (2),Moving Waves,1971,US,Sire,SAS 7401,Rock,Prog Rock,images/b02b58354d28316c.jpeg
-Personal,401505,Foghat,Energized,1974,US,Bearsville,BR 6950,Rock,Rock & Roll,images/bcdda5632acee2bf.jpeg
-Personal,8437956,Foghat,Fool For The City,1975,US,Bearsville,BR 6959,Rock,Rock & Roll,
-Personal,18400936,Foreigner,Foreigner,1977,US,Atlantic,SD 19109,Rock,Hard Rock,images/c4d165fa5c86a545.jpeg
-Personal,1325889,Foreigner,Head Games,1979,US,Atlantic,SD 29999,Rock,Pop Rock,images/c764b357383cafca.jpeg
 For Sale,11242716,The Four Freshmen,4 Freshmen And 5 Trumpets,1957,US,Capitol Records,T763,Jazz,,images/91d2b02a98405029.jpeg
 For Sale,2596737,The Four Freshmen,The Best Of The Four Freshmen,1961,US,Capitol Records,SM-11965,Jazz,Vocal,images/6b57dc0bf156c8c9.jpeg
 For Sale,2930351,The Four Freshmen,Voices And Brass,1960,US,Capitol Records,T-1295,Pop,Big Band,images/c4f8e911351f1d6c.jpeg
@@ -488,7 +831,7 @@ For Sale,5604138,Freddie Hart,The Spirited Freddie Hart,1962,US,Columbia,CL 1792
 For Sale,7956331,Freddie Hart,The World Of Freddie Hart,1972,US,Columbia,G 31550,"Folk, World, & Country",Country,images/34b1b824acef98da.jpeg
 For Sale,6301569,Freddie Hart And The Heartbeats,Bless Your Heart,,US,Capitol Records,ST-11073,"Folk, World, & Country",,images/6e63b90aa1eae552.jpeg
 For Sale,6775661,Freddie Hart And The Heartbeats,Got The All Overs For You,1972,US,Capitol Records,ST-11107,"Folk, World, & Country",Country,images/7d4f50f46299a154.jpeg
-For Sale,14295092,Freddy Gardner,Freddy Gardner,1951.0,US,Capitol Records,T-10296,Jazz,Swing,images/95e018f42684c078.jpeg
+For Sale,14295092,Freddy Gardner,Freddy Gardner,1951,US,Capitol Records,T-10296,Jazz,Swing,images/95e018f42684c078.jpeg
 For Sale,2234373,Frédéric Chopin,"Polonaises, Nocturne, Etudes, Mazurkas",1976,US,RCA Custom,FW-305,Classical,Romantic,images/dad4e7de1de215e1.jpeg
 For Sale,4067993,Frédéric Chopin,The Chopin Ballades,1960,Canada,RCA Victor Red Seal,LSC-2370,Classical,Romantic,images/888bf9b68638fd6d.jpeg
 For Sale,3583969,Frédéric Chopin,Polonaises,1962,US,Columbia Masterworks,MS 6305,Classical,Romantic,images/8773e505dae078e0.jpeg
@@ -498,16 +841,12 @@ For Sale,6753606,Frederick Fennell,Macho Marches,1979,US,Telarc,DG-10043,Classic
 For Sale,5036315,Fritz Kreisler,Souvenirs,1968,US,RCA Victrola,VIC-1372,Classical,,images/6546888012841bf5.jpeg
 For Sale,1318273,Gail Davies,The Game,1980,US,Warner Bros. Records,BSK 3395,Rock,Country Rock,images/442c6f33a4509013.jpeg
 For Sale,1736984,General Douglas MacArthur,"Speech To Congress, April 19, 1951",1951,US,Columbia,PL 4410,Non-Music,Speech,images/ded768a0c98c87a9.jpeg
-Personal,6509777,Genesis,Invisible Touch,1986,US,Atlantic,81641-1-E,Rock,Soft Rock,images/d800ec7ed3472571.jpeg
-Personal,736216,Genesis,Three Sides Live,1982,US,Atlantic,SD 2-2000,Rock,Prog Rock,images/a26e0a9e700109a0.jpeg
-Personal,9188476,George Carlin,A Place For My Stuff,1981,US,Atlantic,SD 19326,Non-Music,Comedy,images/adc19b5a47fe627b.jpeg
 For Sale,2697563,George Jones & Tammy Wynette,Let's Build A World Together,,US,Epic,KE 32113,"Folk, World, & Country",Country,images/882ccd8df30bdd42.jpeg
 For Sale,2697534,George Jones & Tammy Wynette,Me And The First Lady,1972,US,Epic,KE 31554,"Folk, World, & Country",Country,images/4bef99a87432d359.jpeg
 For Sale,7817762,George Jones & Tammy Wynette,We Go Together,1971,Canada,Epic,KE 30802,"Folk, World, & Country",Country,images/15408d859b6ae9f0.jpeg
 For Sale,2959988,The George Shearing Quintet,An Evening With The George Shearing Quintet,1954,US,MGM Records,E3122,Jazz,Bop,images/c5e9451b388d5912.jpeg
 For Sale,2222339,The George Shearing Quintet,Latin Escapade,1957,US,Capitol Records,T 737,Jazz,Easy Listening,images/5f5963c523a5220f.jpeg
 For Sale,9163069,George Wright (2),The Genius Of George Wright,1958,US,HiFi Records,SR 713,Pop,Easy Listening,images/08a6f2c0de66ff9c.jpeg
-Personal,6413214,Gerry Rafferty,City To City,1978,US,United Artists Records,UA-LA840-G,Rock,Pop Rock,images/b92673cce2bfa62a.jpeg
 For Sale,4498387,Gheorghe Zamfir,Zamfir Plays The World's Most Beautiful Melodies,1988,US,Heartland Music,HL 1066 / HL 1067,Classical,Easy Listening,images/6aaad7ea51212e7d.jpeg
 For Sale,2294354,Glen Campbell,Basic,1978,US,Capitol Records,SW-11722,Rock,Country,images/b39fca74b7b70a99.jpeg
 For Sale,6731550,Glen Campbell,Burning Bridges,1967,US,Capitol Records,ST-2679,"Folk, World, & Country",Country,images/4f339c0be333f246.jpeg
@@ -516,7 +855,6 @@ For Sale,9154339,Glen Campbell,Gentle On My Mind,1967,Australia,Capitol Records,
 For Sale,7404334,Glen Campbell,Gentle On My Mind,1968,US,Capitol Records,ST 2809,Rock,Country Rock,images/02ed919eb857e230.jpeg
 For Sale,2198330,Glen Campbell,"Hey, Little One",1968,US,Capitol Records,ST 2878,"Folk, World, & Country",Country,images/3f4911da2daff6db.jpeg
 For Sale,4993680,Glen Campbell,Highwayman,1979,US,Capitol Records,SOO 12008,Rock,,images/98cc0166ec1f6105.jpeg
-For Sale,3124493,Glen Campbell,Limited Collector's Edition,1970,US,Capitol Records,SWAK 93157,Rock,Country,images/4ec1f1b85a3bde78.jpeg
 For Sale,3124493,Glen Campbell,Limited Collector's Edition,1970,US,Capitol Records,SWAK 93157,Rock,Country,images/4ec1f1b85a3bde78.jpeg
 For Sale,5114840,Glen Campbell,Southern Nights,1983,US,Capitol Records,ST-511601,"Folk, World, & Country",Country,images/15354889d04c6a94.jpeg
 For Sale,4437521,Glen Campbell,Still Within The Sound Of My Voice,1987,US,MCA Records,MCA-42009,"Folk, World, & Country",Country,images/3ec6be1d3bce0492.jpeg
@@ -540,12 +878,10 @@ For Sale,3546988,Hank Snow,Hello Love,1974,US,RCA Victor,APL1-0441,"Folk, World,
 For Sale,5403642,Hank Snow,"Hits, Hits & More Hits",1968,US,RCA Victor,LSP-3965,"Folk, World, & Country",Country,images/39044173a7b7a279.jpeg
 For Sale,5400256,Hank Snow,Tales Of The Yukon,1968,US,RCA Victor,LSP-4032,"Folk, World, & Country",Country,images/13ed56d738974e4b.jpeg
 For Sale,3247776,Hank Thompson,Movin' On,1974,US,ABC Dot,DOSD-2003,"Folk, World, & Country",Country,images/e14e3e4798c25c78.jpeg
-For Sale,3923967,Hanne-Lore Kuhse,A Lieder Recital,1967.0,Canada,RCA Victor Red Seal,LSC-2967,Classical,,images/20fb61637e95c1d0.jpeg
+For Sale,3923967,Hanne-Lore Kuhse,A Lieder Recital,1967,Canada,RCA Victor Red Seal,LSC-2967,Classical,,images/20fb61637e95c1d0.jpeg
 For Sale,25096393,Hansl Krönauer,Ich möcht'gern dein Herz klopfen hör'n,1973,Germany,Telefunken,SLE 14 722-P,Brass & Military,Brass Band,images/0a19d478ac6c2995.jpeg
-Personal,26892098,Harry Belafonte,Belafonte At Carnegie Hall,1959,USA & Canada,RCA Victor,LSO-6006 (2),Latin,,images/a4d03790f61dccc1.jpeg
 For Sale,521508,Harry Belafonte,Calypso,1956,US,RCA Victor,LPM-1248,Latin,Calypso,images/3632ef6d49b7d3e6.jpeg
 For Sale,3049306,Harry Kaapuni And His Royal Polynesians,Aloha Hawaii,1960,US,Coronet Records,CX-43,"Folk, World, & Country",Hawaiian,images/d5cd4d40d5d477c0.jpeg
-Personal,33511241,Harry Nilsson,Nilsson Schmilsson,1971,US,RCA Victor,LSP-4515,Rock,Pop Rock,images/bdbed57016323500.jpeg
 For Sale,9239546,Harry Owens & His Royal Hawaiians,Hawaiian Melodies,1949,US,Columbia,CL 6030,Jazz,Pacific,images/81d591b0785ebd8d.jpeg
 For Sale,1906517,The Harry Simeone Chorale,The Little Drummer Boy: A Christmas Festival,1966,US,20th Century Fox Records,S 3100,Classical,Holiday,images/ee46ecd489b1bfd7.jpeg
 For Sale,15117259,Heeresmusikkorps 3,HI-FI German Marches,1958,US,Capitol Records,T-10156,Brass & Military,Military,images/309f095935050bb9.jpeg
@@ -561,8 +897,7 @@ For Sale,11861986,Herb Alpert & The Tijuana Brass,!!Going Places!!,1965,US,A&M R
 For Sale,1181488,Herb Alpert & The Tijuana Brass,Foursider,1973,US,A&M Records,SP-3521,Jazz,Easy Listening,images/7f89b9d741c12d1e.jpeg
 For Sale,28771270,Herb Alpert & The Tijuana Brass,Herb Alpert's Ninth,1967,US,A&M Records,SP 4134,Jazz,Latin Jazz,images/b7ce17263e656f26.jpeg
 For Sale,399022,Herb Alpert & The Tijuana Brass,S.R.O.,1966,US,A&M Records,SP-4119,Jazz,Mariachi,images/b2e9e7d82ff657ca.jpeg
-For Sale,14509487,Herb Alpert & The Tijuana Brass,Sounds Like,1967.0,France,A&M Records,SP 4124,Latin,,images/b1db040ff7ec3933.jpeg
-For Sale,14509487,Herb Alpert & The Tijuana Brass,Sounds Like,1967.0,France,A&M Records,SP 4124,Latin,,images/b1db040ff7ec3933.jpeg
+For Sale,14509487,Herb Alpert & The Tijuana Brass,Sounds Like,1967,France,A&M Records,SP 4124,Latin,,images/b1db040ff7ec3933.jpeg
 For Sale,6050772,Herb Alpert & The Tijuana Brass,South Of The Border,1965,US,A&M Records,ST-90073,Jazz,Latin Jazz,images/d748c0d52b79f019.jpeg
 For Sale,636348,Herb Alpert & The Tijuana Brass,The Beat Of The Brass,1968,US,A&M Records,SP-4146,Jazz,Easy Listening,images/fbbd92f2d80df68b.jpeg
 For Sale,398974,Herb Alpert & The Tijuana Brass,Warm,1969,US,A&M Records,SP-4190,Jazz,Latin Jazz,images/239d7d9679048908.jpeg
@@ -586,10 +921,9 @@ For Sale,11929118,Ian & Sylvia,So Much For Dreaming,1967,US,Vanguard,VSD-79241,"
 For Sale,3520775,Ian & Sylvia,So Much For Dreaming,1968,US,Vanguard,VSD-79241,"Folk, World, & Country",Folk,images/be912e59735761f2.jpeg
 For Sale,12357128,Imelda Miller,Exitos De La Ojiverde,1973,US,Cariño,DBL1 5116,Latin,,images/0bb4dba8a39c93a5.jpeg
 For Sale,14552355,The In Crowd Singers,Will Bronson Presents The In Crowd Singers,1966,US,Solid State Series,SM 17005,Jazz,Easy Listening,images/7b09508feaf1b877.jpeg
-Personal,18836125,Iron Butterfly,In-A-Gadda-Da-Vida,1968,US,ATCO Records,SD 33-250,Rock,Psychedelic Rock,images/5299ea458d8924f2.jpeg
 For Sale,3199006,Irving Berlin,Music Of Irving Berlin,1955,Canada,Columbia Masterworks,CL 768,Jazz,Easy Listening,images/1a8ca1f13557e13f.jpeg
 For Sale,4639339,Isaac Stern,None But The Lonely Heart - Isaac Stern Plays Great Violin Favorites,1963,US,Columbia Masterworks,MS 6496,Classical,Classical,images/ea5f09a34c83defc.jpeg
-For Sale,8931483,Isaac Stern,"Concerto In D Major For Violin And Orchestra, Op. 77",1953.0,US,Columbia Masterworks,ML 4530,Classical,Romantic,images/d9607258d066799e.jpeg
+For Sale,8931483,Isaac Stern,"Concerto In D Major For Violin And Orchestra, Op. 77",1953,US,Columbia Masterworks,ML 4530,Classical,Romantic,images/d9607258d066799e.jpeg
 For Sale,11260850,Isaac Stern,"Symphonie Espagnole In D Minor, Op. 21 / Violin Concerto In G Minor, Op. 26",1956,US,Columbia Masterworks,ML 5097,Classical,Romantic,images/0764967d003d5bcc.jpeg
 For Sale,3539237,Itzhak Perlman,The Easy Winners,1975,Israel,Angel Records,ASD 3075,Jazz,Ragtime,images/69cf7734d540c818.jpeg
 For Sale,1844308,Jack Benny,Remember The Golden Days Of Radio Volume 2,1955,US,Longines Symphonette Society,SY 5184,Non-Music,Political,images/65ecb73f745935e8.jpeg
@@ -601,7 +935,6 @@ For Sale,5569249,Jack Teagarden,Giants Of Jazz - Jack Teagarden,1979,US,Time Lif
 For Sale,5866573,Jack Teagarden,Shades Of Night,1959,US,Capitol Records,ST1143,Jazz,,images/ec76681e5cd85982.jpeg
 For Sale,5515650,Jacqueline François,Les Grandes Chansons (Volume IV),1964,US,Columbia,WL 178,Pop,Chanson,images/59a574a85f10d1e5.jpeg
 For Sale,1500242,James Galway,Annie's Song And Other Galway Favorites,1978,US,RCA Red Seal,ARL1-3061,Stage & Screen,Theme,images/c7245d6704e4181a.jpeg
-Personal,9381003,James Gang,The Best Of The James Gang,1973,US,ABC Records,ABCX-774,Rock,Classic Rock,images/37017eb6fe61b478.jpeg
 For Sale,2992729,James Levine (2),James Levine Plays Scott Joplin,1977,US,RCA Red Seal,ARL1-2243,Jazz,Ragtime,images/9cf1a65113a473d8.jpeg
 For Sale,8144758,Jan Garber And His Orchestra,Everybody Dance,1961,US,Decca,DL 74066,Jazz,Easy Listening,images/6db2a0dd4a6c7a63.jpeg
 For Sale,4060915,Jan Howard,Love Is Like A Spinning Wheel,1972,US,Decca,DL7-5333,"Folk, World, & Country",Country,images/15bcc8d66c361fe9.jpeg
@@ -613,7 +946,7 @@ For Sale,5386235,Jean Shepard,Heart To Heart,1968,US,Capitol Records,ST 2871,"Fo
 For Sale,5386383,Jean Shepard,Here And Now,1971,US,Capitol Records,ST 738,"Folk, World, & Country",Country,images/269a5e0fc5916604.jpeg
 For Sale,3447454,Jean Shepard,Many Happy Hangovers,1966,US,Capitol Records,ST 2547,"Folk, World, & Country",Country,images/738b165dd7e297e6.jpeg
 For Sale,5389962,Jean Shepard,Mercy Ain't Love Good,1976,US,United Artists Records,UA-LA 609-G,"Folk, World, & Country",Country,images/91b72efabedd2c28.jpeg
-For Sale,10804236,Jean Shepard,The Best Of Jean Shepard,1963.0,Canada,Capitol Records,T 1922,"Folk, World, & Country",Country,images/afc560599043aaa7.jpeg
+For Sale,10804236,Jean Shepard,The Best Of Jean Shepard,1963,Canada,Capitol Records,T 1922,"Folk, World, & Country",Country,images/afc560599043aaa7.jpeg
 For Sale,2069247,Jean Shepard,The Best Of Jean Shepard,1963,US,Capitol Records,T 1922,"Folk, World, & Country",Country,images/f75811b69bf2edcc.jpeg
 For Sale,4403952,Jean-Pierre Rampal,Rampal Plays Scott Joplin: The Entertainer / Great Crush Collection,1983,US,CBS,FM 37818,Jazz,Ragtime,images/46f0fe156f277cbd.jpeg
 For Sale,11559495,Jeanette MacDonald,Jeanette MacDonald Sings Songs Of Faith And Inspiration,1963,US,RCA Camden,CAL 750,Classical,Vocal,images/ead39d1f268d6dc7.jpeg
@@ -627,8 +960,6 @@ For Sale,1524091,Jeannie C. Riley,Harper Valley P.T.A.,1968,US,Plantation Record
 For Sale,2453981,Jeannie C. Riley,Jeannie C. Riley's Greatest Hits,1971,US,Plantation Records,PLP-13,"Folk, World, & Country",Country,images/eb178f218c2ed910.jpeg
 For Sale,4465737,Jeannie C. Riley,Sock Soul,1968,US,Little Darlin',SLD-8011,"Folk, World, & Country",Country,images/40cf309a62aaff89.jpeg
 For Sale,11967006,Jeannie C. Riley,Wings To Fly,1979,US,Cross Country (3),R3539,"Folk, World, & Country",Country,images/ab9bc2bd419d6e9b.jpeg
-Personal,8754041,Jefferson Airplane,Surrealistic Pillow,1967,US,RCA Victor,LSP-3766,Rock,Folk Rock,images/b89bff80055446b6.jpeg
-Personal,4193214,Jefferson Starship,Red Octopus,1981,US,Grunt (3),AYL1-3660,Rock,,images/92fb999d2243fd43.jpeg
 For Sale,13812143,Jerome Moross,The Big Country (Original Music From The Motion Picture Sound Track),1958,US,United Artists Records,UAL 40004,"Folk, World, & Country",Soundtrack,images/2b65f46f5063e15a.jpeg
 For Sale,939801,Jerry Lee Lewis,Keeps Rockin',1978,US,Mercury,SRM-1-5010,Rock,Rock & Roll,images/b4d4da224ff0a018.jpeg
 For Sale,11978578,Jerry Lee Lewis,She Still Comes Around (To Love What's Left Of Me),1969,Canada,Smash Records (4),SRS-67112,"Folk, World, & Country",Country,images/84b663447290de77.jpeg
@@ -639,17 +970,6 @@ For Sale,16807068,Jessi Colter,I'm Jessi Colter,1975,US,Capitol Records,ST-11363
 For Sale,993430,Jessi Colter,I'm Jessi Colter,1975,US,Capitol Records,ST-11363,Rock,Country Rock,images/43b201ac5a81d065.jpeg
 For Sale,2059493,Jessi Colter,Jessi,1976,US,Capitol Records,ST 11477,"Folk, World, & Country",Country,images/10c9efcb7407dde4.jpeg
 For Sale,1832314,Jessi Colter,That's The Way A Cowboy Rocks And Rolls,1978,US,Capitol Records,ST-11863,Rock,Country,images/79ecc21e7db45725.jpeg
-Personal,1581622,Jethro Tull,Aqualung,1973,US,Chrysalis,CHR 1044,Rock,Art Rock,images/10ad5bbb4379756e.jpeg
-Personal,7392398,Jethro Tull,Benefit,1973,US,Chrysalis,CHR 1043,Rock,Folk Rock,images/a557bf781cafe4ef.jpeg
-Personal,652122,Jethro Tull,Heavy Horses,1978,US,Chrysalis,CHR-1175,Rock,Folk Rock,images/cc4a15068d268d29.jpeg
-Personal,638209,Jethro Tull,Living In The Past,1972,US,Chrysalis,2CH 1035,Rock,Classic Rock,images/bbd6ca52f17c1cb3.jpeg
-Personal,1583609,Jethro Tull,Minstrel In The Gallery,1975,US,Chrysalis,CHR 1082,Rock,Folk Rock,images/c13149a2bfe95066.jpeg
-Personal,23740058,Jethro Tull,Songs From The Wood,1977,US,Chrysalis,CHR 1132,Rock,Folk Rock,images/748b9276a16269ef.jpeg
-Personal,476177,Jethro Tull,Thick As A Brick,1972,US,Reprise Records,MS 2072,Rock,Classic Rock,images/5262d7d848fa56ab.jpeg
-Personal,1477748,Jethro Tull,This Was,1968,US,Reprise Records,RS 6336,Rock,Blues Rock,images/80410124ce40e9aa.jpeg
-Personal,1901115,Jethro Tull,War Child,1974,US,Chrysalis,CH4 1067,Rock,Prog Rock,images/6f69abc341e25732.jpeg
-Personal,709501,Jim Croce,Life And Times,1973,US,ABC Records,ABCX-769,Rock,Folk Rock,images/7ef4d75dfcd77eb0.jpeg
-Personal,6253271,Jim Croce,You Don't Mess Around With Jim,1972,US,ABC Records,ABCX-756,Rock,Pop Rock,images/770d1c1b30554a45.jpeg
 For Sale,4573887,Jim Ed Brown,Angel's Sunday,1971,US,RCA Victor,LSP-4525,"Folk, World, & Country",Country,images/5ea41ef3880c08a6.jpeg
 For Sale,9071255,Jim Ed Brown,Best Of Jim Ed Brown,1973,Canada,RCA Victor,APL1-0324,"Folk, World, & Country",Country,images/7d29c179d4ef5753.jpeg
 For Sale,4846729,Jim Ed Brown,Evening,1972,US,RCA Victor,LSP- 4713,Pop,Country,images/2c47e91ca9187ce7.jpeg
@@ -682,7 +1002,6 @@ For Sale,14627113,Joan Baez,Joan,1967,US,Vanguard,VSD-79240,Rock,Folk Rock,image
 For Sale,2237517,Joan Baez,Joan,1968,US,Vanguard,VSD-79240,Rock,Folk Rock,images/4fda929d68d2263e.jpeg
 For Sale,683646,Joan Baez,Joan Baez,1960,US,Vanguard,VSD 2077,"Folk, World, & Country",Folk,images/d6b8f1ebdd859286.jpeg
 For Sale,1525318,Joan Baez,Noël,1966,US,Vanguard,VSD 79230,"Folk, World, & Country",Folk,images/5fe3333883d5e9c6.jpeg
-For Sale,1525318,Joan Baez,Noël,1966,US,Vanguard,VSD 79230,"Folk, World, & Country",Folk,images/5fe3333883d5e9c6.jpeg
 For Sale,2455864,Joan Baez,One Day At A Time,1970,US,Vanguard,VSD 79310,"Folk, World, & Country",Folk,images/933da95c53a6b315.jpeg
 For Sale,2597213,Joan Baez,The Best Of Joan Baez,1963,US,Squire Records,SQ 33001,"Folk, World, & Country",Folk Rock,images/b006599745300255.jpeg
 For Sale,2274838,Joan Baez,The Best Of Joan C. Baez,1977,US,A&M Records,SP-4668,"Folk, World, & Country",Folk,images/bbc72f9b33ae8b7d.jpeg
@@ -692,13 +1011,12 @@ For Sale,7881905,Johann Christoph Pepusch,Flute & Guitare,1978,France,Erato,STU 
 For Sale,1853238,Johann Pachelbel,The Pachelbel Canon And Two Suites For Strings / Two Sinfonias And Concerto For Trumpet,1977,US,RCA Red Seal,FRL1-5468,Classical,Baroque,images/e766aa89656dfa17.jpeg
 For Sale,2533811,Johann Sebastian Bach,Brandenburg Concerto No. 2 In F / Brandenburg Concerto No. 3 In G / Hungarian Dances / Finlandia,1955,US,Music Treasures Of The World,MT 19,Classical,Baroque,images/39d77774b50b951c.jpeg
 For Sale,10631375,Johann Strauss Jr.,Strauss Waltzes,1952,US,London Records,LL 685,Classical,Romantic,images/40a7ec65ba96545e.jpeg
-For Sale,15493371,Johann Strauss Jr.,Waltzes & Polkas,1963.0,US,VOX (6),STPL 512.470,Classical,Romantic,images/207b2970dd5e7d8e.jpeg
+For Sale,15493371,Johann Strauss Jr.,Waltzes & Polkas,1963,US,VOX (6),STPL 512.470,Classical,Romantic,images/207b2970dd5e7d8e.jpeg
 For Sale,4733596,Johannes Brahms,The Piano Concerto No. 2 In B Flat,1977,Canada,Funk & Wagnalls,FW-304,Classical,Romantic,images/5b45926993886746.jpeg
-For Sale,15210512,Johannes Brahms,"Violin Concerto In D Major, Op.77",1952.0,US,Classics International,CIS 1817,Classical,,images/f35d32ae5823fb1d.jpeg
-For Sale,10895937,Johannes Brahms,"Symphony No. 4 In E Minor, Opus 98",1972.0,US,Command,CC 11030SD,Classical,Romantic,images/cc915ca69841db3d.jpeg
+For Sale,15210512,Johannes Brahms,"Violin Concerto In D Major, Op.77",1952,US,Classics International,CIS 1817,Classical,,images/f35d32ae5823fb1d.jpeg
+For Sale,10895937,Johannes Brahms,"Symphony No. 4 In E Minor, Opus 98",1972,US,Command,CC 11030SD,Classical,Romantic,images/cc915ca69841db3d.jpeg
 For Sale,5506713,Johannes Brahms,"Symphony No. 4 In E Minor, Op. 98",1955,US,Columbia Masterworks,ML 4472,Classical,Romantic,images/48d699628ab78a3c.jpeg
 For Sale,3170417,Johannes Brahms,"Double Concerto In A Minor For Violin And 'Cello Op. 102 / Variations On A Theme By Haydn, Op. 56a / Tragic Overture, Op. 81",1956,US,Columbia Masterworks,ML 5076,Classical,Romantic,images/75d42e49f89717fe.jpeg
-For Sale,3819314,John Charles Thomas,An Affectionate Recollection,1965,US,RCA Victor,LPV-515,Pop,Opera,images/294e7c4f8d990425.jpeg
 For Sale,3819314,John Charles Thomas,An Affectionate Recollection,1965,US,RCA Victor,LPV-515,Pop,Opera,images/294e7c4f8d990425.jpeg
 For Sale,15640197,John Conlee,Greatest Hits,1983,US,MCA Records,MCA-5405,"Folk, World, & Country",Country,images/e604a92c752eba69.jpeg
 For Sale,2637619,John Conlee,Greatest Hits Volume 2,1985,US,MCA Records,MCA-5642,"Folk, World, & Country",Country,images/5e10f48e166110c0.jpeg
@@ -711,14 +1029,13 @@ For Sale,2129166,John Williams (7),Spanish Guitar,1970,US,Westminster Gold,WGS-8
 For Sale,3630428,John Williams (7),The Virtuoso Guitar,1968,US,Everest,3195,Classical,Baroque,images/87f927c85932e4b4.jpeg
 For Sale,3717244,Johnny Bond,Ten Little Bottles,1965,US,Starday Records,SLP 333,"Folk, World, & Country",Country,images/b2cb077a6e2b3e2a.jpeg
 For Sale,4769600,Johnny Bond,The Best Of Johnny Bond,1969,US,Starday Records,SLP 444,"Folk, World, & Country",Country,images/6679fc3a15f305af.jpeg
-Personal,5240295,Johnny Cash,Born To Sing,1970,US,Longines Symphonette Society,LS 205A,"Folk, World, & Country",Country,images/0460dfab16fb587a.jpeg
-For Sale,6107238,Johnny Horton,Country Style With Billy Barton And Don Hughes,1963.0,US,Crown Records (2),CLP 5290,"Folk, World, & Country",Country,images/344c003d18fd82a8.jpeg
+For Sale,6107238,Johnny Horton,Country Style With Billy Barton And Don Hughes,1963,US,Crown Records (2),CLP 5290,"Folk, World, & Country",Country,images/344c003d18fd82a8.jpeg
 For Sale,2578550,Johnny Horton,Honky-Tonk Man,1962,US,Columbia,CL 1721,Rock,Rockabilly,images/efdc88aea4dda0a3.jpeg
 For Sale,3986293,Johnny Horton,I Can't Forget You,1965,US,Columbia,CL 2299,"Folk, World, & Country",Country,images/b0eeb6dd4588d176.jpeg
 For Sale,2747293,Johnny Horton,Johnny Horton's Greatest Hits,1962,US,Columbia,CL 1596,"Folk, World, & Country",Country,images/5e01c1435f7fc0c2.jpeg
 For Sale,3734124,Johnny Horton,On The Road,1969,US,Columbia,CS 9940,"Folk, World, & Country",Country,images/3015207748a6b3aa.jpeg
-For Sale,11130971,Johnny Horton,The Unforgettable Johnny Horton,1968.0,Canada,Harmony (4),HS 11291,"Folk, World, & Country",Country,images/bd15ca343bf2cc91.jpeg
-For Sale,5573741,Johnny Horton,The Voice Of Johnny Horton,1963.0,US,Hilltop,JM-6012,"Folk, World, & Country",Country,images/bc2a9fc703d625e2.jpeg
+For Sale,11130971,Johnny Horton,The Unforgettable Johnny Horton,1968,Canada,Harmony (4),HS 11291,"Folk, World, & Country",Country,images/bd15ca343bf2cc91.jpeg
+For Sale,5573741,Johnny Horton,The Voice Of Johnny Horton,1963,US,Hilltop,JM-6012,"Folk, World, & Country",Country,images/bc2a9fc703d625e2.jpeg
 For Sale,1531875,Johnny Horton,The World Of Johnny Horton,1971,US,Columbia,G 30884,Rock,Country,images/4bcbda18e57bb053.jpeg
 For Sale,3660776,Johnny Maddox And His Dixie Boys,Dixieland Blues,,US,Dot Records,DLP 25131,Jazz,Ragtime,images/a7ff685751229216.jpeg
 For Sale,2867027,The Johnny Mann Singers,Don't Look Back,1967,US,Liberty,LST-7535,Jazz,Vocal,images/508c829a7b964ebe.jpeg
@@ -728,8 +1045,8 @@ For Sale,17088510,Johnny Mathis,Johnny's Greatest Hits,1962,US,Columbia,CL 1133,
 For Sale,4134897,Johnny Mathis,Merry Christmas,1959,US,Columbia,CS 8021,Pop,Vocal,images/045f114a3c04ffd9.jpeg
 For Sale,2422685,Johnny Mathis,The Sweetheart Tree,1965,US,Mercury,MG 21041,Jazz,,images/e296853ae0126d5b.jpeg
 For Sale,2246719,Johnny Mathis,Wonderful! Wonderful!,1957,US,Columbia,CL 1028,Pop,Vocal,images/ee91b6ed333f761d.jpeg
-For Sale,12251454,Johnny Mathis,Warm,1957.0,US,Columbia,CL 1078,Pop,Ballad,images/8662c11dbe0f777e.jpeg
-For Sale,16585470,Johnny Paycheck,"Greatest Hits, Volume II",1978.0,US,Epic,PE 35623,Rock,Country Rock,images/7687240bac8e81c1.jpeg
+For Sale,12251454,Johnny Mathis,Warm,1957,US,Columbia,CL 1078,Pop,Ballad,images/8662c11dbe0f777e.jpeg
+For Sale,16585470,Johnny Paycheck,"Greatest Hits, Volume II",1978,US,Epic,PE 35623,Rock,Country Rock,images/7687240bac8e81c1.jpeg
 For Sale,5725020,Johnny Prophet,I'm Shooting High,,US,J&P Recording Company,JPS 1001,Jazz,Easy Listening,images/1f7a27e311b35587.jpeg
 For Sale,7502480,Johnny Prophet,This Is My Life,1973,US,JJ Records (7),2266,Jazz,Lounge,images/ce1b8ff895c7f8f3.jpeg
 For Sale,4106142,Johnny Rodriguez (4),All I Ever Meant To Do Was Sing,1973,US,Mercury,SRM-1-686,Pop,Country,images/a54f081582ddf96d.jpeg
@@ -737,39 +1054,35 @@ For Sale,3740324,Johnny Rodriguez (4),My Third Album,1974,US,Mercury,SRM-1-699,"
 For Sale,10381452,Johnny Tillotson,It Keeps Right On A-Hurtin,1962,US,Cadence (2),CLP 3058,Pop,Ballad,images/6b1bfd3399e04e50.jpeg
 For Sale,2172661,The Jonah Jones Quartet,Swingin' On Broadway,1958,US,Capitol Records,T963,Jazz,,images/5895cd34666fa6aa.jpeg
 For Sale,7077109,Joseph Haydn,Surprise Symphony No. 94 In G Major / Drum Roll Symphony No. 103 In E Flat Major,1951,US,Columbia Masterworks,ML 4453,Classical,Classical,images/966834570b0e6ed9.jpeg
-For Sale,9150658,Joshua Rifkin,Piano Rags By Scott Joplin,1970.0,US,Nonesuch,H-71248,Jazz,Ragtime,images/b07d84f87c965935.jpeg
+For Sale,9150658,Joshua Rifkin,Piano Rags By Scott Joplin,1970,US,Nonesuch,H-71248,Jazz,Ragtime,images/b07d84f87c965935.jpeg
 For Sale,15432145,Joshua Rifkin,Piano Rags By Scott Joplin Volume II,1972,UK,Nonesuch,H-71264,Jazz,Ragtime,images/ca4f55f96fe93413.jpeg
-For Sale,15432145,Joshua Rifkin,Piano Rags By Scott Joplin Volume II,1972,UK,Nonesuch,H-71264,Jazz,Ragtime,images/ca4f55f96fe93413.jpeg
-For Sale,5236454,Juca Mestre And His Brasileiros,Panorama Musical Do Brasil,1961.0,Italy,Audio Fidelity,AFSD 5954,Latin,Samba,images/aeb86f1f0697a3a9.jpeg
+For Sale,5236454,Juca Mestre And His Brasileiros,Panorama Musical Do Brasil,1961,Italy,Audio Fidelity,AFSD 5954,Latin,Samba,images/aeb86f1f0697a3a9.jpeg
 For Sale,2133842,The Judds,Why Not Me,1984,US,RCA Victor,AHL1-5319,"Folk, World, & Country",Country,images/b2a5d0aa985561ec.jpeg
 For Sale,2146594,Judy Collins,Wildflowers,1967,US,Elektra,EKS-74012,Rock,Folk Rock,images/7d2b6070c66c185b.jpeg
 For Sale,11168781,Judy Garland,A Star Is Born,1954,US,Columbia,BL 1201,Jazz,Soundtrack,images/b3c108353e633ab0.jpeg
 For Sale,3946780,Judy Garland,I Could Go On Singing,1963,US,Capitol Records,SW 1861,Stage & Screen,Soundtrack,images/c9aef1fdfc37a79e.jpeg
 For Sale,4361441,Judy Garland,Judy At Carnegie Hall - Judy In Person,1961,US,Capitol Records,SWBO 1569,Pop,Ballad,images/92858fdbd94272d7.jpeg
-For Sale,2580963,Judy Garland,The Hits Of Judy Garland,1964.0,US,Capitol Records,ST-1999,Jazz,Vocal,images/c68d90a18e013632.jpeg
+For Sale,2580963,Judy Garland,The Hits Of Judy Garland,1964,US,Capitol Records,ST-1999,Jazz,Vocal,images/c68d90a18e013632.jpeg
 For Sale,9383594,Judy Garland,Lady In The Dark,1953,,Command Performance Records (3),LP-10,Stage & Screen,Musical,images/611e03ce925ced68.jpeg
 For Sale,1659079,Juice Newton,Juice,1981,US,Capitol Records,ST-12136,Rock,Pop Rock,images/a618ed806a8fdc62.jpeg
 For Sale,9461420,Julian Bream,Julian Bream Plays Sonatas,1976,UK,RCA Red Seal,SB 6891,Latin,,images/82fa44a0f02e65b4.jpeg
 For Sale,4954814,Julian Bream,Lute Music From The Royal Courts Of Europe,1967,US,RCA Victor Red Seal,LSC-2924,Classical,Renaissance,images/bbb8034da962580e.jpeg
 For Sale,1628538,Julian Bream,Plays Bach,1970,US,Westminster Gold,WGM-8113,Classical,Baroque,images/512999bf7864e3d1.jpeg
 For Sale,3509675,Julian Bream,The Art Of Julian Bream,1960,US,RCA Victor Red Seal,LSC-2448,Classical,Baroque,images/b4b7105a95308c50.jpeg
-For Sale,28340305,Julian Bream,Sonatas For Lute And Harpsichord,1969.0,Israel,RCA Victor Red Seal,LSC-3100,Classical,Baroque,images/991c17566e45d662.jpeg
-For Sale,13390705,Julie Andrews,Broadway's Fair Julie,1962.0,US,Columbia,CS 8512,Pop,Vocal,images/58b65d2221aa96f7.jpeg
+For Sale,28340305,Julian Bream,Sonatas For Lute And Harpsichord,1969,Israel,RCA Victor Red Seal,LSC-3100,Classical,Baroque,images/991c17566e45d662.jpeg
+For Sale,13390705,Julie Andrews,Broadway's Fair Julie,1962,US,Columbia,CS 8512,Pop,Vocal,images/58b65d2221aa96f7.jpeg
 For Sale,11336431,Justin Tubb,Where You're Concerned,1965,US,RCA Victor,LSP-3399,"Folk, World, & Country",Country,images/9908da9b2fd8b313.jpeg
 For Sale,3571440,Kai Winding,Modern Country,1964,US,Verve Records,V6-8602,Jazz,Country,images/8a7bd5609c30ccff.jpeg
-Personal,15053528,Kansas (2),Leftoverture,1976,US,Kirshner,PZ 34224,Rock,Prog Rock,images/b07de1c7b2f1473f.jpeg
-Personal,4324798,Kansas (2),Song For America,1986,US,Kirshner,PZ 33385,Rock,Prog Rock,images/74ea65b7e0a1ffe8.jpeg
 For Sale,11530646,Karl Goldmark,"""Rustic Wedding"" Symphony, Opus 26",1953,US,Columbia Masterworks,ML 4626,Classical,Romantic,images/b59096a9fb8447c2.jpeg
-For Sale,18036181,Karoly Szenassy And His Zigeuner Band,The Gypsy String Band,1959.0,US,Rondo (2),ST 572,"Folk, World, & Country",Romani,images/72639d346210f7a3.jpeg
+For Sale,18036181,Karoly Szenassy And His Zigeuner Band,The Gypsy String Band,1959,US,Rondo (2),ST 572,"Folk, World, & Country",Romani,images/72639d346210f7a3.jpeg
 For Sale,10911399,Kay Starr,Blue Starr,1957,Canada,RCA Victor,LPM-1549,Jazz,Big Band,images/735b5dd60163af84.jpeg
 For Sale,2849809,Kay Starr,Blue Starr,1957,US,RCA Victor,LPM 1549,Jazz,Vocal,images/4e6047b2707fb284.jpeg
 For Sale,8634830,Kay Starr,In A Blue Mood,1955,US,Capitol Records,T 580,Jazz,,images/0310e7c97ab6e7a6.jpeg
 For Sale,1178156,Kay Starr,Just Plain Country,1962,US,Capitol Records,ST 1795,Pop,Country,images/7e9b1685cb662f44.jpeg
 For Sale,22446628,Kay Starr,Kay Starr Sings,1950.0,US,Parade Records,SPS-604,Pop,Vocal,images/29cd6fb400d5f5bf.jpeg
-For Sale,9530251,Kay Starr,Kay Starr Sings,1963.0,US,Rondo (2),1760,Jazz,Big Band,images/3cb3aeb66caf98f1.jpeg
-For Sale,2226227,Kay Starr,Kay Starr Sings,1963.0,US,Evon,313,Jazz,Vocal,images/ae0dae98365367fc.jpeg
+For Sale,9530251,Kay Starr,Kay Starr Sings,1963,US,Rondo (2),1760,Jazz,Big Band,images/3cb3aeb66caf98f1.jpeg
+For Sale,2226227,Kay Starr,Kay Starr Sings,1963,US,Evon,313,Jazz,Vocal,images/ae0dae98365367fc.jpeg
 For Sale,1178152,Kay Starr,"Losers, Weepers",1960,US,Capitol Records,ST 1303,Jazz,Swing,images/70349ed6f12caa06.jpeg
-For Sale,9668486,Kay Starr,Movin' on Broadway,1960,US,Capitol Records,ST 1374,Jazz,,images/db8d8ff8522349e4.jpeg
 For Sale,9668486,Kay Starr,Movin' on Broadway,1960,US,Capitol Records,ST 1374,Jazz,,images/db8d8ff8522349e4.jpeg
 For Sale,5305508,Kay Starr,One More Time,1960,US,Capitol Records,T1358,Jazz,Vocal,images/472d0cfa7d88169d.jpeg
 For Sale,5441819,Kay Starr,Portrait Of A Starr,1966,US,Sunset Records,SUS-5126,Jazz,Easy Listening,images/481e97fb3beda9d8.jpeg
@@ -778,11 +1091,11 @@ For Sale,13857838,Kay Starr,The Hits Of Kay Starr,1954,US,Capitol Records,T415,J
 For Sale,2849805,Kay Starr,The Hits Of Kay Starr,1954,US,Capitol Records,T 415,Jazz,Big Band,images/d77a56ee5ae9280e.jpeg
 For Sale,7044743,Kay Starr,Singin' Swingin',1956,US,Modern Records (2),LMP-1203,Jazz,Swing,images/82427327254722fb.jpeg
 For Sale,2565881,Kay Starr,Singin' Swingin',1957,US,Crown Records (2),CLP 5003,Jazz,Rhythm & Blues,images/105384b3066bc7df.jpeg
-For Sale,3809200,Ken Griffin (2),Anniversary Songs,1951.0,US,Columbia,CL 586,Jazz,Music Hall,images/c7312c15c8bba6b0.jpeg
+For Sale,3809200,Ken Griffin (2),Anniversary Songs,1951,US,Columbia,CL 586,Jazz,Music Hall,images/c7312c15c8bba6b0.jpeg
 For Sale,4754027,Ken Griffin (2),Cruising Down The River,1958,US,Columbia,CL 761,Jazz,Easy Listening,images/00ad6c25b3c25019.jpeg
 For Sale,4889054,Ken Griffin (2),Latin Americana,1957,US,Columbia,CL 1042,Jazz,Easy Listening,images/8fa3836ec4707815.jpeg
 For Sale,4694336,Ken Griffin (2),Let's Have A Party (And Everybody Sing),1958,US,Columbia,CL 1127,Pop,Easy Listening,images/b47861c48f6a9955.jpeg
-For Sale,26348009,Ken Griffin (2),Lost In A Cloud,1955.0,Canada,Columbia,CL 662,Jazz,Easy Listening,images/3b4788b85582ad38.jpeg
+For Sale,26348009,Ken Griffin (2),Lost In A Cloud,1955,Canada,Columbia,CL 662,Jazz,Easy Listening,images/3b4788b85582ad38.jpeg
 For Sale,9029971,Ken Griffin (2),Moonlight And Roses,1963,Canada,Columbia,CL 1207,Jazz,Easy Listening,images/67d607c8017eeb81.jpeg
 For Sale,4762800,Ken Griffin (2),Moonlight And Roses,1963,US,Columbia,CL 1207,Jazz,Easy Listening,images/877add860b0b93ae.jpeg
 For Sale,1728180,Ken Griffin (2),"Plays Romantic Waltzes For Listening, Dancing, Skating",1959,US,Columbia,CL 1365,Jazz,Easy Listening,images/69861eac04f2d835.jpeg
@@ -790,7 +1103,6 @@ For Sale,4694380,Ken Griffin (2),Remembering,1959,US,Columbia,CL 1289,Pop,Easy L
 For Sale,2655948,Ken Griffin (2),Skating Time,1955,US,Columbia,CL 610,Jazz,Music Hall,images/7cf0fc5d680bce46.jpeg
 For Sale,1865102,Ken Griffin (2),Sweet And Lively,1960,US,Columbia,CL 1411,Jazz,Easy Listening,images/ccdb41b1af0cc4b1.jpeg
 For Sale,4888819,Ken Griffin (2),The Sparkling Touch!,1961,US,Columbia,CL 1709,Jazz,Easy Listening,images/342352f121d22868.jpeg
-For Sale,2514333,The Kendalls,1978 Grammy Award Winners - Best Country Duo,1978,US,Gusto Records (2),GT-0001,"Folk, World, & Country",Country,images/9a81da51b491f5ff.jpeg
 For Sale,2514333,The Kendalls,1978 Grammy Award Winners - Best Country Duo,1978,US,Gusto Records (2),GT-0001,"Folk, World, & Country",Country,images/9a81da51b491f5ff.jpeg
 For Sale,3185481,The Kendalls,Just Like Real People,1979,US,Ovation Records,OV-1739,"Folk, World, & Country",Country,images/b9950abad20242d4.jpeg
 For Sale,9907176,The Kendalls,Leavin' On A Jet Plane,1973,US,Power Pak,PO #216,"Folk, World, & Country",Country,images/9cd74e37da2757c3.jpeg
@@ -818,7 +1130,6 @@ For Sale,2036138,Klaus Und Ferdl,Ein Abend Auf Der Heidi,1973,Germany,Polydor,24
 For Sale,2598123,Lacy J. Dalton,16th Avenue,1982,US,Columbia,FC 37975,"Folk, World, & Country",Country,images/d5349c13d23f2a0a.jpeg
 For Sale,2758675,Lacy J. Dalton,Hard Times,1980,US,Columbia,JC 36763,Blues,Country,images/639e1b5cc523bb36.jpeg
 For Sale,3728023,Lacy J. Dalton,Lacy J. Dalton,1980,US,Columbia,JC 36322,Blues,Country,images/f9f8e6810969c4cc.jpeg
-For Sale,3728023,Lacy J. Dalton,Lacy J. Dalton,1980,US,Columbia,JC 36322,Blues,Country,images/f9f8e6810969c4cc.jpeg
 For Sale,1670776,Laurindo Almeida,Virtuoso Guitar,1977,US,Crystal Clear Records,CCS 8001,Jazz,Bossa Nova,images/d3330cb0d7571add.jpeg
 For Sale,4407359,Laurindo Almeida,Selected Classical Works For Guitar And Flute,1982,US,Concord Concerto,CC-2003,Classical,Contemporary,images/c75a8339a732fb69.jpeg
 For Sale,7766437,Laurindo Almeida,Duets With The Spanish Guitar,1971,US,Angel Records,S-36050,Latin,Modern,images/09004feb5d357225.jpeg
@@ -826,12 +1137,10 @@ For Sale,3606398,Lawrence Welk,Champagne On Broadway,1966,US,Dot Records,DLP 256
 For Sale,5350072,Lawrence Welk,Lawrence Welk Presents Dick Kesner And His Stradivarius Violin,1958,US,Brunswick,BL 754044,Pop,Easy Listening,images/c839054fb6610362.jpeg
 For Sale,5981254,Leo Addeo And His Orchestra,Paradise Regained,1961,US,RCA Victor,LSA-2414,Jazz,Easy Listening,images/5e79b294936c4bb4.jpeg
 For Sale,2901550,Leo Addeo And His Orchestra,The Music Goes 'Round And 'Round,1961,US,RCA Victor,LSA-2353,Jazz,Space-Age,images/907a0b5ac3f3e2fe.jpeg
-For Sale,2901550,Leo Addeo And His Orchestra,The Music Goes 'Round And 'Round,1961,US,RCA Victor,LSA-2353,Jazz,Space-Age,images/907a0b5ac3f3e2fe.jpeg
 For Sale,5651686,Leonard Bernstein,Russian Sailor's Dance And Other Dazzling Dances,1966,Canada,Columbia Masterworks,MS 6871,Classical,Classical,images/0ef58d0acaf9e7e5.jpeg
 For Sale,2880501,Leonard MacClain,Theatre Organ In Hi-Fi,1956,US,Epic,LN 3273,Pop,Easy Listening,images/259b4e73eec566fc.jpeg
-For Sale,6004016,Leonard Pennario,Favorite Classics For Piano,1956.0,US,Angel Records,S-36049,Classical,Romantic,images/2fcf9787932f4a37.jpeg
+For Sale,6004016,Leonard Pennario,Favorite Classics For Piano,1956,US,Angel Records,S-36049,Classical,Romantic,images/2fcf9787932f4a37.jpeg
 For Sale,6189850,Leonardo Leo,Baroque Cello Concerti,1968,US,Turnabout,TV 34236,Classical,Baroque,images/a761e32f1ab3dd4a.jpeg
-Personal,35648059,Leopold Stokowski,Walt Disney's Fantasia,1957,US,Buena Vista Records,101,Classical,Soundtrack,
 For Sale,3780243,Les Brown,Big Bands: Les Brown,1984,US,Time Life Music,STBB-11,Jazz,Big Band,images/8208c9a16b7f300a.jpeg
 For Sale,7941256,Lesley Gore,The Golden Hits Of Lesley Gore,1965,US,Mercury,MG-21024,Pop,Vocal,images/168c0500a474cdc4.jpeg
 For Sale,4080321,Lester Lanin And His Orchestra,Twistin' In High Society,1961,US,Epic,BN 620,Pop,Easy Listening,images/e5cce732a75baea8.jpeg
@@ -840,24 +1149,23 @@ For Sale,4180797,Liberace,Concertos For You,1953,US,Columbia Masterworks,ML 4764
 For Sale,4310458,The Limeliters,More Of Everything,1964,US,RCA Victor,LSP-2844,"Folk, World, & Country",,images/35f2944741618fd5.jpeg
 For Sale,4378502,Linda Ronstadt,Don't Cry Now,1973,US,Asylum Records,SD 5064,Rock,Folk Rock,images/1e6be5a15b810672.jpeg
 For Sale,3236604,Liona Boyd,Miniatures For Guitar,1981,US,CBS Masterworks,M 36732,Classical,Romantic,images/3d3a822a4f98e2d2.jpeg
-Personal,1507420,Little River Band,Greatest Hits,1982,US,Capitol Records,ST 512247,Rock,Pop Rock,images/ae5793eb4bc78bfc.jpeg
 For Sale,9560549,The London Proms Symphony Orchestra,Clair De Lune,1959,US,RCA Victor Red Seal,LM-2326,Classical,Romantic,images/a642772bbf70775f.jpeg
 For Sale,7538117,London Symphonic Band,Bach For Band,1972,US,Columbia Masterworks,MQ 31226,Classical,,images/205ae7b877be6b6e.jpeg
 For Sale,2214108,The Longines Symphonette,Christmas At The Fireside,1966,US,Longines Symphonette Society,none,Jazz,Folk,images/2300c39f22175721.jpeg
 For Sale,8870770,The Longines Symphonette,Folk Songs Of The World,1973,US,Longines Symphonette Society,C4-E5,Classical,Folk,images/730eedc83705cae0.jpeg
 For Sale,5682514,The Longines Symphonette,The Hard-Time '30s,1974,US,Longines Symphonette Society,C - 7 - 3,Jazz,Easy Listening,images/a2d18e84548825b5.jpeg
-For Sale,2140711,The Longines Symphonette,The Sweet Voices Of Christmas,1964.0,US,Longines Symphonette Society,LWS 155,Classical,Holiday,images/c593dc2d4181a468.jpeg
+For Sale,2140711,The Longines Symphonette,The Sweet Voices Of Christmas,1964,US,Longines Symphonette Society,LWS 155,Classical,Holiday,images/c593dc2d4181a468.jpeg
 For Sale,7370953,The Longines Symphonette,The Treasury Of Immortal Solos,1968,US,Longines Symphonette Society,none,Classical,Romantic,images/b9627eba38d2a523.jpeg
-For Sale,12026943,Lou Stein,Honky Tonk Piano,1956.0,US,Mercury,MG 20159,"Folk, World, & Country",Honky Tonk,images/049aa61537d8cbc2.jpeg
+For Sale,12026943,Lou Stein,Honky Tonk Piano,1956,US,Mercury,MG 20159,"Folk, World, & Country",Honky Tonk,images/049aa61537d8cbc2.jpeg
 For Sale,1799130,Louis Armstrong,Giants Of Jazz: Louis Armstrong,1980,US,Time Life Records,STL-J01,Jazz,Big Band,images/d39090354c2f2722.jpeg
 For Sale,1458596,Louis Armstrong,"Hello, Louis!",1965,US,Metro Records,MS 510,Jazz,,images/3c9497cdc1719a28.jpeg
 For Sale,2637776,Louis Armstrong,Mostly Blues,1974,US,Olympic Records (4),7124,Jazz,Dixieland,images/059b6d9baa814c29.jpeg
 For Sale,7264303,Louis Armstrong,Rare Items (1935-1944),1967,US,Decca,DL 79225,Jazz,,images/9ce45fe29e4fb4ae.jpeg
-For Sale,6207592,Louis Armstrong,V.S.O.P. (Very Special Old Phonography) Vol. 6,1961.0,Italy,CBS,62475,Jazz,Dixieland,images/d4567ba6846d98b7.jpeg
+For Sale,6207592,Louis Armstrong,V.S.O.P. (Very Special Old Phonography) Vol. 6,1961,Italy,CBS,62475,Jazz,Dixieland,images/d4567ba6846d98b7.jpeg
 For Sale,3635184,Louis Armstrong,Young Louis Armstrong / 1932-1933,1977,US,Bluebird (3),AXM2-5519,Jazz,Big Band,images/b4d9c1bb8717ef3d.jpeg
 For Sale,2732736,Louis Armstrong,Dixieland Trumpet,,US,Murray Hill Records,930633,Jazz,Dixieland,images/b3877bc562061a57.jpeg
 For Sale,5718899,Louis Armstrong,Louis And The Dukes Of Dixieland,1970,UK,RCA International (Camden),INTS 1146,Jazz,Dixieland,images/e5ceeafdbe04e331.jpeg
-For Sale,25155370,Louis Armstrong And His All-Stars,European Concert Recordings By Ambassador Satch,1956.0,US,Columbia Special Products,CCL 840,Jazz,Dixieland,images/8de08026d1bb1dfe.jpeg
+For Sale,25155370,Louis Armstrong And His All-Stars,European Concert Recordings By Ambassador Satch,1956,US,Columbia Special Products,CCL 840,Jazz,Dixieland,images/8de08026d1bb1dfe.jpeg
 For Sale,9170226,Louis Armstrong And His Orchestra,A Chronological Study Of The Louis Armstrong Orchestra 1935-41 - Volume 6,1969,Australia,Swaggie Records,706,Jazz,,images/5b2eef4f14d6d816.jpeg
 For Sale,4687847,Louis Armstrong And His Orchestra,Town Hall Concert Plus,1957,US,RCA Victor,LPM-1443,Jazz,Dixieland,images/28a03ba46209dfb4.jpeg
 For Sale,4200950,Louis Armstrong,Louis Armstrong & Bing Crosby Live Featuring: Joe Venuti And Jack Teagarden,1972,Italy,Family Records (4),SFR-DP 655,Jazz,Dixieland,images/57076009d8b7bdfd.jpeg
@@ -871,19 +1179,17 @@ For Sale,8648156,Ludwig van Beethoven,Symphonies And Overtures Part One,1972,US,
 For Sale,9705055,Ludwig van Beethoven,Bernstein Conducts Four Great Beethoven Symphonies,1975,US,Columbia Masterworks,D3M 33273,Classical,Romantic,images/cba3cbbd738c437b.jpeg
 For Sale,9299436,Ludwig van Beethoven,Moonlight Sonata / “Les Adieux” / “A Therese” / “Appassionata”,1958,US,Columbia Masterworks,ML 5233,Classical,Classical,images/a9f24518625e0309.jpeg
 For Sale,9788861,Ludwig van Beethoven,"Variations On A Theme By Diabelli, Op. 120",1958,US,Columbia Masterworks,ML 5246,Classical,Classical,images/795b9366d88250e7.jpeg
-For Sale,12063557,Ludwig van Beethoven,"Symphony No. 9 In D Minor, Op. 125 / Symphony No. 1 In C Major, Op. 21",1954.0,US,Music Treasures Of The World,MT 11,Classical,Classical,images/eb08ed2767a11abc.jpeg
+For Sale,12063557,Ludwig van Beethoven,"Symphony No. 9 In D Minor, Op. 125 / Symphony No. 1 In C Major, Op. 21",1954,US,Music Treasures Of The World,MT 11,Classical,Classical,images/eb08ed2767a11abc.jpeg
 For Sale,24263018,Ludwig van Beethoven,"Symphony No. 5 In C Minor, Op. 67 / Symphony No. 8 In B Minor, The ""Unfinished""",1976.0,US,Music Treasures Of The World,MT-12,Classical,,images/0c9013988504da7b.jpeg
-For Sale,3998030,Ludwig van Beethoven,"Symphony No. 6 In F Major, Op. 68 (""Pastorale"")",1955.0,US,Columbia Masterworks,ML 5057,Classical,Romantic,images/a3fe5f462d127497.jpeg
+For Sale,3998030,Ludwig van Beethoven,"Symphony No. 6 In F Major, Op. 68 (""Pastorale"")",1955,US,Columbia Masterworks,ML 5057,Classical,Romantic,images/a3fe5f462d127497.jpeg
 For Sale,1945830,Ludwig van Beethoven,"Symphony No. 3 In E Flat Major, Op. 55  (""Eroica"")",1959,US,Columbia Masterworks,ML 5320,Classical,Romantic,images/2b5753da5dc9e2e6.jpeg
 For Sale,13865717,Ludwig van Beethoven,"Symphony No.6 ""Pastoral""",1977,Canada,Deutsche Grammophon,2531 106,Classical,Romantic,images/46166ba16e562a25.jpeg
 For Sale,10911482,Ludwig van Beethoven,Violin Concerto In D Major,1959,US,Columbia Masterworks,ML 5415,Classical,Romantic,images/c3175a0dad9d1a09.jpeg
 For Sale,23257331,Ludwig van Beethoven,"Emperor Concerto: Concerto No. 5 In E-Flat Major, Op. 73",1956,US,Columbia Masterworks,ML 5100,Classical,Romantic,images/bc2912ea6a17bf03.jpeg
 For Sale,7043659,Ludwig van Beethoven,"Sonata No. 9 (""Kreutzer"") / Sonata No. 1",1960,US,Columbia Masterworks,ML 5453,Classical,Classical,images/c6eb0494684dcc82.jpeg
-Personal,15261934,Lynyrd Skynyrd,(Pronounced 'Lĕh-'nérd 'Skin-'nérd),1980,US,MCA Records,MCA-1685,Rock,Blues Rock,images/b85fd0c6cceafeb0.jpeg
-Personal,802862,Lynyrd Skynyrd,Gold & Platinum,1979,US,MCA Records,MCA2-11008,Rock,Southern Rock,images/870f2d4dcd03f26d.jpeg
 For Sale,5872546,Mac Wiseman,Mac Wiseman Sings 12 Great Hits,1960,US,Dot Records,DLP 3313,"Folk, World, & Country",Bluegrass,images/3148f680c1544fce.jpeg
 For Sale,5036623,Maddox Brothers and Rose,Maddox Brothers And Rose,1962,US,Forum Circle,7G-503,"Folk, World, & Country",Country,images/e31928074b1e23ab.jpeg
-For Sale,5071207,Mahalia Jackson,Silent Night - Songs For Christmas,1962.0,US,Columbia,LE 10165,Jazz,Gospel,images/7f6b58b0e8c2541d.jpeg
+For Sale,5071207,Mahalia Jackson,Silent Night - Songs For Christmas,1962,US,Columbia,LE 10165,Jazz,Gospel,images/7f6b58b0e8c2541d.jpeg
 For Sale,1238549,The Mamas & The Papas,The Mamas & The Papas,1966,US,Dunhill,D-50010,Rock,Pop Rock,images/1ea724ae42014926.jpeg
 For Sale,6042932,Manitas De Plata,Flamenco Guitar,1965,US,Connoisseur Society,SRL 8643,Latin,Flamenco,images/8f6fa81f33ac8e63.jpeg
 For Sale,9017525,Mantovani And His Orchestra,Strauss Waltzes,1959,US,London Records,LL.685,Classical,Classical,images/fff235a4fce362a8.jpeg
@@ -899,18 +1205,15 @@ For Sale,10415320,Mario Lanza,The Mario Lanza Collection,1981,US,RCA Red Seal,CR
 For Sale,5475331,Mario Lanza,The Student Prince,1960,US,RCA Victor Red Seal,LSC-2339,Classical,Opera,images/4584865c4e4c82e6.jpeg
 For Sale,2288373,Mario Lanza,The Vagabond King,1961,US,RCA Victor Red Seal,LM-2509,Classical,,images/0fd94f805d252726.jpeg
 For Sale,2880607,Mario Lanza,The Student Prince,1960,US,RCA Victor Red Seal,LM-2339,Pop,Vocal,images/b6d31606b39465ab.jpeg
-For Sale,2880607,Mario Lanza,The Student Prince,1960,US,RCA Victor Red Seal,LM-2339,Pop,Vocal,images/b6d31606b39465ab.jpeg
 For Sale,3469734,Marjorie McCoy,I Am Marjorie McCoy,1967,US,Viva (3),V-36007,Jazz,Swing,images/a5fe4c7a5a993060.jpeg
 For Sale,1202573,Marlena Shaw,Sweet Beginnings,1977,US,Columbia,PC 34458,Funk / Soul,Soul,images/f08ecc71524ada90.jpeg
 For Sale,3846529,Marlene Dietrich,Songs In German By The Inimitable Dietrich,1964,US,Capitol Records,ST 10397,Pop,Vocal,images/d54e5d4ba3fc337c.jpeg
-Personal,9116932,The Marshall Tucker Band,Carolina Dreams,1977,US,Capricorn Records,CPK 0180,Rock,Southern Rock,images/c3b011080621e298.jpeg
-For Sale,1949437,The Marshall Tucker Band,Together Forever,1978,US,Capricorn Records,CPN 0205,Rock,Country Rock,images/e3947ad34edb9216.jpeg
-For Sale,9219829,Marty Gold and His Orchestra,It's Magic,1961.0,US,RCA Victor,LSA-2290,Jazz,,images/526bb09880300558.jpeg
+For Sale,9219829,Marty Gold and His Orchestra,It's Magic,1961,US,RCA Victor,LSA-2290,Jazz,,images/526bb09880300558.jpeg
 For Sale,2163170,Marty Gold and His Orchestra,It's Magic,1961,US,RCA Victor,LSA-2290,Jazz,,images/d20884694ccac8e4.jpeg
 For Sale,2952993,Marty Robbins,Good 'N Country,1974,US,MCA Records,MCA 421,"Folk, World, & Country",,images/d284d21a694e406c.jpeg
 For Sale,4915533,Marty Robbins,The Drifter,1966,US,Columbia,CS9327,"Folk, World, & Country",Country,images/5e688608a4e96edf.jpeg
 For Sale,8327004,Marvin Miller,Classic Poems of Suspense & Horror,,USA & Canada,Literary Records,LR-6003,Non-Music,Poetry,images/3ba0563e2c393764.jpeg
-For Sale,11886842,Mary Martin,South Pacific,1949.0,US,Columbia Masterworks,OL 4180,Stage & Screen,,images/f09e0377576d41e9.jpeg
+For Sale,11886842,Mary Martin,South Pacific,1949,US,Columbia Masterworks,OL 4180,Stage & Screen,,images/f09e0377576d41e9.jpeg
 For Sale,1294514,Maurice Jarre,Doctor Zhivago (Original Sound Track Album),1965,US,MGM Records,S1E-6ST,Classical,Soundtrack,images/848fa54ff95521a2.jpeg
 For Sale,1722238,Maurice Ravel,"Quartet In F Major / Quartet In G Minor, Opus 10",1958,US,Columbia Masterworks,ML 5245,Classical,Modern,images/2fbb74610f622161.jpeg
 For Sale,4264791,Mauro Giuliani (2),Concertos For Guitar,1967,US,Turnabout,TV 34123S,Classical,Romantic,images/5b45b14eb0b32af3.jpeg
@@ -929,47 +1232,40 @@ For Sale,2428923,Mitch Miller And The Gang,Still More Sing Along With Mitch,1959
 For Sale,4233497,Mitch Miller And The Gang,TV Sing Along With Mitch,1961,US,Columbia,CL 1628,Jazz,,images/67ce37ea8061a667.jpeg
 For Sale,4805530,The Mitchell Trio,Violets Of Dawn,1965,US,Mercury,MG 21067,"Folk, World, & Country",Folk,images/b1438fa370182125.jpeg
 For Sale,2797773,Moe Bandy & Joe Stampley,Just Good Ol' Boys,1979,US,Columbia,JC 36202,"Folk, World, & Country",Country,images/443dc693f20f4605.jpeg
-For Sale,2429284,Mohammed El-Bakkar & His Oriental Ensemble,Port Said - Music Of The Middle East,1957.0,US,Audio Fidelity,AFSD 5833,"Folk, World, & Country",,images/8a2cf915c5f01282.jpeg
-Personal,1765371,Molly Hatchet,Molly Hatchet,1978,US,Epic,JE 35347,Rock,Southern Rock,images/24ae9a8b19824b18.jpeg
+For Sale,2429284,Mohammed El-Bakkar & His Oriental Ensemble,Port Said - Music Of The Middle East,1957,US,Audio Fidelity,AFSD 5833,"Folk, World, & Country",,images/8a2cf915c5f01282.jpeg
 For Sale,5694292,Montanara Chor,Ich Bete An Die Macht Der Liebe,1970,Germany,Polydor,2371 012,"Folk, World, & Country",Volksmusik,images/f4ddc07c8b49a482.jpeg
 For Sale,2891374,Mormon Tabernacle Choir,Beautiful Dreamer: The Favorite Melodies Of Stephen Foster,1967,US,Columbia Masterworks,MS 7149,Classical,Choral,images/aa878ebef78cbb3e.jpeg
 For Sale,3775595,Mormon Tabernacle Choir,Songs Of The North & South 1861-1865,,US,Columbia Masterworks,ML 5659,Classical,Military,images/0f6a74e49667a18b.jpeg
 For Sale,1630330,Mormon Tabernacle Choir,The Spirit Of Christmas: Christmas Carols Sung By The Mormon Tabernacle Choir,1959,US,Columbia Masterworks,MS 6100,Classical,Renaissance,images/2411fd8e30b0d91d.jpeg
-For Sale,24111053,Morton Gould And His Orchestra,Billy The Kid / Rodeo,1958.0,US,RCA Victor Red Seal,LSC-2195,Classical,,images/f905b3a777256d73.jpeg
+For Sale,24111053,Morton Gould And His Orchestra,Billy The Kid / Rodeo,1958,US,RCA Victor Red Seal,LSC-2195,Classical,,images/f905b3a777256d73.jpeg
 For Sale,3927248,Morty Lewis,Wichita Lineman,1969,US,Design Records (2),SDLP-305,Jazz,,images/f27a454eff1805cc.jpeg
-For Sale,7957162,Musikkorps Der 11. Panzer-Grenadier-Division,Wir Singen Und Marschieren,1963,US,Universe Records (6),ULP-560,Brass & Military,Brass Band,images/7ee78500272b082a.jpeg
 For Sale,30092816,Nana Mouskouri,Christmas With Nana Mouskouri,1972,New Zealand,Fontana,6312 033,Pop,Chanson,images/9e04a8fc2b83bd00.jpeg
 For Sale,16251192,Nana Mouskouri,Come With Me,1980,Canada,Grand Records (4),"GLP 80,000",Pop,,images/f3da328996b74fc0.jpeg
 For Sale,11105943,Nana Mouskouri,Die Welt Ist Voll Licht,1976,Germany,Philips,9120 086,Pop,Chanson,images/2705620f5b43da6f.jpeg
-For Sale,15362000,Nana Mouskouri,Greek Songs,1963.0,Netherlands,Fontana,858 101 FPY,"Folk, World, & Country",Volksmusik,images/1537361fa74ba078.jpeg
-For Sale,5265767,Nana Mouskouri,Le Jour Où La Colombe...,1967.0,France,Fontana,6399 017,Pop,Chanson,images/d191cbde74bfd125.jpeg
-For Sale,5265767,Nana Mouskouri,Le Jour Où La Colombe...,1967.0,France,Fontana,6399 017,Pop,Chanson,images/d191cbde74bfd125.jpeg
+For Sale,15362000,Nana Mouskouri,Greek Songs,1963,Netherlands,Fontana,858 101 FPY,"Folk, World, & Country",Volksmusik,images/1537361fa74ba078.jpeg
+For Sale,5265767,Nana Mouskouri,Le Jour Où La Colombe...,1967,France,Fontana,6399 017,Pop,Chanson,images/d191cbde74bfd125.jpeg
 For Sale,6187599,Nana Mouskouri,Nana,1984,US,Mercury,818 622-1 M-1,Pop,,images/d51b78e3dd702ed0.jpeg
 For Sale,6841467,Nana Mouskouri,Nana,1987,US,Philips,832 900-1,Pop,Vocal,images/ba3a267a56c4a028.jpeg
 For Sale,17944891,Nana Mouskouri,Nana Mouskouri - Volume 2,,France,Impact (2),6886 153,Pop,Chanson,images/3c35e956bac0d7b0.jpeg
 For Sale,6222634,Nana Mouskouri,Noël,1985,Greece,Philips,6399 095,Pop,Ballad,images/6a9fcec8292bafb7.jpeg
-For Sale,4901658,Nana Mouskouri,Récital 70,1970.0,France,Fontana,6399 021,Pop,Vocal,images/2a3cece6c0823db6.jpeg
+For Sale,4901658,Nana Mouskouri,Récital 70,1970,France,Fontana,6399 021,Pop,Vocal,images/2a3cece6c0823db6.jpeg
 For Sale,3705760,Nana Mouskouri,Roses & Sunshine,1979,US,Cachet Records,CL 3-3000,Pop,,images/76163cc7d17afef3.jpeg
-For Sale,3705760,Nana Mouskouri,Roses & Sunshine,1979,US,Cachet Records,CL 3-3000,Pop,,images/76163cc7d17afef3.jpeg
-For Sale,6553843,Nana Mouskouri,Song For Liberty,1982,US,Mercury,SRM-1-4049,Jazz,Easy Listening,images/a2ef83fe540867ba.jpeg
 For Sale,6553843,Nana Mouskouri,Song For Liberty,1982,US,Mercury,SRM-1-4049,Jazz,Easy Listening,images/a2ef83fe540867ba.jpeg
 For Sale,29176423,Nana Mouskouri,Song For Liberty,1982,US,Mercury,822 866-1 M-1,Jazz,Easy Listening,images/37677123093a855b.jpeg
 For Sale,6258720,Nana Mouskouri,Songs Of My Land,1966.0,US,Fontana,SRF-67563,Pop,,images/de98b4ef286890c5.jpeg
-For Sale,15366964,Nana Mouskouri,Spotlight On Nana Mouskouri,1973.0,Canada,Fontana,6641 197,Pop,Ballad,images/3f7b2de0b89e97b1.jpeg
+For Sale,11105734,Nana Mouskouri,Spotlight On Nana Mouskouri,1973,Canada,Fontana,6641 197,Pop,Ballad,images/18dbc4d4cf0f62f8.jpeg
 For Sale,18321973,Nana Mouskouri,The Exquisite Nana Mouskouri,1969,UK,Fontana,STL 5536,Latin,Vocal,images/dc1b5d1afaa9701c.jpeg
 For Sale,14280519,Nana Mouskouri,Un Canadien Errant,1967,Canada,Fontana,885.523,Pop,,images/29426d4aeb3ad921.jpeg
 For Sale,1803409,Nancy Ames,Spiced With Brasil,1967,US,Epic,BN 26238,Jazz,Vocal,images/41124058589ac70d.jpeg
 For Sale,1011661,Nancy Wilson,Gentle Is My Love,1965,US,Capitol Records,ST 2351,Jazz,Ballad,images/de7a354343e40905.jpeg
 For Sale,5847884,Nat King Cole,Every Time I Feel The Spirit,1960,US,Capitol Records,W 1249,Funk / Soul,Gospel,images/ae0f983212007855.jpeg
-For Sale,14722243,National Singers,Irish Song Festival,1954.0,US,Halo,50112,"Folk, World, & Country",,images/6aac915bf5f9709b.jpeg
+For Sale,14722243,National Singers,Irish Song Festival,1954,US,Halo,50112,"Folk, World, & Country",,images/6aac915bf5f9709b.jpeg
 For Sale,9845203,Neil Diamond,Beautiful Noise,1976,US,Columbia,PC 33965,Rock,Soft Rock,images/2c9fdaf83b1ee8e2.jpeg
 For Sale,3408503,Neil Diamond,Heartlight,1982,US,Columbia,QC 38359,Rock,Soft Rock,images/1fd08f4eec7a1c10.jpeg
 For Sale,6985594,Neil Diamond,I'm Glad You're Here With Me Tonight,1977,US,Columbia,JC 34990,Pop,Vocal,images/ac3e405d2b1a9a1d.jpeg
 For Sale,1829710,Neil Diamond,Love At The Greek: Recorded Live At The Greek Theatre,1977,US,Columbia,KC2 34404,Rock,Soft Rock,images/9005788a51d64dcd.jpeg
 For Sale,2863828,Neil Diamond,The Jazz Singer (Original Songs From The Motion Picture),1980,US,Capitol Records,SWAV-512120,Rock,Folk Rock,images/2e2a1597035021ac.jpeg
 For Sale,5877403,Neil Diamond,You Don't Bring Me Flowers,1978,US,Columbia,FC 35625,Pop,Vocal,images/aa8678bd74ec359d.jpeg
-Personal,1044287,Neil Young,Harvest,1972,US,Reprise Records,MS 2032,Rock,Folk Rock,images/cf540ff0f2e0a81c.jpeg
-Personal,944143,Neil Young,Rust Never Sleeps,1979,US,Reprise Records,HS 2295,Rock,Acoustic,images/65d65fd1ff6154da.jpeg
 For Sale,5461663,Nelson Eddy,Nelson Eddy Favorites,1959,US,RCA Camden,CAL 492,Pop,Vocal,images/3e4c57692261d39f.jpeg
 For Sale,11466978,Nelson Eddy,Oklahoma!,1956,US,Columbia,CL 828,Stage & Screen,Score,images/18c81332309d9e2e.jpeg
 For Sale,5358371,Nelson Eddy,Songs For Christmas,1951,US,Columbia Masterworks,ML 4442,Pop,Holiday,images/e018ab9fb4a5b2c8.jpeg
@@ -987,7 +1283,7 @@ For Sale,7221860,Nikolai Rimsky-Korsakov,"Scheherazade, Op. 35",1956,US,Columbia
 For Sale,2766424,Nino Rota,Romeo & Juliet,1968,US,Capitol Records,ST 2993,Non-Music,Soundtrack,images/ebf6812eeabcab24.jpeg
 For Sale,8398653,Nitty Gritty Dirt Band,Will The Circle Be Unbroken,1972,US,United Artists Records,UAS-9801,"Folk, World, & Country",Folk,images/4d8440ae6a736f9c.jpeg
 For Sale,345315,No Artist,Environments (New Concepts In Stereo Sound - Disc 1),1970,US,Atlantic,SD 66001,Non-Music,Therapy,images/66fd799085b60d9b.jpeg
-For Sale,345313,No Artist,Environments 3 (Totally New Concepts In Stereo Sound - Disc 3),1971.0,US,Atlantic,SD 66003,Non-Music,Therapy,images/0ad1b50bed92b869.jpeg
+For Sale,345313,No Artist,Environments 3 (Totally New Concepts In Stereo Sound - Disc 3),1971,US,Atlantic,SD 66003,Non-Music,Therapy,images/0ad1b50bed92b869.jpeg
 For Sale,11123453,No Artist,Learn Spanish In Record Time,1958,US,Institute For Language Study,SPA-7001,Non-Music,Education,images/7eadea21f81980a4.jpeg
 For Sale,29682484,Noël Coward,Marlene Dietrich At The Café De Paris,1954,UK,Philips,BBR 8006,Pop,Chanson,images/54eb4429d20bcf42.jpeg
 For Sale,2136832,Norddeutsches Marschorchester,German Band Marches (Old And New),1961,US,Somerset,SF-14300,Brass & Military,Military,images/d39d75cedb60a722.jpeg
@@ -1055,25 +1351,22 @@ For Sale,4043991,The Rampart Street Paraders,"Dixieland, My Dixieland",1956,US,C
 For Sale,27638607,The Rampart Street Paraders,Rampart And Vine,1955,Canada,Columbia,CL 648,Jazz,Dixieland,images/5eeb7530733c689f.jpeg
 For Sale,5741566,The Rampart Street Paraders,Rampart And Vine,1955,US,Columbia,CL 648,Jazz,Dixieland,images/508f2ff446d97121.jpeg
 For Sale,793756,Ravi Shankar,The Sounds Of India,1958,US,Columbia,WL 119,"Folk, World, & Country",Indian Classical,images/427ed70924a3ec42.jpeg
-Personal,2264669,Ray Charles,Greatest Hits,1962,US,ABC-Paramount,ABCS-415,Funk / Soul,Rhythm & Blues,images/7f740d8592ebe1a1.jpeg
 For Sale,3302180,Ray Conniff And The Singers,Jean,1969,US,Columbia,CS 9920,Jazz,Easy Listening,images/a70ebddcefb209f2.jpeg
 For Sale,1537027,Ray Conniff And The Singers,This Is My Song And Other Great Hits,1970,US,Columbia,CS 9476,Jazz,Easy Listening,images/32aa6c61e77e44a4.jpeg
 For Sale,12702317,Ray Martin And His Orchestra,Dynamica,1961,US,RCA Victor,LSA-2287,Jazz,Big Band,images/0dc185ad0c17505b.jpeg
 For Sale,2381218,Ray Martin And His Orchestra,Dynamica,1961,US,RCA Victor,LSA 2287,Jazz,Big Band,images/c4bd7605feb81106.jpeg
 For Sale,2809217,Ray Price,A Tribute To Willie And Kris,1981,US,Columbia,JC 37061,"Folk, World, & Country",,images/bb4cd82ae52f3058.jpeg
 For Sale,3389017,Ray Price,All-Time Greatest Hits,1972,US,Columbia,KG 31364,"Folk, World, & Country",,images/b7608d099ea5f0ab.jpeg
-For Sale,2477803,Ray Price,Another Bridge To Burn,1966.0,US,Columbia Limited Edition,LE 10028,"Folk, World, & Country",Country,images/47ee2352a8d4dea3.jpeg
+For Sale,2477803,Ray Price,Another Bridge To Burn,1966,US,Columbia Limited Edition,LE 10028,"Folk, World, & Country",Country,images/47ee2352a8d4dea3.jpeg
 For Sale,3844617,Ray Price,Danny Boy,1967,US,Columbia,CS 9477,"Folk, World, & Country",Easy Listening,images/ac9c40fa91911aed.jpeg
 For Sale,30843903,Ray Price,For The Good Times,1970,US,Columbia,C 30106,"Folk, World, & Country",,images/98b32946e73e29b0.jpeg
 For Sale,4634267,Ray Price,For The Good Times,1970,US,Columbia,C 30106,"Folk, World, & Country",Country,images/dfda6bc1587aaf88.jpeg
-For Sale,22495187,Ray Price,I Won't Mention It Again,1971.0,Canada,Columbia,C 30510,"Folk, World, & Country",,images/f73a864e28158d80.jpeg
-For Sale,22495187,Ray Price,I Won't Mention It Again,1971.0,Canada,Columbia,C 30510,"Folk, World, & Country",,images/f73a864e28158d80.jpeg
-For Sale,22495187,Ray Price,I Won't Mention It Again,1971.0,Canada,Columbia,C 30510,"Folk, World, & Country",,images/f73a864e28158d80.jpeg
+For Sale,22495187,Ray Price,I Won't Mention It Again,1971,Canada,Columbia,C 30510,"Folk, World, & Country",,images/f73a864e28158d80.jpeg
 For Sale,3604402,Ray Price,I Won't Mention It Again,1971,US,Columbia,C 30510,"Folk, World, & Country",,images/7a5de721908ae793.jpeg
 For Sale,12119691,Ray Price,Make The World Go Away,1970,Canada,Harmony (4),KH 30272,"Folk, World, & Country",Country,images/25f47b2c77abe1fe.jpeg
-For Sale,8700445,Ray Price,Night Life,1963.0,US,Columbia Special Products,P 11511,"Folk, World, & Country",Country,images/3fc5ecfab307deb4.jpeg
+For Sale,8700445,Ray Price,Night Life,1963,US,Columbia Special Products,P 11511,"Folk, World, & Country",Country,images/3fc5ecfab307deb4.jpeg
 For Sale,2068524,Ray Price,Night Life,1963,US,Columbia,CL 1971,"Folk, World, & Country",Country,images/89e49ed576ff94fc.jpeg
-For Sale,4016163,Ray Price,Night Life,1963.0,US,Columbia Limited Edition,LE 10061,"Folk, World, & Country",,images/c2b39acb97275c68.jpeg
+For Sale,4016163,Ray Price,Night Life,1963,US,Columbia Limited Edition,LE 10061,"Folk, World, & Country",,images/c2b39acb97275c68.jpeg
 For Sale,2926550,Ray Price,Ray Price's Greatest Hits,1961,US,Columbia,CL 1566,"Folk, World, & Country",Country,images/d999c1f48acae4a3.jpeg
 For Sale,3389000,Ray Price,She Wears My Ring,1968,US,Columbia,CS 9733,"Folk, World, & Country",Country,images/e4f16345f27f8152.jpeg
 For Sale,6433599,Ray Price,Sings Heart Songs,1957,US,Columbia,CL 1015,"Folk, World, & Country",Country,images/65d1b1c743667a7c.jpeg
@@ -1083,26 +1376,19 @@ For Sale,2979331,Ray Price,The Lonesomest Lonesome,1972,US,Columbia,KC 31546,"Fo
 For Sale,3799263,Ray Price,The Other Woman,1965,US,Columbia,CL 2382,"Folk, World, & Country",Country,images/68650c885356d90e.jpeg
 For Sale,2395088,Ray Price,The Other Woman,,US,Columbia,CS 9182,"Folk, World, & Country",,images/6d09a0f165f59e6b.jpeg
 For Sale,1425651,Ray Price,Welcome To My World,1971,US,Columbia,G 30878,Pop,Country,images/8aa7b3112627cd7a.jpeg
-For Sale,1425651,Ray Price,Welcome To My World,1971,US,Columbia,G 30878,Pop,Country,images/8aa7b3112627cd7a.jpeg
 For Sale,3307162,Ray Price,You Wouldn't Know Love,1970,US,Columbia,CS 9918,"Folk, World, & Country",Country,images/41ab8354d1ce611f.jpeg
 For Sale,4812655,Red Nichols And His Five Pennies,Dixieland Dinner Dance,1960,US,Capitol Records,ST-1297,Jazz,Dixieland,images/834fdb2729fb1a3f.jpeg
-For Sale,31594321,Red Nichols And His Five Pennies,Dixieland Dinner Dance,1960.0,South Africa,Capitol Records,ST 1297,Jazz,Dixieland,images/888e271e73709df5.jpeg
+For Sale,31594321,Red Nichols And His Five Pennies,Dixieland Dinner Dance,1960,South Africa,Capitol Records,ST 1297,Jazz,Dixieland,images/888e271e73709df5.jpeg
 For Sale,2244497,Red Nichols And His Five Pennies,Red Nichols And The Five Pennies At Marineland,1958,US,Capitol Records,ST-1163,Jazz,Dixieland,images/c5037a8766a154c5.jpeg
-For Sale,4135589,Red Nichols And His Five Pennies,Dixieland That's All,1963.0,US,Camay Records,CA 3026S,Jazz,Dixieland,images/18e70d6d72bf92ba.jpeg
+For Sale,4135589,Red Nichols And His Five Pennies,Dixieland That's All,1963,US,Camay Records,CA 3026S,Jazz,Dixieland,images/18e70d6d72bf92ba.jpeg
 For Sale,4264942,Red Sovine,16 All Time Favorites,1977,US,Gusto Records (2),SD 3010,"Folk, World, & Country",,images/fc3949f120087cb3.jpeg
 For Sale,33199605,Red Sovine,Red Sovine,1964,US,Decca,DL 74445,"Folk, World, & Country",Country,images/0c83d5629c6e947f.jpeg
 For Sale,2426039,Redd Foxx,The Best Of Redd Foxx,1972,US,MF Records (2),MF 101,Non-Music,Comedy,images/49a43e9b232600c8.jpeg
 For Sale,7957024,The Regimental Band Of The Scots Guards,Behind The Footlights,1960,US,Angel Records,35790,Brass & Military,,images/07180981cd01679a.jpeg
-For Sale,13383072,Rex Harrison,My Fair Lady,1956.0,US,Columbia Masterworks,OL 5090,Stage & Screen,Musical,images/e4ed629d890bb71f.jpeg
+For Sale,13383072,Rex Harrison,My Fair Lady,1956,US,Columbia Masterworks,OL 5090,Stage & Screen,Musical,images/e4ed629d890bb71f.jpeg
 For Sale,3619094,Richard Tauber,"Vienna, City Of My Dreams",1967,US,Seraphim,60051,Classical,Opera,images/989def62f7a4e839.jpeg
 For Sale,6330058,Richard Tucker (2),Sorrento,1958,US,Columbia Masterworks,ML 5258,Classical,,images/c30c5b36baf68b43.jpeg
-For Sale,5791390,Richard Wagner,Wagner,1958.0,Canada,Epic,LC 3485,Classical,,images/c9eeb9a97f0700c5.jpeg
-Personal,1327321,Rick Wakeman,Journey To The Centre Of The Earth,1974,US,A&M Records,SP-3621,Rock,Prog Rock,images/91c7bf51d66b14f9.jpeg
-Personal,13585870,Rick Wakeman,Rick Wakeman's Criminal Record,1977,US,A&M Records,SP-4660,Rock,Symphonic Rock,images/700c2b42bf619cb9.jpeg
-Personal,7480180,Rick Wakeman,The Myths And Legends Of King Arthur And The Knights Of The Round Table,1975,US,A&M Records,SP-4515,Rock,Prog Rock,images/8550e56cd78df12e.jpeg
-Personal,461547,Rick Wakeman,The Six Wives Of Henry VIII,1973,US,A&M Records,SP-4361,Electronic,Modern Classical,images/ae0d8d86ac94846a.jpeg
-Personal,2459359,Rick Wakeman,White Rock,1977,US,A&M Records,SP-4614,Electronic,Modern Classical,images/a81b7d183bdba8ed.jpeg
-Personal,13777142,Rick Wakeman,No Earthly Connection,1976,US,A&M Records,SP-4583,Rock,Modern Classical,images/52ff31fbc0d8e303.jpeg
+For Sale,5791390,Richard Wagner,Wagner,1958,Canada,Epic,LC 3485,Classical,,images/c9eeb9a97f0700c5.jpeg
 For Sale,12251194,Risë Stevens,The Chocolate Soldier (Abridged),1959,Canada,RCA Victor,LSO-1506,Stage & Screen,Soundtrack,images/591970ddfd386e82.jpeg
 For Sale,611755,Robert Armbruster,The Living Constitution Of The United States,1961,US,Kaydan Records,KR-1001,Non-Music,Radioplay,images/79a71712b6b6716e.jpeg
 For Sale,8347184,Robert Schumann,"Carnaval, Op. 9 / Fantasie In C Major, Op. 17",1956,US,Columbia Masterworks,ML 5146,Classical,Romantic,images/171038c4bc5a9c79.jpeg
@@ -1110,7 +1396,7 @@ For Sale,7836347,Robert Service,Robert Service Recites,1975,US,Bard Of Alaska,BO
 For Sale,1343623,Rod Stewart,The Best Of Rod Stewart,1976,US,Mercury,SRM-2-7507,Rock,Mod,images/4146f1b0e7f8d79c.jpeg
 For Sale,11888472,Rodgers & Hammerstein,Oklahoma,1962,US,Grand Prix Series,K-410,Stage & Screen,Musical,images/2b247327ba17083f.jpeg
 For Sale,5675089,Roger Miller,Dang Me,1964,Canada,Smash Records (4),SRS-67049,"Folk, World, & Country",Country,images/0fa95da8b5d865f5.jpeg
-For Sale,19295761,Roger Miller,The 3rd Time Around,1965.0,US,Smash Records (4),SRS 67068,"Folk, World, & Country",Country,images/8b943a3a9b0f2779.jpeg
+For Sale,19295761,Roger Miller,The 3rd Time Around,1965,US,Smash Records (4),SRS 67068,"Folk, World, & Country",Country,images/8b943a3a9b0f2779.jpeg
 For Sale,2065419,Roger Miller,The Best Of Roger Miller,1971,US,Mercury,SR 61361,"Folk, World, & Country",,images/7e3d3bf004bc4b60.jpeg
 For Sale,6445655,Roger Miller,The Return Of Roger Miller,1965,Canada,Smash Records (4),SRS 67061,"Folk, World, & Country",Country,images/221ee495fe3eade9.jpeg
 For Sale,6447559,Roger Miller,Walkin' In The Sunshine,1967,Canada,Smash Records (4),SRS 67092,"Folk, World, & Country",Country,images/276979e749ee7533.jpeg
@@ -1130,7 +1416,6 @@ For Sale,3626976,Rose Maddox,This Is Rose Maddox,1981,US,Arhoolie Records,5024,"
 For Sale,2613271,Rosemary Clooney,Blue Rose,1956,US,Columbia,CL 872,Jazz,,images/e04bf88fdb629016.jpeg
 For Sale,8161781,Rosemary Clooney,Hollywood Hits,1959,US,Harmony (4),HL 7213,Jazz,Vocal,images/b644c1db39af50c1.jpeg
 For Sale,8055945,Roy Drusky,Greatest Hits Vol 2,1968,US,Mercury,SR 61145,"Folk, World, & Country",,images/7ee68861880739c9.jpeg
-For Sale,4176593,Rudolf Heß,Weihnacht 1936,,Liechtenstein,Documentary Series,DS 377,Non-Music,Political,images/1e11b98129112396.jpeg
 For Sale,4592361,Rudolf Serkin,Piano Concerto No.1 In D Minor,1962,US,Columbia Masterworks,MS 6304,Classical,Romantic,images/88a8c6b5fc931672.jpeg
 For Sale,15662215,Rudolf Serkin,Piano Concerto No. 2,1960,US,Columbia Masterworks,MS 6156,Classical,,images/12bcbb027b12dd87.jpeg
 For Sale,4332237,Rudolf Serkin,Concerto No. 1 In G Minor / Concerto No. 2 In D Minor,1960,US,Columbia Masterworks,MS 6128,Classical,Romantic,images/caa80f6d4b205da2.jpeg
@@ -1142,21 +1427,15 @@ For Sale,7546582,Sabicas,Soul Of Flamenco,1960,US,ABC-Paramount,ABC-339,Latin,Fl
 For Sale,4899188,Sabicas,The Romantic Guitars Of Sabicas And Escudero (From The Pampas To The Rio Grande),1960,US,Decca,DL 78897,Latin,Flamenco,images/21890078dcee37ca.jpeg
 For Sale,21917359,Sammi Smith,As Long As There's A Sunday,1976,Canada,Elektra,7E-1058,"Folk, World, & Country",Country,images/bfb5c5b11452c24c.jpeg
 For Sale,5546706,Sammi Smith,As Long As There's A Sunday,1976,US,Elektra,7E-1058,"Folk, World, & Country",Country,images/24ea4229fce19804.jpeg
-For Sale,21065572,Sammi Smith,Help Me Make It Through The Night,1976.0,US,Zodiac (21),ZLP-5000,"Folk, World, & Country",Country,images/9846035849e3549c.jpeg
+For Sale,21065572,Sammi Smith,Help Me Make It Through The Night,1976,US,Zodiac (21),ZLP-5000,"Folk, World, & Country",Country,images/9846035849e3549c.jpeg
 For Sale,5288141,Sammi Smith,Mixed Emotions,1977,US,Elektra,7E-1108,"Folk, World, & Country",Country,images/34bdb8d9a803fef0.jpeg
-For Sale,3557050,Sammi Smith,New Winds • All Quadrants,1978,US,Elektra,6E137,"Folk, World, & Country",Country,images/d25295f1e4f91709.jpeg
-For Sale,3557050,Sammi Smith,New Winds • All Quadrants,1978,US,Elektra,6E137,"Folk, World, & Country",Country,images/d25295f1e4f91709.jpeg
 For Sale,3557050,Sammi Smith,New Winds • All Quadrants,1978,US,Elektra,6E137,"Folk, World, & Country",Country,images/d25295f1e4f91709.jpeg
 For Sale,3433766,Sammi Smith,Sings Her Best,1976,,Springboard,SPX-6009,"Folk, World, & Country",Country,images/0590ccbc6bab9132.jpeg
 For Sale,12279484,Sammi Smith,The Best Of Sammi Smith,1972,US,Mega (2),M31-1019,Pop,Country,images/d4d845d70414a795.jpeg
 For Sale,9808495,Sammi Smith,The Rainbow In Daddy's Eyes,1974,US,Mega (2),MLPS 601,"Folk, World, & Country",Country,images/f72eca3baccb18f5.jpeg
-For Sale,9808495,Sammi Smith,The Rainbow In Daddy's Eyes,1974,US,Mega (2),MLPS 601,"Folk, World, & Country",Country,images/f72eca3baccb18f5.jpeg
 For Sale,6424484,Sammi Smith,The Very Best Of,1972,US,United Artists Records,UA-LA501-E,"Folk, World, & Country",Folk,images/4ee745fed72afe21.jpeg
 For Sale,4412048,Sammi Smith,Today I Started Loving You Again,1975,US,Mega (2),MLPS-612,"Folk, World, & Country",Country Rock,images/6f72ea9905fa6b0b.jpeg
 For Sale,7271887,The San Domenico Barbers Of Taormina,Mandolino,1958,US,Columbia,WL 116,Classical,,images/dce8e3381cfa0f9e.jpeg
-Personal,22914206,Santana,Abraxas,1970,US,Columbia,KC 30130,Rock,Fusion,images/a88ce1cfc59e2f5e.jpeg
-Personal,737224,Santana,Santana,1969,US,Columbia,CS 9781,Rock,Afro-Cuban,images/ca1295e4bc38faff.jpeg
-Personal,431426,Santana,Santana's Greatest Hits,1974,US,Columbia,PC 33050,Rock,Blues Rock,images/697936dc49cc7005.jpeg
 For Sale,3502305,Scott Joplin,"""The Entertainer"" Classic Ragtime From Rare Piano Rolls",1974,US,Biograph,BLP 1013Q,Jazz,Ragtime,images/3f07935ce6dd8e77.jpeg
 For Sale,1964934,Scott Joplin,1916,1971,US,Biograph,BLP-1006Q,Jazz,Ragtime,images/09cdc1dd5a5f18ca.jpeg
 For Sale,15675082,Scott Joplin,An Evening with Scott Joplin,1971,US,New York Public Library For The Performing Arts,NYPL-SJ,Jazz,Ragtime,images/6ea963d8a7bed125.jpeg
@@ -1165,13 +1444,12 @@ For Sale,4888241,Scott Joplin,Treemonisha (Original Cast Recording),1976,Germany
 For Sale,2473212,Scott Joplin,Palm Leaf Rag,1974,US,Angel Records,S-36074,Jazz,Ragtime,images/39d69f4e5aa9a5d0.jpeg
 For Sale,29511019,Scott Joplin,Piano Rags - Volume III,1974,US,Nonesuch,H-71305,Jazz,Ragtime,images/0e151d38568701eb.jpeg
 For Sale,722342,Scott Joplin,The Red Back Book,1973,US,Angel Records,S-36060,Jazz,Ragtime,images/98c838623c4d5c17.jpeg
-For Sale,722342,Scott Joplin,The Red Back Book,1973,US,Angel Records,S-36060,Jazz,Ragtime,images/98c838623c4d5c17.jpeg
 For Sale,1617786,Seawind,Seawind,1976,US,CTI Records,CTI 5002,Jazz,Soul-Jazz,images/bb661c4cf021f211.jpeg
-For Sale,6732616,Sergei Rachmaninoff,Concerto No. 2,1962.0,US,RCA Victor Red Seal,LSC-2601,Classical,Romantic,images/abe54b0abe77a960.jpeg
-For Sale,3252952,Sergei Vasilyevich Rachmaninoff,Concerto No. 2 / Three Preludes For Piano,1960,US,Columbia Masterworks,MS 6148,Classical,Romantic,images/fc9cca400d6d8da0.jpeg
-For Sale,1604579,Sergei Vasilyevich Rachmaninoff,Concerto No. 3,1959,US,RCA Victor Red Seal,LM-2355,Classical,Romantic,images/c801a4e2775ce73f.jpeg
-For Sale,1604579,Sergei Vasilyevich Rachmaninoff,Concerto No. 3,1959,US,RCA Victor Red Seal,LM-2355,Classical,Romantic,images/c801a4e2775ce73f.jpeg
-For Sale,1840017,Sergei Vasilyevich Rachmaninoff,"Concerto No. 2 In C Minor For Piano And Orchestra / Roumanian Rhapsody No. 1 In A Major, Op. 11",1955,US,Music Treasures Of The World,MT 26,Classical,Romantic,images/12a60ae0c136c556.jpeg
+For Sale,3252952,Sergei Rachmaninoff,Concerto No. 2 / Three Preludes For Piano,1960,US,Columbia Masterworks,MS 6148,Classical,Romantic,images/fc9cca400d6d8da0.jpeg
+For Sale,1604579,Sergei Rachmaninoff,Concerto No. 3,1959,US,RCA Victor Red Seal,LM-2355,Classical,Romantic,images/c801a4e2775ce73f.jpeg
+For Sale,6732616,Sergei Rachmaninoff,Concerto No. 2,1962,US,RCA Victor Red Seal,LSC-2601,Classical,Romantic,images/abe54b0abe77a960.jpeg
+For Sale,1840017,Sergei Rachmaninoff,"Concerto No. 2 In C Minor For Piano And Orchestra / Roumanian Rhapsody No. 1 In A Major, Op. 11",1955,US,Music Treasures Of The World,MT 26,Classical,Romantic,images/12a60ae0c136c556.jpeg
+For Sale,31333906,Sergei Rachmaninoff,"Concerto No. 3 (Actual Carnegie Hall Performance Of May 19, 1958)",1959,Italy,RCA Victor Red Seal,LM 2355,Classical,Classical,images/d5510f1d942cf5ea.jpeg
 For Sale,5480541,The Shadow Radio Program,The Shadow The Lone Ranger Original Radio Broadcasts,1973,US,Mark56 Records,649,Non-Music,Radioplay,images/abcd41b55c9f5009.jpeg
 For Sale,3438399,The Shadow Radio Program,The Shadow (Original Radio Broadcasts),1972,US,Mark56 Records,591,Non-Music,Radioplay,images/65fde4b382bb44ce.jpeg
 For Sale,14070786,Shelly Manne & His Friends,Modern Jazz Performances From The Hit Musical 'My Fair Lady',1956,US,Contemporary Records,C3527,Jazz,Cool Jazz,images/943fff9fb3e09995.jpeg
@@ -1179,7 +1457,6 @@ For Sale,4392278,Shelly Manne & His Friends,Modern Jazz Performances Of Songs Fr
 For Sale,3491765,Shirley Temple,Remember Shirley,1973,US,20th Century Records,T-906,Pop,,images/f8d111768f72c571.jpeg
 For Sale,2928088,Skeeter Davis,Why So Lonely?,1968,US,RCA Victor,LSP-3960,"Folk, World, & Country",Country,images/1d8ab6a3de9a51c5.jpeg
 For Sale,6251676,Slim Whitman,All-Time Favorites,1964,US,Imperial,LP 9252,"Folk, World, & Country",Country,images/15b03fea43617d7e.jpeg
-For Sale,6776181,Slim Whitman,Birmingham Jail And Other Country Favorites,1966,US,RCA Camden,CAS-954(e),Pop,Country,images/ad02e6bcbb75079d.jpeg
 For Sale,6776181,Slim Whitman,Birmingham Jail And Other Country Favorites,1966,US,RCA Camden,CAS-954(e),Pop,Country,images/ad02e6bcbb75079d.jpeg
 For Sale,4189414,Slim Whitman,Country Memories,1967,US,Imperial,LP-12356,"Folk, World, & Country",Country,images/60e260ca44409a09.jpeg
 For Sale,4138835,Slim Whitman,Country Songs / City Hits,1964,US,Imperial,LP-9268,"Folk, World, & Country",Country,images/86a41888ada2c6ba.jpeg
@@ -1190,7 +1467,7 @@ For Sale,4611307,Slim Whitman,More Than Yesterday,1965,US,Imperial,LP 9303,"Folk
 For Sale,7461397,Slim Whitman,Red River Valley,1977,US,United Artists Records,UA-LA752-G,"Folk, World, & Country",Country,images/3a79693d5a1246b5.jpeg
 For Sale,3935521,Slim Whitman,Reminiscing,1965,US,Imperial,LP-12288,"Folk, World, & Country",Country,images/8911ad4f10354d33.jpeg
 For Sale,8435240,Slim Whitman,Sings Annie Laurie,1961,US,Imperial,LP-12077,"Folk, World, & Country",Country,images/d07a34a90e1a2823.jpeg
-For Sale,23827499,Slim Whitman,The Best Of Slim Whitman,1973.0,Canada,Liberty Records (3),LN-10125,Rock,Country Rock,images/891d2e451f47e3f4.jpeg
+For Sale,23827499,Slim Whitman,The Best Of Slim Whitman,1973,Canada,Liberty Records (3),LN-10125,Rock,Country Rock,images/891d2e451f47e3f4.jpeg
 For Sale,5237733,Slim Whitman,The Very Best Of Slim Whitman,1980,US,United Artists Records,LM-1005,Rock,Country,images/0c9eb19b33b998ab.jpeg
 For Sale,3828661,Slim Whitman,Yodeling,1963,US,Imperial,LP-9235,"Folk, World, & Country",Country,images/58dca23b5e22c6c6.jpeg
 For Sale,3126020,Soeur Sourire,The Singing Nun,1963,US,Philips,PCC-203,Pop,Folk,images/ede8503e919b4660.jpeg
@@ -1202,19 +1479,17 @@ For Sale,4275384,Sonny & Cher,Look At Us,1965,US,ATCO Records,33-177,Rock,Soft R
 For Sale,3716539,Sophie Tucker,Her Latest And Greatest Spicy Songs,1964,US,Mercury Wing,MGW 12167,Jazz,Music Hall,images/31c029b73970ea52.jpeg
 For Sale,1809260,Sophie Tucker,The Golden Age Of Sophie Tucker,1976,UK,EMI,GX 41 2533 1,Jazz,Vocal,images/7d83ef41c07515a6.jpeg
 For Sale,8985273,Spiro T. Agnew,The Speeches That Stirred America,1970,US,Podium Records (6),PODIUM 72,Non-Music,Speech,images/0802ccfb6d73d463.jpeg
-For Sale,9005034,Stan Kenton And His Orchestra,Kenton's West Side Story,1961.0,US,Capitol Records,ST 1609,Jazz,Big Band,images/69be81d3e5c8cf73.jpeg
+For Sale,9005034,Stan Kenton And His Orchestra,Kenton's West Side Story,1961,US,Capitol Records,ST 1609,Jazz,Big Band,images/69be81d3e5c8cf73.jpeg
 For Sale,12730332,Stanglwirt Und Familie,Greetings From Tyrol - Grüsse Aus Tirol,,US,Request Records (2),RLPS-8051-ST,"Folk, World, & Country",,images/c8a8b082cc842a2f.jpeg
 For Sale,3022831,The Statler Brothers,10th Anniversary,1980,US,Mercury,SRM-1-5027,"Folk, World, & Country",Country,images/0c42517965090559.jpeg
 For Sale,26351420,The Statler Brothers,Carry Me Back,1973,US,Mercury,SRM-1-676,"Folk, World, & Country",Country,images/d940d824d536da17.jpeg
-For Sale,2819982,The Statler Brothers,Country Music Then And Now,1972,US,Mercury,SR 61367,Non-Music,Country,images/4795eb88b2c492fe.jpeg
-For Sale,26479592,The Statler Brothers,Entertainers...On And Off The Record,1978,US,Mercury,SRM-1-5007,"Folk, World, & Country",Country,images/36172e487744c5ed.jpeg
+For Sale,2819982,The Statler Brothers,Country Music Then And Now,1972,US,Mercury,SR 61367,Non-Music,Country,images/1739c594ae9e4f66.jpeg
 For Sale,26479592,The Statler Brothers,Entertainers...On And Off The Record,1978,US,Mercury,SRM-1-5007,"Folk, World, & Country",Country,images/36172e487744c5ed.jpeg
 For Sale,4225917,The Statler Brothers,"Harold, Lew, Phil & Don",1976,US,Mercury,SRM-1-1077,"Folk, World, & Country",Country,images/57c9b6bb3f5fab92.jpeg
 For Sale,9217356,The Statler Brothers,Innerview,1972,US,Mercury,SR 61358,"Folk, World, & Country",Country,images/8080b2cdf72918f4.jpeg
 For Sale,9404348,The Statler Brothers,Short Stories,1977,Canada,Mercury,SRM-1-5001,"Folk, World, & Country",Country,images/67e4730e3a3508d4.jpeg
 For Sale,3727826,The Statler Brothers,Short Stories,1977,US,Mercury,SRM-1-5001,"Folk, World, & Country",Country,images/195be95a6e8684d9.jpeg
-For Sale,4481683,The Statler Brothers,Sing The Big Hits,1967.0,US,Columbia,CS 9519,"Folk, World, & Country",,images/6163e48126a961c8.jpeg
-For Sale,4481683,The Statler Brothers,Sing The Big Hits,1967.0,US,Columbia,CS 9519,"Folk, World, & Country",,images/6163e48126a961c8.jpeg
+For Sale,4481683,The Statler Brothers,Sing The Big Hits,1967,US,Columbia,CS 9519,"Folk, World, & Country",,images/6163e48126a961c8.jpeg
 For Sale,2865502,The Statler Brothers,The Best Of The Statler Bros. Rides Again Volume II,1979,US,Mercury,SRM1-5024,"Folk, World, & Country",Country,images/6f3a4512167f72a0.jpeg
 For Sale,1109306,The Statler Brothers,The Best Of The Statler Brothers,1975,US,Mercury,SRM-1-1037,"Folk, World, & Country",Country,images/d05f1f0784c740b3.jpeg
 For Sale,2581292,The Statler Brothers,The Country America Loves,1977,US,Mercury,SRM-1-1125,"Folk, World, & Country",Country,images/f3d33093626bc91c.jpeg
@@ -1222,17 +1497,9 @@ For Sale,14269934,The Statler Brothers,The Originals,1979,US,Mercury,SRM-1-5016,
 For Sale,2037676,The Statler Brothers,The Statler Brothers Christmas Card,1978,US,Mercury,SRM-1-5012,"Folk, World, & Country",Country,images/d395d55537cede86.jpeg
 For Sale,5644263,The Statler Brothers,Today,1983,US,Mercury,812 184-1 M-1,"Folk, World, & Country",Country,images/6745645a7d31cfed.jpeg
 For Sale,3824206,The Statler Brothers,Years Ago,1981,US,Mercury,SRM-1-6002,"Folk, World, & Country",Country,images/9868c84893cc60e2.jpeg
-Personal,20766496,Steely Dan,Pretzel Logic,1974,US,ABC Records,ABCD-808,Rock,Soft Rock,images/6d1af65bf6076db3.jpeg
 For Sale,5083372,Stephen Foster,Songs Of Stephen Foster,1974,US,Angel Records,S-36071,"Folk, World, & Country",Folk,images/4e8e48b3752c6bb5.jpeg
-Personal,5936734,Stephen Stills,Stephen Stills,1970,US,Atlantic,SD 7202,Rock,Blues Rock,images/477e567a19f40bf5.jpeg
-Personal,4517615,Stephen Stills,Stephen Stills 2,1971,US,Atlantic,SMAS 93854,Rock,Folk Rock,images/e61bfcde546892c6.jpeg
-Personal,16644195,Stephen Stills,Stephen Stills Live,1975,US,Atlantic,SD 18156,Rock,Folk Rock,images/d07dbaa45f9b5a07.jpeg
 For Sale,3135876,Steve Allen (3),Steve Allen Plays,1959,US,DOT Records,DLP 3161,Jazz,Easy Listening,images/f08697d257c45ffe.jpeg
-Personal,2032967,Steve Howe,Beginnings,1975,US,Atlantic,SD 18154,Rock,Prog Rock,images/cd59d3b61d95c7d0.jpeg
-Personal,266650,Stevie Wonder,Songs In The Key Of Life,1976,US,Tamla,T13-340C2,Jazz,Soul,images/912f8a17d2ad3270.jpeg
-Personal,1510713,The Stranglers,IV Rattus Norvegicus,1977,US,A&M Records,SP-4648,Rock,New Wave,images/3b7ada6803621367.jpeg
 For Sale,3281078,Stuart Hamblen,The Cowboy Church,1973.0,US,Word,WST-8509-LP,Funk / Soul,Gospel,images/b48499bd48285509.jpeg
-Personal,4093727,Sugarhill Gang,Sugarhill Gang,1980,US,Sugar Hill Records,SH245,Hip Hop,Funk,images/1801e7835ee1eeaf.jpeg
 For Sale,3435207,The Supremes,It's Happening!,1970,US,MCA Special Markets,734727,Funk / Soul,Vocal,images/9f9f51f275aa50f7.jpeg
 For Sale,3806656,Susan Raye,I've Got A Happy Heart,1972,US,Capitol Records,ST-875,"Folk, World, & Country",Country,images/d68ec6fd5a8890f3.jpeg
 For Sale,2396672,Sweet Emma,New Orleans' Sweet Emma And Her Preservation Hall Jazz Band,1964.0,US,Preservation Hall,VPS-2,Jazz,Dixieland,images/f2590f0df13ed061.jpeg
@@ -1241,7 +1508,6 @@ For Sale,2028613,Tammy Wynette,Bedtime Story,1972,US,Epic,KE 31285,"Folk, World,
 For Sale,2166168,Tammy Wynette,D-I-V-O-R-C-E,1968,US,Epic,BN 26392,"Folk, World, & Country",Country,images/7b15c4258095a118.jpeg
 For Sale,6990175,Tammy Wynette,Higher Ground,1987,US,Epic,FE 40832,"Folk, World, & Country",Country,images/b5c9e14645f5def1.jpeg
 For Sale,6988046,Tammy Wynette,I Still Believe In Fairy Tales,1975,US,Epic,KE 33582,"Folk, World, & Country",Country,images/89ebde7f51891cc0.jpeg
-For Sale,31649180,Tammy Wynette,Just Tammy,1979,Australia,Epic,ELPS 4000,"Folk, World, & Country",Country,images/e5cab89c3ebb3cbd.jpeg
 For Sale,31649180,Tammy Wynette,Just Tammy,1979,Australia,Epic,ELPS 4000,"Folk, World, & Country",Country,images/e5cab89c3ebb3cbd.jpeg
 For Sale,2339260,Tammy Wynette,Kids Say The Darndest Things,1973,US,Epic,KE 31937,"Folk, World, & Country",Country,images/a717e406ee0b4c35.jpeg
 For Sale,2115810,Tammy Wynette,Let's Get Together,1977,US,Epic,KE 34694,"Folk, World, & Country",,images/6400c5619fd6be39.jpeg
@@ -1257,7 +1523,6 @@ For Sale,26870357,Tammy Wynette,The First Lady,1970.0,US,Epic Records,E 30213,"F
 For Sale,2090348,Tammy Wynette,The First Lady,1970,US,Epic,E 30213,"Folk, World, & Country",Country,images/da04cfba057801a5.jpeg
 For Sale,15759342,Tammy Wynette,The First Songs Of The First Lady,1973,US,Epic,KEG 30358,"Folk, World, & Country",Country,images/b8cf510e4f8ceaae.jpeg
 For Sale,2435748,Tammy Wynette,The First Songs Of The First Lady,1973,US,Epic,KEG 30358,"Folk, World, & Country",Country,images/d3e05f70946c44ce.jpeg
-For Sale,15020999,Tammy Wynette,The Ways To Love A Man,1970,New Zealand,Epic,BN 26519,"Folk, World, & Country",Country,images/60875f0b3d8db444.jpeg
 For Sale,15020999,Tammy Wynette,The Ways To Love A Man,1970,New Zealand,Epic,BN 26519,"Folk, World, & Country",Country,images/60875f0b3d8db444.jpeg
 For Sale,3070375,Tammy Wynette,The Ways To Love A Man,1970,US,Epic,BN 26519,"Folk, World, & Country",Country,images/796f3c171d7d79e7.jpeg
 For Sale,2313399,Tammy Wynette,We Sure Can Love Each Other,1971.0,US,Columbia Limited Edition,LE 10195,"Folk, World, & Country",Country,images/41482bc6bdf342c2.jpeg
@@ -1279,32 +1544,21 @@ For Sale,6258761,Tex Ritter,The Best Of Tex Ritter,1967,US,Capitol Records,DT-25
 For Sale,3387086,Tex Ritter,The Friendly Voice Of Tex Ritter,1965,US,Capitol Records,ST 2402,"Folk, World, & Country",Country,images/4eccde912774379d.jpeg
 For Sale,16026892,Tex Williams,The Best Of Tex Williams,1967,US,Coronet Records,CXS-278,"Folk, World, & Country",Country,images/0a7d66635cef58d8.jpeg
 For Sale,252541,Thelma Houston,The Devil In Me,1977,US,Tamla,T7-358R1,Funk / Soul,Soul,images/6f8f1e3e7ae6e5ee.jpeg
-Personal,2860386,Three Dog Night,Golden Bisquits,1972,US,Dunhill,DSX 50098,Rock,Soft Rock,images/90443a38d2236afa.jpeg
-Personal,28159867,Three Dog Night,Harmony,1971,US,Dunhill,DSX 50108,Rock,Soft Rock,images/1bbbbb98f4c1ab0a.jpeg
-Personal,31838228,Three Dog Night,Naturally,1970,US,ABC/Dunhill Records,DSX 50088,Rock,Psychedelic Rock,images/2c44c5ee4011a3b1.jpeg
-Personal,2677836,Three Dog Night,Suitable For Framing,1969,US,ABC Records,DS-50058,Rock,Soft Rock,images/5029480f654dfc3a.jpeg
 For Sale,11707155,Tom & Jerry (4),Guitar's Greatest Hits,1961,US,Mercury,MG 20626,Rock,Instrumental,images/8743a4badb1f943a.jpeg
 For Sale,1499329,Tom T. Hall,I Wrote A Song About It,1975,US,Mercury,SRM-1-1033,"Folk, World, & Country",Country,images/cb58c7c27888a17f.jpeg
-Personal,13948479,Tommy Bolin,Private Eyes,1976,US,Columbia,C 34329,Rock,Soft Rock,images/9298e320ac6a055f.jpeg
 For Sale,7506598,Tommy Dorsey And His Orchestra,Big Bands: Sentimental Gentleman,1985,US,Time Life Music,STBB-19,Jazz,,images/806b842453a0daa2.jpeg
 For Sale,2477388,Tony Mottola,Close To You,1970,US,Project 3 Total Sound,PR 5050SD,Jazz,Lounge,images/d5ea6f091e22b316.jpeg
 For Sale,3355438,Tony Mottola And His Orchestra,Spanish Guitar,1962,US,Command,RS 841 SD,Jazz,Easy Listening,images/1a294b0e77b20ed4.jpeg
 For Sale,3189290,Tracy Nelson,Tracy Nelson,1974,US,Atlantic,SD 7310,"Folk, World, & Country",Country Rock,images/3614b6d64a96cea0.jpeg
 For Sale,9085550,Tracy Nelson,Poor Man's Paradise,1973,US,Columbia,KC 31759,Rock,Folk Rock,images/27c4bbfa2cd66a84.jpeg
-Personal,4852834,Traffic,John Barleycorn Must Die,1979,US,United Artists Records,UAS 5504,Rock,Folk Rock,images/f0ad0721dd6a594e.jpeg
-Personal,20152924,Traffic,Shoot Out At The Fantasy Factory,1973,US,Island Records,SW-9323,Rock,Prog Rock,images/848c1eba5f79f86c.jpeg
-Personal,25644646,Traffic,The Low Spark Of High Heeled Boys,1971,US,Island Records,SW-9306,Rock,Prog Rock,images/966ad03d82723e28.jpeg
 For Sale,2775580,Trini Lopez,Live At Basin St. East,1964,US,Reprise Records,RS-6134,Pop,,images/efa9e9c64578e42f.jpeg
 For Sale,2793144,Trini Lopez,On The Move,1964,US,Reprise Records,RS-6112,"Folk, World, & Country",,images/6f57bd229843bdc9.jpeg
 For Sale,1831043,Trini Lopez,Trini Lopez At PJ's,1963,US,Reprise Records,R9-6093,Funk / Soul,Rock & Roll,images/6f4cde94a394cac0.jpeg
 For Sale,9549911,Turk Murphy's Jazz Band,New Orleans Shuffle,1957,US,Columbia,CL 927,Jazz,,images/70e71620a86327d1.jpeg
 For Sale,3157048,Unknown Artist,The Astromusical House Of Libra,1969,US,GWP Records,ASTRO 1007,Jazz,,images/40512964b52d773e.jpeg
 For Sale,7837823,Unknown Artist,The History Of Cante Flamenco: An Archive,1974,US,Everest,3366/5,"Folk, World, & Country",Flamenco,images/21a27e16cc6f1d7b.jpeg
-Personal,5222246,Uriah Heep,The Best Of Uriah Heep,1976,US,Mercury,SRM-1-1070,Rock,Psychedelic Rock,images/9da1084bb01819e3.jpeg
-Personal,5208326,Uriah Heep,The Magician's Birthday,1972,US,Mercury,SRM-1-652,Rock,Hard Rock,images/d36b40ef7daf83e6.jpeg
 For Sale,6747367,Van Cliburn,My Favorite Concertos,1971,US,RCA Red Seal,LSC-4014,Classical,,images/2191ff96f7508611.jpeg
 For Sale,4197360,Van Cliburn,My Favorite Encores,1970,US,RCA Red Seal,LSC-3185,Classical,Romantic,images/e81b61ef943f018d.jpeg
-For Sale,31333906,Van Cliburn,"Rachmaninoff - Concerto No. 3 (Actual Carnegie Hall Performance Of May 19, 1958)",1959,Italy,RCA Victor Red Seal,LM 2355,Classical,Classical,images/d5510f1d942cf5ea.jpeg
 For Sale,2998293,Van Cliburn,The World's Favorite Piano Music,1979,US,RCA Red Seal,LSC-3323,Classical,Romantic,images/593599773cb38cb3.jpeg
 For Sale,4484115,Van Cliburn,Two 20th-Century Masterpieces (Sonata No. 6 / Sonata),1971,US,RCA Red Seal,LSC-3229,Classical,Modern,images/401716841b673e68.jpeg
 For Sale,4195322,Van Cliburn,A Romantic Collection,1976,US,RCA Red Seal,ARL1-1176,Classical,Romantic,images/860dddbbe5638fb8.jpeg
@@ -1382,13 +1636,11 @@ For Sale,16231489,Various,"The Sound Of Genius, Volume 3",1962,US,Columbia,GS 10
 For Sale,2211651,Various,The Sound Of Jazz,1958,US,Columbia,CL 1098,Jazz,Big Band,images/4185b4473ed5bdcc.jpeg
 For Sale,10308824,Various,The Sounds Of Spain,1958,US,Columbia,WL 110,Latin,Flamenco,images/d62feb9808835bd5.jpeg
 For Sale,7620800,Various,The Story Of Great Music: The Spanish Style,1967,UK,Time Life Records,STL 149,Classical,Modern,images/42ee3d9fd53a0575.jpeg
-For Sale,7620800,Various,The Story Of Great Music: The Spanish Style,1967,UK,Time Life Records,STL 149,Classical,Modern,images/42ee3d9fd53a0575.jpeg
 For Sale,3322820,Various,The Whistler,1974,US,Radiola,MR-1037,Non-Music,Radioplay,images/bd97128a7e046a93.jpeg
 For Sale,3960414,Various,Them Old Country Songs,1972,US,RCA Special Products,PRS 404,"Folk, World, & Country",Country,images/02833bb4147b1dc5.jpeg
 For Sale,11467812,Various,These Were Our Songs - The Early '40s,1985,US,Reader's Digest,RBA-084/A,Jazz,Easy Listening,images/c6c3d9dc6b44d230.jpeg
 For Sale,1875352,Various,This Is Stereo,1960,US,Liberty,LST 101,Jazz,Easy Listening,images/fe9d154bfad5c1dc.jpeg
 For Sale,7358949,Various,Top 12 Volume III,1957,US,Columbia,CL 1017,Jazz,Easy Listening,images/9021ab33a2d13519.jpeg
-For Sale,10855106,Various,Unforgettable Folk Music From Germany,,US,Mace Records,M10007,"Folk, World, & Country",Folk,images/f018c093c076c15d.jpeg
 For Sale,10855106,Various,Unforgettable Folk Music From Germany,,US,Mace Records,M10007,"Folk, World, & Country",Folk,images/f018c093c076c15d.jpeg
 For Sale,1193497,The Ventures,"The Ventures Play Telstar, The Lonely Bull",1962,US,Dolton Records,BST-8019,Rock,Surf,images/320d673d28ff2732.jpeg
 For Sale,2564122,Vic Damone,On The Street Where You Live: Vic Damone's Best,1965.0,US,Harmony (4),HS 11128,Pop,Ballad,images/0e368c94bcf2e7e0.jpeg
@@ -1405,24 +1657,19 @@ For Sale,4820458,Webb Pierce,Fallen Angel...,1960,US,Decca,DL 4144,"Folk, World,
 For Sale,4036648,Webb Pierce,"Fool, Fool, Fool",1968,US,Decca,DL 74964,"Folk, World, & Country",Country,images/4a468a5d8025e726.jpeg
 For Sale,3207502,Webb Pierce,Just Webb Pierce!,1965,US,Hilltop,JM-6002,"Folk, World, & Country",Country,images/18cc7aa4b99fc6d0.jpeg
 For Sale,3206211,Webb Pierce,Webb Pierce,1966,US,Vocalion (2),VL 73766,"Folk, World, & Country",Country,images/c0a34edf55077a72.jpeg
-Personal,3675449,The Who,Who's Next,1971,US,Decca,DL 79182,Rock,Classic Rock,images/b4ae87f675e2af32.jpeg
 For Sale,28069831,Wiener Rundfunkchor,A Treasury Of German Folksong,1959,Canada,Columbia Masterworks,ML 5344,"Folk, World, & Country",Folk,images/1a700e25b08aa476.jpeg
 For Sale,2785465,Will Glahé Und Sein Orchester,Beer Garden Musik,1957.0,US,London Records,LL 3021,"Folk, World, & Country",Polka,images/b8494dd0770402bb.jpeg
 For Sale,6905928,Will Glahé Und Sein Orchester,Oktoberfest! (Music And Sound Effects Of This Famous Festival),1970,US,London Records,SP 44145,"Folk, World, & Country",Polka,images/81a20730bc0911a5.jpeg
 For Sale,14402384,Winzermusik Weinfelden,In Fröhlicher Runde,,Switzerland,Egolf,EV-30798,"Folk, World, & Country",Volksmusik,images/677271090d38043a.jpeg
-Personal,618971,Wishbone Ash,Live Dates,1973,US,MCA Records,MCA2-8006,Rock,Pop Rock,images/fcc8784a7ff8aa94.jpeg
 For Sale,31464578,Wolfgang Amadeus Mozart,The Piano  Concerto In B Flat,1976,US,Funk & Wagnalls,FW-303,Classical,Classical,images/b64f1faa850f123d.jpeg
 For Sale,8971581,Wolfgang Amadeus Mozart,Concerto No. 3 In G Major For Violin And Orchestra K. 216 / Concerto No. 1 in C Major For Violin And String Orchestra,1957,US,Columbia Masterworks,ML 5248,Classical,Classical,images/ef564a1fcce6ce5f.jpeg
 For Sale,2116312,Wolfgang Amadeus Mozart,"Symphony In G Minor, No. 40 (K.550) /  Symphony In G Major, No. 94",1957,US,Music Treasures Of The World,MT 17,Classical,Classical,images/705b5fdad616c914.jpeg
 For Sale,1631382,Woody Guthrie,Dust Bowl Ballads,1968,US,RCA Victor,LPV 502,"Folk, World, & Country",Folk,images/4b587de7201131b9.jpeg
-For Sale,3780275,Woody Herman,Big Bands: Woody Herman,1984,US,Time Life Music,STBB-09,Jazz,Big Band,images/e4784cd9a781bc7f.jpeg
 For Sale,3780275,Woody Herman,Big Bands: Woody Herman,1984,US,Time Life Music,STBB-09,Jazz,Big Band,images/e4784cd9a781bc7f.jpeg
 For Sale,4897509,Wynn Stewart,Above And Beyond The Call Of Love,1967,US,Hilltop,JS-6050,"Folk, World, & Country",Country,images/4972fb2ae7975cb1.jpeg
 For Sale,2749484,Wynn Stewart,In Love,1968,US,Capitol Records,ST 113,"Folk, World, & Country",Country,images/83a11a95788adca3.jpeg
 For Sale,8328977,Wynn Stewart,Love's Gonna Happen To Me,1967,US,Capitol Records,ST 2849,"Folk, World, & Country",Country,images/9dc3f3b165a462b1.jpeg
 For Sale,7943568,Wynn Stewart,The Songs Of Wynn Stewart,1965,US,Capitol Records,ST 2332,"Folk, World, & Country",Honky Tonk,images/2ef7db0c779582f0.jpeg
 For Sale,3977745,Wynn Stewart,Yours Forever,1969,USA & Canada,Capitol Records,ST 324,"Folk, World, & Country",Country,images/358c0cddbe97dec9.jpeg
-Personal,1009488,Yes,Classic Yes,1981,US,Atlantic,SD 19320,Rock,Prog Rock,images/b269c2894455dcb7.jpeg
-Personal,28586398,Yes,The Yes Album,1971,US,Atlantic,SD 8283,Rock,Prog Rock,images/0b420985d0eb2fe2.jpeg
 For Sale,23747315,Zino Francescatti,Francescatti Plays Kreisler,1958.0,US,Columbia Masterworks,ML 5255,Classical,Romantic,images/6d61fb9546788f26.jpeg
 For Sale,10555331,Zino Francescatti,"Sonata For Violin And Piano, Tzigane (Rapsodie De Concert), Kaddisch (Prayer For The Dead), Pièce En Forme De Habenera, Berceuse",1955.0,Canada,Columbia Masterworks,ML 5058,Classical,,images/f6cdf904c7c3bab8.jpeg
